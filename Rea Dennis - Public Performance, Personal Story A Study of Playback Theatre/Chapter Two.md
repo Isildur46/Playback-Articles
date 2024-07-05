@@ -1,0 +1,224 @@
+# CHAPTER TWO: Presenting Playback Theatre
+
+The story depends on every one of us to come into being. It needs all, needs our remembering, understanding, and creating what we have [experienced] to keep on coming into being.
+
+Trinh (in Somerville 1999, p.111).
+
+The god of dirt
+Came up to me many times and said
+So many wise and delectable things, I lay
+On the grass listening
+To his dog voice,
+Crow voice,
+Frog voice; *now*,
+He said, and *now*,
+And never once mentioned *forever*
+
+Mary Oliver (1986, p.50).
+
+Trinh offers the idea that stories depend on *all* of us to bring them alive. In the poem excerpt from *One of Two Things,* Oliver sings of listening – *now* and that somehow this will be enough.
+
+In this chapter I introduce Playback Theatre, a ritual performance method where together audiences and performers bring personal stories to life, and where people are required to listen, *now*. In the first section of the chapter I recount the genesis and the development of Playback Theatre and the Playback Theatre movement. In the second section, I draw together a number of voices in the Playback Theatre literature to present an account of the form and its values and purpose/s. This includes an explanation of the central position of personal story in the method. In the third section, I elaborate on the practice of Playback Theatre, with emphasis on its application in the community. Ultimately, I critique Playback Theatre scholarship and research, identifying the gaps in the literature and relate this to the focus of this study.
+
+## 2.1 The Development of Playback Theatre
+
+Playback Theatre is an international movement with performing companies in over 20 countries (IPTN, 2001). Emerging in the USA in the mid-1970s, Dauber (1999a) suggests that this distinctive theatre form was responding to a specific cultural need. Salas (1993) states that it was a "response to human need, both individual and social, for the communication and validation of personal experience" (p.1). The idea for the Playback Theatre methodology came from Jonathan Fox (Salas, 1993, Fox, 1994, Fox & Dauber, 1999). Influenced by his own exploration of twentieth century experiential theatre and a fascination with preliterary storytelling and other oral cultural forms, Fox set out to develop a theatre form that espoused values of social justice and valued theatricality – a form that he would want to practice. A chance meeting with the psychodrama method served to crystallise his vision, and the early workings of the Playback Theatre method emerged (Fox, 1999a).
+
+In the first decade, other people[3] joined Fox and co-founder Jo Salas, in an experiential, experimental development process, where practice and reflection were the basis for developing this hybrid performance form. In Australia and New Zealand, early proponents of the form (including some from the psychodrama movement) pursued equally foundational and experimental practice in dialogue with the US founders. Throughout the second decade, the practice and embryonic theorising of Playback Theatre focused on coming to terms with the application and evaluation of the form within the multiple practice arenas Playback Theatre had infiltrated. Significant to this period was the thinking about what is required to effect *good enough*[4] Playback Theatre (Salas, 1993). This decade heralded the establishment of Playback Theatre Companies in the USA, Australia and New Zealand, with expansion into Europe, the UK and Asia.
+
+[3] This group became known as the Original Company (Fox, 1994).
+
+[4] The notion of *good enough* is informed by Bettelheim's idea of good enough parenting (Salas, 1993, p. 30).
+
+The spread of Playback Theatre has been consistent yet contained, with the basic philosophy and methodology transferred through a predominantly oral process, including international gatherings. This approach has served as a form of quality control and risk management. On the eve of the third decade, access to the Playback Theatre method and the international community was advanced through the establishment of a centralised school of instruction and the formation of an international body – the International Playback Theatre Network[5]. These bodies have served to oversee the expansion of the form and to provide regulation (Fox, 1999a). Simultaneously, the first books about Playback Theatre were published[6]. The next section weaves together accounts of the Playback Theatre form, its values and purpose/s.
+
+[5] The International Playback Theatre Network comprises delegates from Playback Theatre Companies from around the world and encourages reflection, discussion and writing about Playback Theatre.
+
+[6] A Playback Theatre methodological guidebook, *Improvising Real Life,* was published in 1993 (Salas, 1993). Fox's documentation of the theory informing the development of the Playback Theatre methodology, *Acts of Service*, was published in 1994 (Fox, 1994).
+
+## 2.2 The Playback Theatre Method
+
+Jo Salas, music therapist and co-founder of Playback Theatre states that from its earliest inception, the scope and purpose of Playback Theatre has been to
+
+Reveal the shapeliness and meaning in any experience, even the ones that are unclear and formless in the telling. [Playback Theatre can] dignify stories with ritual and aesthetic awareness, and link them together so that they form a collective story about a community of people whether the temporary community of a public audience, or a group of people whose lives are connected in an ongoing way. … [Playback Theatre] offers a public arena in which the meaning of individual experience expands to become part of a shared sense of purposeful existence (Salas, 1993, p.22).
+
+In Australian and New Zealand contexts *good enough* has additional meaning drawn from the notion of adequacy fundamental to Moreno's theory of spontaneity (see Karp, 1994).
+
+Salas' explanation alludes to three defining elements of Playback Theatre: personal story (the content), a ritual aesthetic (the form), and the context. Fox (1994) reports that early Playback Theatre audiences included children in their schools, disabled residents at their group home and friends and family in their neighbourhood. It was the early application in places other than theatres, for people other than conventional theatre audiences that differentiated it from other forms of theatre. That these audiences were situated in specific contexts, e.g.,
+
+education/school, rehabilitation/group home, community/neighbourhood, has emerged as a defining aspect of the Playback Theatre method. The contemporary terminology for applications of theatre in such contexts is applied theatre (Taylor 2003).
+
+Three defining frames of applied theatre forms like Playback Theatre are the content, the form and the context. As suggested above, the context frames the process and provides a gateway through which audience members enter the participatory ritualised frame (the form).
+
+The context can act as an initial link among audience members and between audience members and performers. It gives focus, purpose and direction to the performers. Strong identification with the context can contribute to strong engagement in the process, or as Brook (1989) explains, soften up the audience and assist the performers to get the audience "to a state of readiness" (p.127). The second defining aspect is the Playback Theatre form.
+
+This is the ritualised process that both drives and is driven by the audience-performer interaction. In Playback Theatre the form consists of conventions of space, performance and content through participation. An illustration of the Playback Theatre spacial conventions appears in Appendix 1. Performance conventions include the performing roles[7]: actor, conductor and musician, and performance forms, for example fluid sculptures and story scenes[8], and styles, which could be unique to the specific ensemble. (For a description of a Playback Theatre performance see Appendix 2). Hosking & Penny (1998) propose an explanation of Playback Theatre as an interactive performance form:
+
+[7] Playback Theatre performing roles are discussed in Chapter 5. For a full description of the performing roles see Chapters 4-6 in *Improvising Real Life* by Jo Salas (1993) & Chapters 9-11 in *Acts of Service* by Jonathan Fox (1994). See also Good (1986) and Hoesch (1999).
+
+[8] For a full explanation of the technical aspects of the Playback Theatre forms see Chapter 3, *Improvising Real Life* by Jo Salas (1993).
+
+Playback Theatre is spontaneous improvised theatre created through a unique collaboration between performers and audience. Someone tells a story from their life, chooses actors to play the different roles, then watches as their story is immediately recreated and given artistic shape and coherence (Hosking & Penny, 1998, p.10).
+
+While stories are mentioned in this description, Salas highlights the centrality of personal story in the theatre that is created during the performance. She writes:
+
+Audience members … are invited to [tell a story] … guided by the director or
+
+"Conductor," [the teller] casts his or her story from the row of actors. The chosen performers, supported by music and lighting, transform the story into a theatrical scene, using boxes and pieces of cloths as props (Salas in Feldhendler, 1994, p.101)[9].
+
+[9] The Playback Theatre stage is a simple arrangement of instruments and props, with two chairs placed stage left for the teller and conductor; opposite which is a semi-circle of audience chairs. For an example of the simplicity of the Playback Theatre stage see Appendix 1.
+
+Efforts at describing and defining Playback Theatre have been limited due to the difficulty in capturing the ephemeral vitality of live performance in words. Despite his seminal role in developing Playback Theatre, Fox himself claims that the Playback Theatre process is not simple to describe or understand (Fox, 1999a). One reason for this could be its flexibility.
+
+Dauber states that "it can be adapted to many different specific needs … [and] spans the conventional categories of theatre, psychology and education"(Dauber, 1999a, p.116). Salas reports that "it can work in virtually any setting, because by its nature it adapts to the needs and concerns of whoever is present" (Salas, 1993, p.1). Practitioners in New Zealand and Australia (Good, 2003, Hosking & Penny, 2002) write about Playback Theatre as a method of inquiry and dialogue.
+
+Emerging in more recent writing about Playback Theatre are statements about what the form does *not* do. Most notably the fact that it is not message-driven like other applied theatre forms, for example, Boal's (1979) forum theatre, and popular theatre and theatre for development processes. Rather it is a process that is premised on inquiry. In their report on an application of Playback Theatre in the pacific island country of Kiribas, Hosking & Penny propose that Playback Theatre is:
+
+A methodology for the exploration of an issue or concern rather than message driven theatre. [Where a group can work toward] a comprehensive understanding and expression of what is occurring and the underlying social values. [It works at] a level under political motivation [and] may be used to stimulate change, to celebrate achievements, to explore questions, to address conflict and at the same time it will always build connections and strengthen ties within the group and in this way enhance the sense of community (Hosking & Penny, 1998, p.10-11).
+
+Claims such as these provide insight into what some practitioners believe Playback Theatre can achieve. Mock (2002) asserts that researching live performance is difficult. Many of the claims made about Playback Theatre have been based on practitioner reflection and reveal the evolution of practitioners' understandings. In documenting these understandings practitioners have articulated their embodied knowledge or praxis. This is a legacy of the experimental development model and the way in which practice reflection has informed Playback Theatre knowledge to date. Embedded in the descriptions of Playback Theatre is practitioners' sense making with regard to the application of Playback Theatre in a particular context and informed by their personal values, biases and assumptions, and further informed by the values intrinsic to the Playback Theatre form. These values include: honouring diversity, listening, respect, communication through stories, artistry, social interaction and community building (IPTN, 2002). While there is a critical imperative in reflective practice many of the descriptions and explanations of the Playback Theatre form appear somewhat like advocacy.
+
+In recent research, Wright (2003) asserts that the claims made about Playback Theatre in learning and healing applications were probable. That empirical research is only just emerging from the field is discussed later in the chapter.
+
+Fox (1994, 1999a & b) undertook numerous attempts to describe and define Playback Theatre. In the more recent re-presentation of his sense making about Playback Theatre, Fox
+
+![Rea%20Dennis%20-%20Public%20Performance,%20Personal%20Story%20A%20%20aa69f3095310455e95ef906fd8770c9c/image3.png](Rea%20Dennis%20-%20Public%20Performance,%20Personal%20Story%20A%20%20aa69f3095310455e95ef906fd8770c9c/image3.png)
+
+looks at the interaction between ritual, art and social interaction. This results in a simplified framework from which to teach Playback Theatre. The tri-dimensional model incorporating a ritual, an artistic and a social facet is documented as Figure 1. Fox argues that there is an interactive relationship between the three dimensions where at any time one could be dominant. In a 'good' Playback Theatre performance all three must continually balance over the course of the performance. Much of the tension of working in the dialectical flux of these three dimensions is the domain of the conductor. The actor's preoccupation tends toward the balance between the artistic demands of theatre and the social demands of listening or being present (Salas, 1993) as the storyteller performs. Salas (1999) deems that good Playback Theatre requires empathy and intuition in the interpretative enactment of the story and cautions against Playback Theatre that produces "superficial versions of stories told to therapists" (p30).
+
+**Figure 1: Essential Elements of Playback Theatre**
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  | SOCIAL
+INTERACTION Event management Safe atmosphere
+
+Psychological knowledge ART SOCIAL Inclusivity
+INTERACTION Awareness of social issues Explanatory language
+ART
+
+Sense of aesthetic
+
+Expressiveness
+
+Originality
+
+Versatility RITUAL
+
+Teamwork
+
+Story language
+RITUAL
+
+Keeping to rules Ecstatic emotion Transpersonal dimension Goal of transformation Spellbinding language
+ZONE OF GOOD PLAYBACK |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+Fox, (1999a, p.127).
+
+In defining the essential elements of Playback Theatre, Fox gives each – art, ritual and social interaction – a set of qualifiers. Some of the qualifiers in the artistic realm: a sense of aesthetic, teamwork and expressiveness, in the social realm: inclusivity and awareness of social issues, and in the ritual realm: keeping the rules and goal of transformation, are co-operatively enacted by players and audience alike. Fox's model says little about the essential aspect of participation by the audience. This essential interactive basis of the form is perhaps the primary value underpinning the application of Playback Theatre and the thing that most gives relevance to the model Fox proposes (see Figure 1).
+
+Coalesced with the value of participation, is the central place of personal story in the Playback Theatre form. As mentioned earlier, the intersection of personal story and interactive theatre demands strong containment. This is facilitated through the ritualised process where performances are built around the systematic application of basic theatrical devices, simple staging, and consistent shaping by a conductor who primarily uses repetition (of the invitation to tell a story) to build momentum in the process. The method provides a venue to tell stories.
+
+This may be construed as a warm and romantic idea. However, when the word *story* is preceded by the adjective *personal* to yield *personal story* some tension is present in the idea. Add to this the public nature of the telling and you have a form of theatre that is counter-cultural, occupies the margins, and elicits multiple responses. Asha Richard (1999), Germany-based Playback Theatre performer, suggests that such tensions and others arising from the unknown in Playback Theatre are what make it *theatre,* rather than specific artistic criteria. She questions "whether it is artistic theatre, which is not the same as good theatre" (p.115).
+
+By virtue of its methodological structure and its various practical applications, Playback Theatre is a political form of theatre. The political nature of Playback Theatre is derived from the essential postmodern and anti-oppressive nature of the form. Hoesch (1999) reports that "Stories will not be judged or evaluated. Each carries equal weight. Everyone has the right to the teller's chair. A good conductor will invite silent people" (p.63). Thus, postmodern ideas like: personal stories in public places, a public event with an agenda driven by participants, a theatre experience where the audience provides the text, a public meeting where people have a say without being judged, a community dialogue where marginal voices are actively sought, and entertainment that challenges the dominant social narrative are possible within the Playback Theatre performance. While these ideas are inherent in many of the claims made about Playback Theatre, there is also a belief that Playback Theatre is an *act of service* (Fox, 1994) with "citizen actors[10] hearing and enacting stories of their fellow community members" (Bessko, 2000, p.2). This implies that Playback Theatre is a theatre of listening more than a theatre of telling. Hosking (2001) suggests that people who are interested in new experiences come to Playback Theatre and that it is the "being listened too" that counts (p.7). This expands Salas's (1993, 1999) idea that it is the presence of the performers (with their commitment to listening and being there) that constitutes the worth of the Playback Theatre experience. She states:
+
+[10] The citizen actor is intrinsic to the values of Playback Theatre. Fox envisaged an actor who studies and performs Playback Theatre as an avocation, not a career; and who is embedded in an ordinary life in the community in which they live (Salas, 1993). This is made more complex by the artistic stance of the Playback Theatre actor, where they are "present as themselves often relating to the audience between stories in a human way" (Fox, 1999b, p.123).
+
+What helps most of all is simply the example of performers themselves, ordinary people standing up there willing to try anything, willing to be seen. It is a kind of courage and some audience members are inspired to discover it (the courage) in themselves (Salas, 1999, p.154).
+
+And in some small way this describes Playback Theatre: from the simplicity of an ordinary actor "willing to try" to the profoundness of strangers gathered together with a preparedness to listen (Good, 2003), to the complexity of a process contained by a ritual frame where people come out of isolation and see their lives treated as significant (Hosking 2001) and where art evokes beauty so that we may see the truths in the stories of ourselves and others (Fox in Sperling & Fox, 1999).
+
+The artistic endeavours of Playback Theatre may see players minimise the more difficult aspects that have been expressed in a story. In fact, the teller too, may have minimised these in the telling. Zánkay (1999) asserts that for Playback Theatre to succeed it must "show the dynamics of the contravening forces in the story" (p.192). In failing to do so the unexpressed aspects of the story are brought to stage in the next story; and again until there has been adequate listening and an accurate animation of the *intensity* of the experience expressed in the story. In his improvisational practice, theatre experimenter, Peter Brook (1989) found that performance such as this was "exceptionally difficult" and required the actor to accomplish "precise technique". He writes:
+
+[Improvised performance] required specific training and also a great generosity and a capacity for humour. Genuine improvisation, leading up to a real encounter with the audience, only occurs when the spectators feel that they are loved and respected by the actors (Brook, 1989, p.112).
+
+In the mutuality of the Playback Theatre process, where audiences and performers co-create theatre through the dynamic and collaborative vulnerability of performance such real encounters are possible. Through his growing understanding of the particular intimacy that improvised performance demands, Brook recommends that "improvised theatre must go to where people live", to their local neighbourhoods and communities (Brook, 1989, p.112). The next section explores the work of Playback Theatre as community performance.
+
+## 2.3 Playback Theatre as Community Performance
+
+Playback Theatre has been described as a public avenue for celebrating difference and making connections (Salas, 1993). A sense of connections, in addition to belonging and security, has emerged as fundamental to experiences of community in recent scholarship (see Ahmed, 2000, Popple, 1995). Amit (2002) asserts that embracing and celebrating difference is a contemporary purpose of community-based practices. While a popular application of the Playback Theatre method is in a workshop format, in this study, it is the Playback Theatre performance that features. Specifically, it is the one-off community-based event. The placement of Playback Theatre as a performance enables it to maximise the elements of public ritual intrinsic to oral traditions. Fox (1994) states that:
+
+[T]he idea of performance is so important in the oral tradition. For each moment presents a new challenge, to be met with the heightened creativity we associate with a moment on stage (p.92).
+
+In performance the 'unexpected' can arise from the formalised, predictable structure. This can capture audiences and carry them along to the surprise they experience as they listen to the stories or witness the immediacy of the enactment. The open – yet contained – space of the stage beckons the individual and ritualises time (Hosking, 2001). The liberty to invent stimulates imagination and play and elevates the imperfect-ness in the theatre of the playback performance to the level of art. Such improvised performance can be somewhat taboo in a culture that discourages experiences of the unknown and the *public* presentation of something that is likely to oscillate between success and failure as an art product (Fox, 1994). This flirting with the margins of art and culture bring a certain tension to the Playback Theatre form. Yet, over the years, Playback Theatre has found application in multiple contexts. These are discussed next.
+
+The expansion of Playback Theatre across the world occurred simultaneously with the expansion of Playback Theatre into multiple practice sites. Much of this had to do with the diversity, experience and values of people practicing Playback Theatre. Fox (1999a) summarises these contexts into six categories. These were community-based theatre, education, social services, ritual, organisational development and therapy. These six practice sites are explained below.
+
+The Playback Theatre community-based theatre event has often been referred to as a theatre of neighbours. Fox (1999a) suggests that many Playback Theatre Companies conduct open or public performances at regular intervals, in a 'home' theatre, throughout the year. The application of Playback Theatre in education is as both a process instrument providing opportunities for children to express their feelings and see them validated, and has also found application in improving literacy, developing emotional intelligence and building confidence and self-esteem. In the social services sector Playback Theatre has been successfully integrated into practice frameworks as a process that builds cohesion through listening to each others' stories, highlights differences and similarities, and teaches listening and communication skills.
+
+The process and structure of Playback Theatre render it a ritual event in all applications.
+
+Playback Theatre has also found specific ritual application, for example, to open or close conferences or to mark special anniversaries like births and deaths. The reflective function of Playback Theatre has led to it finding relevance in organisational development. It has assisted organisational groups to honour and integrate emotional and spiritual processes like restructures and can ritualise aspects of working life to raise consciousness, grieve, celebrate or effect closure. A popular and consistent application of Playback Theatre has been in the therapeutic domain. Drama and music therapists see value in the way it validates personal stories, while psychodrama practitioners have used it for role training (Fox, 1999a, pp.13-14). The specific Playback Theatre application that features in this study is the one-off community-based performance.
+
+There is a tendency in the Playback Theatre literature to refer to audiences at a specific event as "the community" (see for example, Fox, 1999b, p.116). Salas (1993) writes that Playback Theatre is "community building" (p.1). She suggests that the Playback Theatre performance links stories into "a collective story about a community of people" (p.22). The theory underpinning the thinking about the audience in this way is drawn from sociodrama theory. Sociodrama has been defined as "a deep action method dealing with intergroup relations and collective ideologies" (Fox, 1987, p.18). It is based on:
+
+[The] tacit assumption that the group formed by an audience is already organized by the social and cultural roles which in some degree all the carriers of the culture share … It is therefore incidental who the individuals are, or of whom the group is composed, or how large their number is (Fox, 1987, p.18).
+
+In this way, the audience at the Playback Theatre performance is seen to represent the community from which it is drawn. Used in conjunction with sociometry – an observational and operational method that explores the "inside social structure of a group of people at a particular time" (Fox, 1987, p.24) – a sociodramatic approach assists the conductor to relate to the group as part of a broader context. In this study it is the idea that those who gather at the performance experience a "sense of community" (Salas, 1993, p.33) or share an experience of community that is of interest. This idea of community as an experience equates to Lash's (1994) conception of community as one that seeks shared meanings.
+
+In his examination of non-scripted, pre-literary and oral theatre traditions Fox (1994) identifies a key element of the Playback Theatre experience as its capacity to be both communal and intimate. It is communal in that it has the capacity to connect people through common themes in stories about the neighbourhood and community in which they live, through familiar issues in individual stories, and through the humanity demonstrated both in the stories and in people's attempts at participating. Yet it is intimate as it enables the audience to share personal stories, to experience being listened to and heard, and in some cases experience transformation in witnessing the enactment of their story. Salas (1999) claims that the Playback Theatre performance meets the needs of the individual and the group. Drawing on the sociodramatic idea of the audience outlined above, Good (2003) proposes that Playback Theatre can act as a mirror for the community. I am more inclined to think of it as a window with the one-off Playback Theatre performance revealing a snapshot of the current interests and concerns of the particular community, through the personal stories of the audience.
+
+The 'text' of the Playback Theatre performance, i.e., what gets revealed, shared and discussed, is comprised of what people are prepared to tell. The idea is that the audience members who share stories give an account of a real experience. These stories told from the perspective of the teller constitute the truth from their worldview. Hosking (2001) and others (see for example, Hoesch, 1999) demand that the teller's chair be immune from judgement by performers and audience alike. This makes Playback Theatre unlike Boal's Theatre of the Oppressed where audience members are encouraged to assess actions made by different characters in the story and offer solutions toward overcoming oppression. The improvised nature of the Playback Theatre event means that at any given time anyone can tell a story.
+
+As proposed above, the text of the Playback Theatre performance comes from the audience.
+
+As such, Playback Theatre can be conceived as a series of storytelling performances interspersed with a series of dramatic enactments, within a ritual framework. Each time a teller comes to the stage they are presenting themselves, performing in the way that Goffman (1959) suggests that we do everyday, enacting a familiar and recognisable social practice (Bauman, 1986). With little adjustment, this performance can be elevated to a more theatrical style, but is always enacted in the company of the conductor. This makes the storytelling performance a duet, with the conductor facilitating the teller's performance while simultaneously working to produce and shape the storytelling in the context of the complete performance. The conductor is also in relationship with the ensemble and the audience throughout the storytelling performance. The performance is multi-layered with the teller in "major" during the telling. Major[11] then shifts to the stage where the actors and musician animate the story in an improvised theatrical interpretation. The Playback Theatre performers are required to:
+
+[11] Major is an improvisational concept that denotes where the audience attention is at any given moment. I have seen it used in performance analysis of dance; and I am familiar with its use in the dance composition/improvisation technique, Viewpoints, devised by Anne Bogart (for more on Bogart's work see Bogart (2001) and Dixon & Smith (1995)).
+
+```[F]ulfil the very essence of theatre's intention: to convey human experience by enacting it in distilled form; to embody narrative and meaning in the realm of space and time (Salas, 1999, p.18).```
+
+At the completion of the enactment the actors on stage freeze, holding the final scene, and transfer their gaze to the teller. The gaze of the spectator is again directed to the teller. And so it shifts: back and forward between the audience and the stage, between the individual and the group, and between the tellers and the players. As the teller returns to the group the audience is in major as they recompose themselves and orient to the idea of the next teller. The conductor subtly caresses these shifts throughout the performance.
+
+There is a good deal of interest in the effect of Playback Theatre on the audience participant who tells a personal story. This individual speaks aloud from the group either seated amongst them or on stage alongside the conductor. As suggested above, both sites of telling require the audience participant to assume a more direct performative role in the event. They step out, into the private/public threshold, bringing with them the content that forms the basis of the next dramatic display. While this transition and subsequent participation in the performance is somewhat central to the Playback Theatre method, it is in no way unique in storytelling theatre traditions.
+
+In other narrative contexts (see for example, Bruner, 1986, Sayre, 1989) the storytelling participants are positioned as empowered or liberated, and as witnesses for the group. In Playback Theatre there can be a tendency to position the storytelling participant as vulnerable (see for example, Nash & Rowe 2002). Thinking about the teller in this way can have the effect of skewing the teller's performance toward a therapeutic frame. I am inclined toward a conception of the telling participants as risk-takers. That is not to say the act of telling will not render the teller vulnerable. In fact, like many performative roles vulnerability is central, for it is in the individual's capacity to take risks that we see their truth and their humanity. When they move to tell, they embark on a journey into the unknown possibilities of the performance. In this performance the conductor accompanies them. Penny (2002) asserts that if, in the enactment, the actors match the risks taken by the teller a primary condition for advancing the ritual will be met. He states, "For the actor to advance and deepen the ritual they need a performance courage that matches specifically the courage the teller summoned to tell" (p.7). Experimental theatre technician, Peter Brook (1989) writes about the primacy of risking as an improviser. He asserts that taking "total" risks as a performer enables the ensemble to be influenced by the presence of the people, the context, the pace, and even the time of day (p.118).
+
+In this section I have discussed the notion of Playback Theatre as a community performance ritual. This was achieved through a consideration of the way in which Playback Theatre interacts with the audience as community and in communal ways in a performance context. The notion of performance and the place of story generally, are explored in greater detail in the next chapter. Next, I present a description of the emergence of Playback Theatre scholarship and research.
+
+## 2.4 Playback Theatre Scholarship and Research 
+
+Published works on Playback Theatre include the early works of Fox (1994) and Salas (1983, 1992, 1993, 1994) on the application of Playback Theatre, the artistic elements of Playback Theatre, and good enough Playback Theatre. While these works are necessarily advocating the fit of Playback Theatre to the contemporary world, they make sound attempts to present a thoughtful and critical gaze. In his book *Acts of Service*, Fox presents a comprehensive explanation of the conception of Playback Theatre. Based on his own reflective practice, *Acts of Service* reveals Fox's sense making processes drawing on literary theory, ritual and cultural theory, psychodramatic theory and the history and theory of preliterary theatre. He attempts to document what is required of the specific roles inherent in the form: actor, director, conductor and ensemble. Fox documents the place of language and form in non-scripted theatre and includes his conclusions about how the improvisational process has a contribution to make in educational and social spheres in society. As discussed earlier in the chapter, these have not been isolated reflections but have arisen from an experimental ensemble, where he has been influenced by others, and by the processes that unfolded as they prepared, enacted and cooled down from their performances. Salas' contribution, *Improvising Real Life: Personal story & Playback Theatre*, published a year earlier but developed simultaneously (Dauber, 1999a) is structured like a Playback Theatre handbook. It provides a practical guide to doing Playback Theatre from how a performance could unfold, to the conventional Playback Theatre forms and many applications.
+
+These two texts articulate the ways that Playback Theatre diverges from other oral theatre traditions, from theatre as art or theatre as entertainment, and from psychodrama and various other action methods that have informed Fox and Salas in their formative years (Dauber, 1999a). The two volumes also act like entry texts to the method yet do not stand alone.
+
+Practice-driven writings proliferate and contribute equally to the early sense making, theory building and documentation of the Playback Theatre process, its values and vision, its diverse application, and potential outcomes. There is also writing about artistic style, artistic excellence and the aesthetics of Playback Theatre.
+
+The International Playback Theatre Network publishes a quarterly newsletter, *Interplay*, and convenes biennial international conferences – both providing much needed forums for dialogue and critique. Since its inception, the *Interplay* newsletter has featured practice reflections, theory and concept development based on anecdotal evidence, and performance analysis writings[12]. The publication of the eclectic volume, *Gathering Voices* (Fox & Dauber, 1999), a collection of essays presented at the inaugural Playback Theatre symposium in Kassel, Germany is the most recent contribution to the Playback Theatre writing. A milestone in the movement, Fox (1999a) states that the Kassel Symposium has acknowledged that the early period of experimentation is complete, and has signaled a move toward inviting more rigorous and critical research. Significant, in terms of providing a critical gaze to the mix, is the chapter by Dauber himself. *Tracing the Songlines* (Dauber, 1999a) documents a history of the evolution of Playback Theatre by way of considering biographical information about the founders, Fox & Salas, and examining the inferences therein.
+
+[12] *Interplay* publishes a variety of articles reflecting on Playback Theatre in specific contexts. Some examples of these contexts include: organisations (Hofman, 1997); prisons (Bett, 2000, Southard 2000); housing estates (Murphy, 2001); disability (Day, 1998); mental health (Muckley, 1998); youth (Wynter, 1998); refugee groups (Robb, 2002); and in indigenous communities (Cox, 1996). There is also discussion of the form from various practice frameworks, for example, from a therapeutic perspective (Nash & Rowe 2001, Tselikas 2001, Salas 2000); and in development and social change: (Mills, 1999, Hosking & Fox, 2002).
+
+More recently, there have been papers presented at academic conferences (generally not refereed) and student essays emerging from The School of Playback Theatre's Leadership Module. Conference paper topics have included the application of Playback Theatre in education & training by US academic, Linda Park-Fuller, and Australians, Deborah Pearson and Tarquam McKenna (see Park-Fuller, 1997a, Pearson, 1997, McKenna, 1993). McKenna and Park-Fuller have also published on Playback Theatre as a research method (McKenna, 1999, Park-Fuller, 1997b). An archive of available Playback Theatre writings is currently underway to enable access to these and others papers written about Playback Theatre (see for example Bett, 1999). Specially authored reports on work done with the support of government funding or non-government aid funding have included Hosking & Penny (1998, 1999).
+
+These works represent the documentation of the body of knowledge about the form and practice of Playback Theatre. There is considerable scope for more formal research to be undertaken, a task already underway through the completion of this study, and the imminent completion of further dissertations[13]. Further, the completion of this thesis coincides with the recent launch of a Playback Theatre journal.
+
+[13] Over the course of the research I have learned that there are dissertations underway or near completion. These are by Fe Day in New Zealand (The Application of Playback Theatre in Public Health Education), Nick Rowe in England (*Personal Stories in Public Places*) and Markus Hühn in Germany (title/topic unknown).
+
+Given its rapid development and worldwide expansion, there has been little empirical research undertaken on Playback Theatre. Heinrich Dauber, university professor and Playback Theatre practitioner, contemplates what Playback Theatre research might look like composing what he calls a "(tentative) definition." He writes that
+
+Playback Theatre is both an **individual** as well as a **collective** experience, which on the one hand can only be understood from a **subjective perspective** – i.e., through (individual and collective) self-reflection, and on the other hand can be described from an **objective perspective** as an objective experience of a theatre performance in a particular social context (bold in original, p.159).
+
+This provides another way of thinking about the dimensions of Playback Theatre elucidating the content dimension in addition to those of art, social, and ritual nominated earlier in Fox's model (see Figure 1). Dauber offers a qualification of each dimension (see Figure 2) by means of defining the perspective informing each and proposing congruent questions for research. In his critique, Dauber proposes four possible research foci: the storyteller's experiences, the artistic endeavours of the form, the aesthetic of the ritual performance, and/or the socio-political context. Drawing from the earlier discussion about Playback Theatre as an unconventional and applied theatre approach, the research could focus on the content, the form and/or the context. This study recognises the interaction of these three dimensions as integral to an experience of Playback Theatre.
+
+**Figure 2: Four Dimensions for Research**
+
+| DIMENSION | RESEARCH QUESTION |
+| --- | --- |
+| Content dimension – individually subjective perspective | What does Playback Theatre achieve, or how does it work from the perspective of the storyteller? |
+| Artistic dimension – individually objective dimension | What makes a performance artistically effective? |
+| Ritualistic dimension – collectively subjective dimension | What does Playback Theatre achieve or how does it work in regard to the ritual interaction between the storyteller, conductor, players and audience? |
+| Social dimension – collectively objective dimension | What effect does Playback Theatre have on the audience, the performing Company and on the social context in which it is embedded? |
+
+(Dauber, 1999b, pp.159-162).
+
+The four spheres Dauber names are also mutually interactive. The Playback Theatre performance is layered and complex for audience members. Bharucha (1993) asserts that researching any performance demands a consideration of the contexts in which it occurs. The complexities of researching a Playback Theatre performance occur on multiple levels. As Dauber states, the pluralistic nature of Playback Theatre makes the task of researching effectiveness difficult (Dauber, 1999b, p.161). This study does not set out to measure effectiveness, rather it investigates the Playback Theatre performance through the experiences of the audience.
+
+## 2.5 Summary
+
+This chapter has charted the development of Playback Theatre from the early experimentation by The Original Company in upstate New York, USA, through the international expansion and the establishment of various elements of regulation, to the emergence of a more critical phase in which research such as this thesis now features. I have presented the philosophical underpinnings and integral values of the form and sketched the practice applications that have emerged. The dimensions of the Playback Theatre method have been acknowledged in relation to general applied theatre methods and the specific aspects identified in Playback Theatre theory - art, ritual and social interaction. An exploration of the many applications of Playback Theatre has assisted me to articulate the complex nature of the interactive purposes of this hybrid form in the community arena.
+
+The final section discusses Playback Theatre scholarship and research with particular emphasis on the multiple levels at which Playback Theatre operates and the complexities of researching performance. The chapter argues that theory and knowledge about Playback Theatre has ostensibly been developed through practitioner reflection in the tradition of an oral culture. In undertaking this study, I aim to extend the knowledge and scope of understanding about Playback Theatre within the academic domain.
