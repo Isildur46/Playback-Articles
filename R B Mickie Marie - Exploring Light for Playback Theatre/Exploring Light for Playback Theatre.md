@@ -90,15 +90,15 @@ As the troupe continued to meet and consider the integration of lighting into th
 
 The exercises then evolved from having one actor use the flashlight on themselves, to partnered work in which one actor would shine the flashlight on the other. The parameter for this exercise was that they were not allowed to discuss their intentions with their partner, but rather were trying to listen and react to what the actor of the pair was doing. We then evolved that exercise to be a trio, one actor and two people with flashlights. These early explorations added varying levels of complexity to the warm ups and forced the troupe to develop a vocabulary and method for these different parts. When the troupe was in pairs or trios, the people with the flashlights who were more supportive of the actor were referred to as “*auxiliaries*”. When working as pairs or trios, one of the recurring complexities of these exercises was how to start and end the moment. Does the actor begin, and the auxiliaries follow? How do the auxiliaries know when the actor is finished with the moment? What do the auxiliaries do when the moment is over? All these questions occurred numerous times, and eventually the troupe evolved a methodology and a consistent “*language*” for the lighting. The evolution of this particular methodology saw the auxiliaries get into place first, then when the actor saw they were set, the actor would step into the space to begin the scene. The auxiliaries would use their flashlights to either light the actor in a traditional sense, or sometimes they would use the light more representationally. The actor would progress through their scene, and when they were done, there would be a moment of stillness. At the moment of stillness, the auxiliaries would know the scene was ending and would also still themselves. Then, on the lead of the actor, everyone would shift to a neutral body position and place their hand on their heart to acknowledge the teller of the story.  This language formed the basis for how the troupe began and ended several different forms while integrating lighting.
 
-然后，练习从让一名演员用手电筒照自己，发展到让一名演员用手电筒照另一名演员。这个练习的参数是，他们不能与搭档讨论自己的意图，而是要努力倾听搭档的演员在做什么，并做出反应。后来，我们将这一练习发展为三人组，即一名演员和两名手持手电筒的人。这些早期的探索为热身增加了不同程度的复杂性，并迫使剧团为这些不同的部分制定词汇和方法。当剧团两人或三人合作时，手持手电筒、更支持演员的人被称为 "*辅助人*"。在两人或三人合作时，这些练习中反复出现的一个复杂问题是如何开始和结束这一时刻。是演员开始，辅助人员跟随吗？辅助人员如何知道演员何时结束？当时刻结束时，辅助人员该做什么？所有这些问题都曾多次出现，最终剧团形成了一套方法和一致的灯光 "*语言*"。在这一特殊方法的演变过程中，辅助人员首先就位，然后当演员看到他们已经就位时，演员就会步入空间开始场景。辅助人员会用手电筒为演员进行传统意义上的照明，有时也会使用更具代表性的灯光。演员将在自己的场景中表演，表演结束后，会有一个静止的瞬间。在静止的那一刻，辅助人员会知道场景结束了，他们自己也会静止。然后，在演员的带领下，每个人都会换一个中立的身体姿势，并将手放在自己的心上，向故事的讲述者致谢。 这种语言构成了剧团在整合灯光时如何开始和结束几种不同形式的基础。
+然后，练习从让一名演员用手电筒照自己，发展到让一名演员用手电筒照另一名演员。这个练习的限定条件是，他们不能与搭档讨论自己的意图，而是要努力倾听搭档在做什么，并做出反应。后来，我们将这一练习发展为三人一组，即一名演员和两名手持手电筒的人。这些早期的探索为热身增加了不同程度的复杂性，并迫使剧团为这些不同的部分制定词汇和方法。当剧团两人或三人合作时，手持手电筒、偏向支持演员的人被称为"*辅助者*"。在两人或三人合作时，这些练习中反复出现的一个复杂问题是如何开始和结束这一时刻。是演员开始，辅助者跟随吗？辅助者如何知道演员何时结束？当时刻结束时，辅助者该做什么？所有这些问题都曾多次出现，最终剧团形成了一套方法和一致的灯光"*语言*"。在这一特殊方法的演变过程中，辅助者首先就位，然后当演员看到他们已经就位时，演员就会步入空间开始场景。辅助者会用手电筒为演员进行传统意义上的照明，有时也会使用更具象征意义的灯光。演员将在自己的场景中表演，表演结束后，会有一个静止的瞬间。在静止的那一刻，辅助者会知道场景结束了，他们自己也会静止。然后，在演员的带领下，每个人都会回到中立的身体姿势，并将手放在自己的心上，向故事的讲述者致意。这种表现语言就是剧团结合灯光，开始和结束不同形式演绎的基础。
 
 # Integrating Color and Scarves
 
-# 整合色彩和围巾
+# 结合色彩和彩布
 
 After three rehearsals of exploration with just flashlights, we started to incorporate area lights, scarves, and color-changing lights. I used another section of Dunham’s text to elaborate on the psychological effects of color. We discussed the difference between warm light (which has more red, yellow, or orange in the mix) and cool light (which has more blue, green, or lavender in the mix). Dunham describes how warmer light tends to evoke feelings of excitement or energy, while cooler light tends to evoke feelings of peacefulness or tranquility. We then talked about a few of the more prominent colors and what kinds of emotions they might evoke. Many of these colors have both a positive and negative association, depending on context:
 
-在仅使用手电筒进行了三次排练之后，我们开始使用区域灯、围巾和变色灯。我使用了邓纳姆的另一篇文章来阐述色彩的心理效应。我们讨论了暖光（混合了更多的红色、黄色或橙色）和冷光（混合了更多的蓝色、绿色或淡紫色）之间的区别。德纳姆描述了暖色调的光线如何唤起兴奋或活力的感觉，而冷色调的光线如何唤起宁静或安详的感觉。然后，我们讨论了几种比较突出的颜色以及它们可能唤起的情绪。其中许多颜色都有正面和负面的联想，具体取决于语境：
+在仅使用手电筒进行了三次排练之后，我们开始使用区域灯、彩布和变色灯。我使用了邓纳姆的另一篇文章来阐述色彩的心理效应。我们讨论了暖光（混合了更多的红色、黄色或橙色）和冷光（混合了更多的蓝色、绿色或淡紫色）之间的区别。德纳姆描述了暖色调的光线如何唤起兴奋或活力的感觉，而冷色调的光线如何唤起宁静或安详的感觉。然后，我们讨论了几种比较突出的颜色以及它们可能唤起的情绪。其中许多颜色都有正面和负面的联想，具体取决于语境：
 
 - Red – Passion, energy, excitement, lust, aggression, evil.
 - Pink – Femininity, sexuality, pleasing on skin tones.
@@ -116,19 +116,19 @@ After three rehearsals of exploration with just flashlights, we started to incor
 
 When thinking of color, in a traditional process, I would order gel filters to put into the lights to change the colors. For this project and the self-imposed limitations, we decided to use scarves to change the colors of lights. We had two clip lights with warm white LED light bulbs, and we draped the scarf over the light to simulate a gel filter and change the color of the light. This was an interesting process of exploration because we had a number of scarves in different colors, but also in different levels of translucency. Additionally, several of the scarves were multicolored, which added a different wrinkle into this exploration. When using the scarves that were more sheer, the color of the light was changed in a more subtle way, mimicking more neutral warm/cool white light. When using the thicker scarves, the color of the light was changed more dramatically, but also reduced the brightness of the light, so the troupe was able to play with color as well as intensity during this exercise. During our first invited rehearsal, one of the audience members commented how the more sheer scarves seemed more effective because it changed the color in a way that was noticeable but did not diminish the light and make it too dark. One note regarding safety: we constantly checked the temperature of both the lights and the scarves to ensure they were never getting too hot. Since we were using LED lights, the bulbs never got hot enough so we couldn’t touch them with our bare hands, even after being on for two hours. It is very important to understand that this may not work for all lights because of how hot some light bulbs can get.
 
-在考虑色彩时，按照传统工艺，我会订购凝胶滤色片，放入灯光中改变颜色。对于这个项目和自我限制，我们决定用围巾来改变灯光的颜色。我们有两个装有暖白色 LED 灯泡的夹子灯，我们把围巾披在灯上，模拟胶状滤光片，改变灯光的颜色。这是一个有趣的探索过程，因为我们有许多不同颜色、不同透光度的围巾。此外，有几条围巾是五颜六色的，这也为我们的探索增添了不同的色彩。当使用较薄的围巾时，光线的颜色会发生较微妙的变化，模拟出较中性的暖/冷白光。当使用较厚的围巾时，光线的颜色变化更为明显，但同时也降低了光线的亮度。在我们第一次受邀排练时，一位观众评论说，更薄的围巾似乎更有效，因为它改变颜色的方式很明显，但不会减弱光线，也不会让光线太暗。关于安全问题：我们经常检查灯光和围巾的温度，以确保它们不会太热。由于我们使用的是 LED 灯，灯泡的温度一直不高，所以即使灯亮了两个小时，我们也不能用手触摸它们。重要的是要明白，由于有些灯泡的温度很高，这种方法不一定适用于所有的灯。
+在考虑色彩时，按照传统工艺，我会订购凝胶滤色片，放入灯光中改变颜色。鉴于这个项目和自我限制，我们决定用彩布来改变灯光的颜色。我们有两个装有暖白色 LED 灯泡的夹子灯，我们把彩布披在灯上，模拟胶状滤光片，改变灯光的颜色。这是一个有趣的探索过程，因为我们有许多不同颜色、不同透光度的彩布。此外，有几条彩布是五颜六色的，这也为我们的探索增添了不同的色彩。当使用较薄的彩布时，光线的颜色会发生较微妙的变化，模拟出较中性的暖/冷白光。当使用较厚的彩布时，光线的颜色变化更为明显，但同时也降低了光线的亮度。在我们第一次受邀排练时，一位观众评论说，更薄的彩布似乎更有效，因为它改变颜色的方式很明显，但不会减弱光线，也不会让光线太暗。关于安全问题：我们经常检查灯光和彩布的温度，以确保它们不会太热。由于我们使用的是 LED 灯，灯泡的温度一直不高，所以即使灯亮了两个小时，也不会烫到不能用手触碰的程度。重要的是要明白，由于有些灯泡的温度很高，这种方法不一定适用于所有的灯。
 
 # Evolution of Basic Short Forms
 
-# 基本短剧的演变
+# 基础短形式的演变
 
 Throughout the rehearsal process of this project, the exploration of the flashlights became a prominent component for the troupe. There were several existing Playback Theatre forms that we explored and experimented with using the flashlights and the scarves. Of these different forms, we chose three that we felt were sufficiently rehearsed to be able to play for an audience. For our first rehearsal with an invited audience, we started with the audience warm-up, moved into Pairs, then Narrative V, then Fluids.
 
-在本项目的整个排练过程中，对手电筒的探索成为剧团的一个重要组成部分。我们利用手电筒和围巾探索和尝试了几种现有的 Playback Theatre 形式。在这些不同的形式中，我们选择了三种我们认为已经充分排练过的形式，以便为观众表演。在与受邀观众进行的第一次排练中，我们从观众热身开始，然后进入 "双人舞"，接着是 "叙事 V"，最后是 "流动塑像"。
+在本项目的整个排练过程中，对手电筒的探索成为剧团的一个重要组成部分。我们利用手电筒和彩布探索和尝试了几种现有的一人一故事剧场形式。在这些不同的形式中，我们选择了三种我们认为已经充分排练过的形式，以便为观众表演。在与受邀观众进行的第一次排练中，我们从观众热身开始，然后进入一对对，接着是V型叙事，最后是流动塑像。
 
 When setting up the room, we had two wooden coat trees that had all the scarves hanging on them. Mounted on top of the coat trees were the two clip lights providing some area light to the stage area.  (Figure 3) Draped on the back wall behind the actors was a string of color changing LED’s with the remote control sitting near the actors. We also had a string of Christmas lights laid out on the floor to act as front of the stage boundary.
 
-在布置房间时，我们准备了两棵木制衣帽树，上面挂满了围巾。衣帽树上安装了两盏夹子灯，为舞台区域提供一些区域照明。 (图 3）演员身后的后墙上挂着一串变色 LED 灯，遥控器就放在演员附近。我们还在地板上铺设了一串圣诞灯，作为舞台前方的边界。
+在布置空间时，我们准备了两个木制衣帽架，上面挂满了彩布。衣帽架上安装了两盏夹子灯，为舞台区域提供一些区域照明。（图 3）演员身后的后墙上挂着一串变色 LED 灯，遥控器就放在演员附近。我们还在地板上铺设了一串圣诞灯，作为舞台前方的边界。
 
 ![Exploring%20Light%20for%20Playback%20Theatre/image3.jpeg](Exploring%20Light%20for%20Playback%20Theatre/image3.jpeg)
 
@@ -138,7 +138,7 @@ Figure 3
 
 For our first invited rehearsal, we ran through each form a couple times to give the audience some different perspectives. For the second invited rehearsal, we performed all the forms under a neutral “*work-light*” environment and did not use any flashlights or clip lights. Then we did the forms again, incorporating the lighting elements we had been exploring. The second rehearsal was designed to give the audience a view of the forms with and without the added lighting so they could see and compare the two styles.
 
-在第一次受邀彩排中，我们对每种形式都进行了几次演练，以便给观众提供一些不同的视角。第二次彩排时，我们在中性的 "*工作光*"环境下表演了所有形式，没有使用任何手电筒或夹子灯。然后，我们将之前探索过的灯光元素融入其中，再次进行了表演。第二次排练的目的是让观众看到有灯光和没有灯光的表演，这样他们就能看到并比较两种风格。
+在第一次受邀排练中，我们对每种形式都进行了几次演练，以便给观众提供一些不同的视角。第二次排练时，我们在中性的"*工作光*"环境下表演了所有形式，没有使用任何手电筒或夹子灯。然后，我们将之前探索过的灯光元素融入其中，再次进行了表演。第二次排练的目的是让观众看到有灯光和没有灯光的表演，这样他们就能看到并比较两种风格。
 
 # Audience Warm Up
 
@@ -146,15 +146,15 @@ For our first invited rehearsal, we ran through each form a couple times to give
 
 As each performance began, the conductor asked the audience some general questions about how they were feeling as the year was coming to an end. Several of the answers were things like “*excited*”, “*nervous*”, “*anxious*”, “*hopeful*”. Each time a feeling was shared, the conductor would indicate an actor in the troupe who would play that feeling back. Under the “*worklight*” setup, they did not use flashlights, but under the other setups, they did use a flashlight and maybe a scarf. This audience warm-up mimicked the warm-ups we did in the early explorations and helped to warm up the actors, the conductor, and the audience.
 
-每场演出开始时，领航员都会向观众提出一些一般性问题，询问他们在年末的感受。有几个问题的答案是 "*兴奋*"、"*紧张*"、"*焦虑*"、"*希望*"。每次分享一种感觉时，领航员就会指出剧团中的一名演员，由他来演绎这种感觉。在 "*工作灯*"的设置下，他们没有使用手电筒，但在其他设置下，他们使用了手电筒，也许还用了围巾。这种观众热身模仿了我们在早期探索中所做的热身，有助于演员、领航员和观众的热身。
+每场演出开始时，领航员都会向观众提出一些共通性的问题，询问他们在年末的感受。有几个问题的答案是"*兴奋*"、"*紧张*"、"*焦虑*"、"*期盼*"。每次分享一种感觉时，领航员就会指出剧团中的一名演员，由他来演绎这种感觉。在"*工作灯*"的设置下，他们没有使用手电筒，但在其他设置下，他们使用了手电筒，也许还用了彩布。这种观众热身模仿了我们在早期探索中所做的热身，有帮助了演员、领航员和观众热身。
 
 # Pairs
 
-# 配对
+# 一对对
 
 After the audience warm-up, we continued in the spirit of using emotions as the basis for the forms as we moved into Pairs. During one of the rehearsals, one audience member was in town visiting her daughter, but her home was far away. She described how she felt lots of love being in town with her daughter, but she was much more comfortable at home. The troupe used the form to show the two different feelings of “*love*” and “*comfort*”. During the early exploration with flashlights and scarves, the troupe determined that this form was much more effective without the flashlights, as they felt the flashlights were more of a hindrance in this case. For each emotion described, one pair chose a scarf to change the color of the clip light to represent that emotion but did not use flashlights within the form. We also adapted the form a bit, and had each pair playing back the same emotion, rather than playing the different emotions, so that the color chosen on one side of the stage would represent the same emotion for both members of the pair. In this instance, the stage left pair chose a pink scarf and draped it over the clip light on stage left, and then they both played back “*love*”. The stage right pair chose an orange scarf to change the color of the light and played back “*comfort*”. (Figure 4)
 
-观众热身结束后，我们继续秉承以情感为基础的精神，开始了配对表演。在一次排练中，一位观众来城里看望她的女儿，但她的家在很远的地方。她描述了自己在城里和女儿在一起时感受到的爱，但她在家里更自在。剧团用这种形式表现了 "*爱*"和 "*舒适*"两种不同的感受。在使用手电筒和围巾进行早期探索的过程中，剧团认为，如果不使用手电筒，这种形式的效果会更好，因为他们觉得手电筒在这种情况下更像是一种障碍。每描述一种情绪，就有一对人选择一条围巾来改变夹子灯的颜色，以代表该情绪，但没有在表格中使用手电筒。我们还对表格进行了一些调整，让每对选手演绎相同的情绪，而不是播放不同的情绪，这样舞台一侧选择的颜色就能代表这对选手的相同情绪。在这个例子中，舞台左侧的两人选择了一条粉色围巾，把它披在舞台左侧的剪辑灯上，然后他们都播放了 "*爱*"。舞台右侧的两人选择了一条橙色围巾，改变了灯光的颜色，并播放了 "*舒适*"。（图 4）
+观众热身结束后，我们继续秉承以情感为基础的精神，开始了一对对的表演。在一次排练中，一位观众来城里看望她的女儿，但她的家在很远的地方。她描述了自己在城里和女儿在一起时感受到的爱，但她在家里更自在。剧团用这种形式表现了"*爱*"和"*舒适*"两种不同的感受。在使用手电筒和彩布进行早期探索的过程中，剧团认为，如果不使用手电筒，这种形式的效果会更好，因为他们觉得手电筒在这种情况下更像是一种障碍。每描述一种情绪，就有一对人选择一条彩布来改变夹子灯的颜色，以代表该情绪，但没有在形式中使用手电筒。我们还对形式进行了一些调整，让每对演员演绎相同的情绪，而不是演绎不同的情绪，这样舞台一侧选择的颜色就能代表这对演员的相同情绪。在这个例子中，舞台左侧的两人选择了一条粉色彩布，把它披在舞台左侧的剪辑灯上，然后他们都演绎了"*爱*"。舞台右侧的两人选择了一条橙色彩布，改变了灯光的颜色，并播放了"*舒适*"。（图 4）
 
 ![Exploring%20Light%20for%20Playback%20Theatre/image4.jpeg](Exploring%20Light%20for%20Playback%20Theatre/image4.jpeg)
 
@@ -164,15 +164,15 @@ Figure 4
 
 This adaptation was highly effective because the color became the central lighting element that enhanced the emotion, and the pair was able to play into the color by shifting their proximity to the light. In another rehearsal, one audience described feelings of “*excitement*” but also “*nervousness*” about the new school year starting. In this moment, the actors chose an orange scarf to represent excitement, and a blue scarf to represent nervousness. The audience feedback of this was generally positive with several audience responses indicating they liked the use of the scarves to show the contrast of the emotions. As the troupe continues to explore lighting in the spring semester, they will continue to explore and discover which scarves are most effective in changing the color of the light.
 
-这种改编非常有效，因为色彩成了烘托情绪的核心照明元素，而这对搭档也能够通过改变他们与灯光的距离来融入色彩。在另一次排练中，一位观众描述了对新学年开始的 "*兴奋*"和 "*紧张*"的感觉。此时，演员们选择了一条橙色围巾代表兴奋，一条蓝色围巾代表紧张。观众对此的反馈普遍积极，有几位观众表示喜欢用围巾来表现情绪的对比。随着剧团在春季学期继续探索灯光，他们将继续探索和发现哪条围巾最能有效地改变灯光的颜色。
+这种改编非常有效，因为色彩成了烘托情绪的核心照明元素，而演员们也能够通过改变他们与灯光的距离来融入色彩。在另一次排练中，一位观众描述了对新学年开始的"*兴奋*"和"*紧张*"的感觉。此时，演员们选择了一条橙色彩布代表兴奋，一条蓝色彩布代表紧张。观众对此的反馈普遍积极，有几位观众表示喜欢用彩布来表现情绪的对比。随着剧团在春季学期继续探索灯光，他们将继续探索和发现哪条彩布最能有效地改变灯光的颜色。
 
 # Narrative V
 
-# 叙事 V
+# V型叙事
 
 From Pairs we asked the audience to tell us a story about “*one door closing and another opening*”. One audience member described a situation in which she heard a noise under her porch. She went to investigate and found a kitten. The troupe used Narrative V to play this story back and the only adaptation we made to this form was that the troupe was able to use flashlights within the form if they felt it made sense. One actor used the flashlight to mimic a headlamp, while another used it as a flashlight pretending to look under the porch. The third actor batted the flashlight around on the ground pretending to be a kitten. This method of using the flashlight became a favorite of the troupe as it was highly effective seeing all the flashlights used in the same way, but then each time the actors rotated, they were able to come up with unique ways to use the flashlights and build off what the other had done before them. Another audience member told a story about growing in their relationship with their significant other and titled it “*Unexpected Growth.*” The troupe used the flashlight in a variety of ways to indicate growth. One actor shined the light on the ground and moved it up and down to literally make the circle of light grow. Another hid the light and slowly uncovered it to “*grow*” the illumination. Numerous symbolic and representational uses of the flashlights were discovered during Narrative V in the rehearsals.
 
-从 "对对碰 "开始，我们请听众给我们讲一个关于 "*一扇门关上，另一扇门打开*"的故事。一位听众讲述了这样一个故事：她听到门廊下有响声。她去调查，发现了一只小猫。剧团用叙事 V 演绎了这个故事，我们对这种形式唯一的改编是，如果剧团认为有意义，可以在形式中使用手电筒。一位演员用手电筒模仿头灯，另一位演员则把手电筒当作手电筒，假装在门廊下寻找。第三位演员将手电筒在地上拍打，假装自己是一只小猫。这种使用手电筒的方法成了剧团的最爱，因为看到所有手电筒都以同样的方式使用，效果非常好，但每次演员轮换时，他们都能想出独特的方法来使用手电筒，并在前人的基础上更上一层楼。另一位观众讲述了自己与另一半关系成长的故事，并将其命名为 "*意外的成长"。剧团以各种方式使用手电筒来表示成长。一位演员将手电筒照在地上，然后上下移动，使光圈不断扩大。另一位演员将手电筒藏起来，然后慢慢揭开，使照明 "*生长*"。在排练 "叙事 V "时，我们发现了手电筒的许多象征性和代表性用途。
+从"一对对"开始，我们请听众给我们讲一个关于"*一扇门关上，另一扇门打开*"的故事。一位听众讲述了这样一个故事：她听到门廊下有响声。她去查看，发现了一只小猫。剧团用 V 型叙事演绎了这个故事，我们对这种形式唯一的改编是，如果剧团认为有意义，就可以在形式中使用手电筒。一位演员用手电筒模仿头灯，另一位演员则把它作为手电筒，演绎在门廊下寻找。第三位演员将手电筒在地上拍打，演绎一只小猫。这种使用手电筒的方法成了剧团的最爱，因为看到所有手电筒都以同样的方式使用，效果非常好，但每次演员轮换时，他们都能想出独特的方法来使用手电筒，并在前人的基础上更上一层楼。另一位观众讲述了自己与另一半关系成长的故事，并将其命名为"*意料之外的成长*"。剧团以各种方式使用手电筒来表示成长。一位演员将手电筒照在地上，然后上下移动，使光圈不断扩大。另一位演员将手电筒藏起来，然后慢慢揭开，使光线慢慢"*生长*"。在排练 "V 型叙事"时，我们发现了手电筒的许多象征性和代表性用途。
 
 # Fluids
 
@@ -180,7 +180,7 @@ From Pairs we asked the audience to tell us a story about “*one door closing a
 
 The last form we explored for the audience was Fluids. This form was jokingly referred to as our “*free-for-all*” form because we didn’t put any limitations or parameters on the actors. If they wanted to use a flashlight, they could, but were not required to. They could change the color of the background lights, they could drape a scarf to change the color of the area lights, they could do whatever felt right in the moment. In one rehearsal, an audience member told a story of how they write out clues for a scavenger hunt for their kids for Christmas. One actor used the flashlight to represent the kid searching for the clues, while another changed the background lights to red to represent Christmas time. One actor chose not to use a flashlight at all and an audience member commented that the variety was really effective with the different uses of the scarves and lights.
 
-我们为观众探索的最后一种形式是 "流动塑像"。这种形式被戏称为我们的 "*自由*"形式，因为我们没有给演员设置任何限制或参数。如果他们想使用手电筒，可以，但不是必须。他们可以改变背景灯光的颜色，可以披上一条围巾来改变区域灯光的颜色，他们可以做任何当时觉得合适的事情。在一次排练中，一位观众讲述了他们如何为孩子们写出圣诞节寻宝游戏的线索。一位演员用手电筒代表寻找线索的孩子，而另一位演员则把背景灯换成红色，代表圣诞节。一位演员选择完全不使用手电筒，而一位观众则评论说，围巾和灯光的不同使用方式真的很有效果。
+我们为观众探索的最后一种形式是"流动塑像"。这种形式被戏称为我们的"*完全自由*"形式，因为我们没有给演员设置任何限制或条件。如果他们想使用手电筒，可以，但不是必须。他们可以改变背景灯光的颜色，可以披上一条彩布来改变区域灯光的颜色，他们可以做任何当时觉得合适的事情。在一次排练中，一位观众讲述了他们如何为孩子们写出圣诞节寻宝游戏的线索。一位演员用手电筒代表寻找线索的孩子，而另一位演员则把背景灯换成红色，代表圣诞节。一位演员选择完全不使用手电筒，而一位观众则评论说，彩布和灯光的不同使用方式真的很有效果。
 
 # Conclusion
 
@@ -188,11 +188,11 @@ The last form we explored for the audience was Fluids. This form was jokingly re
 
 This project was an excellent first step for the troupe in regard to true integration of light into the forms. In just a few short weeks, they were able to absorb a tremendous amount of lighting information and were able to integrate and execute lighting fundamentals, while also retaining the spirit of the forms themselves. When I asked the troupe how they felt about the work they did, one of them responded: *“…lighting seemed a natural progression to utilizing props, cloths, and music as theatrical elements in storytelling. Light helped us create mood and enhance the space we performed in. It had the capacity to transform the environment and therefore stimulate our imagination to envision different scenarios for the stories we told.”* (Veronica Santoyo, Faculty member Ball State University, Department of Theatre and Dance).
 
-对于剧团来说，这个项目是将灯光真正融入表演形式的出色的第一步。在短短几周内，他们吸收了大量的灯光信息，能够整合并执行灯光基础，同时还保留了形式本身的精神。当我问剧团对他们所做的工作有何感想时，其中一人回答说：*"......灯光似乎是一个很好的工具： *"......灯光似乎是利用装置、布料和音乐作为讲故事的戏剧元素的自然发展。灯光帮助我们营造氛围，增强表演空间的效果。它有能力改变环境，从而激发我们的想象力，为我们讲述的故事设想不同的场景。"*（维罗妮卡-桑托约，波尔州立大学戏剧与舞蹈系教师）。
+在这个项目中，剧场就如何将灯光真正融入表演形式跨出了出色的第一步。在短短几周内，他们吸收了大量的灯光信息，能够整合并执行基础灯光，同时还保留了形式本身的精神。当我问剧团对他们所做的工作有何感想时，其中一人回答说：*"……灯光似乎是一个很好的工具：……在我们利用装置、布料和音乐作为讲故事的戏剧元素时，灯光自然也顺理成章地成为了一种新的可能性。灯光帮助我们营造氛围，增强表演空间的效果。它有能力改变环境，从而激发我们的想象力，为我们讲述的故事设想不同的场景。"*（维罗妮卡-桑托约，波尔州立大学戏剧与舞蹈系教师）。
 
 As a final wrap up with the troupe, I asked if they would like to continue exploring with light as they meet in the future. They were all adamant about continuing with that exploration, so I will consult with them as long as they want my assistance. My hope is that other troupes will see the value of incorporating lighting into their repertoire and that this article can be a resource for others to use as they begin to explore the artistic medium of light.
 
-在与剧团的最后总结中，我问他们是否愿意在今后的聚会中继续探索光。他们都坚持要继续探索，所以只要他们需要我的帮助，我就会向他们咨询。我希望其他剧团也能看到将灯光融入剧目的价值，并希望这篇文章能成为其他剧团开始探索灯光艺术媒介时的参考资料。
+在与剧团的最后总结中，我问他们是否愿意在今后的聚会中继续探索光。他们都坚持要继续探索，所以只要他们需要我的帮助，我就会向他们建议。我希望其他剧团也能看到将灯光融入演出的价值，并希望这篇文章能成为其他剧团开始探索灯光艺术媒介时的参考资料。
 
 # References
 
@@ -204,4 +204,4 @@ Dunham, Richard (2019) *Stage Lighting: The Fundamentals (2e).* New York, NY. 
 
 R. B. “*Mickie*” Marie is an Associate Professor of Theatre for Ball State University. Since 2009, Mickie has been designing professionally for various companies in the Midwest and the east coast, including several nationally recognized theatres in the Chicago area. Some recent credits include *Always: Patsy Cline,* *The Addams Family, All Shook up,* and *Sylvia* with Williams Street Rep and *Dead Man Walking* with the Piven Theatre Workshop. He is passionate about design and is always looking for ways that light can be incorporated into art in ways that haven’t been explored.
 
-R. B. "*Mickie*" 玛丽是波尔州立大学戏剧系副教授。自 2009 年以来，米基一直为中西部和东海岸的多家公司担任专业设计，其中包括芝加哥地区的几家全国知名剧院。最近的一些作品包括*Always： Patsy Cline》、《Addams Family》、《All Shook up》和《Sylvia》，以及《Piven Theatre Workshop》的《Dead Man Walking》。他对设计充满热情，并一直在寻找将灯光融入艺术的新方法。
+R. B. "*Mickie*" 玛丽是波尔州立大学戏剧系副教授。自 2009 年以来，Mickie 一直为中西部和东海岸的多家公司担任专业设计，其中包括芝加哥地区的几家全国知名剧院。最近的一些作品包括 *Always： Patsy Cline*、*The Addams Family*、*All Shook up* 和*Sylvia*、以及 Piven Theatre Workshop 的 *Dead Man Walking*。他对设计充满热情，并一直在寻找将灯光融入艺术的新方法。
