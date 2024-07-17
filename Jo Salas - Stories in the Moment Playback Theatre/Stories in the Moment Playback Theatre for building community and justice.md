@@ -12,7 +12,7 @@ In this chapter Salas, one of the co‐founders of Playback Theatre, focuses on 
 
 ## PARTICIPANT PERFORMANCE AND SCHOOL BULLYING
 
-## 参与者的表现与校园霸凌
+## 参与式演出与校园霸凌
 
 Salas describes the role of Playback Theatre in addressing the growing violence evidenced through bullying in schools in the United States. Salas and her ensemble have developed the program “No More Bullying!” (NMB), which works alongside other anti‐bullying programs. Through NMB, Playback Theatre engages personal stories, emotions, and embodiment in ways that fostering empathy and enhance capacities for treating others fairly. Children are invited to speak about their experiences as victims, witnesses, or bullies, then watch as their feelings and stories are enacted in front of them.
 
@@ -28,7 +28,7 @@ NMB 领导力项目偏向于使用让参与者来表演模式，每周一次，�
 
 ## PARTICIPANT PERFORMANCE IN AFGHANISTAN
 
-## 参与阿富汗的表演
+## 阿富汗的参与式演出
 
 In this section, Salas highlights Hjalmar Jorge Joffre‐Eichhorn’s work with Playback Theatre in Afghanistan, a context where current and historical trauma are constantly present. In this setting, Playback Theatre’s impact has been both constructive and at times problematic as it strives to effect some measures of transitional justice. Initially, Joffre‐Eichhorn trained 24 men and 6 women in Playback Theatre and other approaches to peacebuilding performance, both through a week long workshop and “on the job training” in 16 performances. Audiences for these performances included victims’ and widows’ groups, children, and the hearing impaired. Later on a number of participants took part in a workshop facilitated by Karin Bettina Gisler, the founder and director of Zurich Playback Theatre. This training was again followed by multiple performances.
 
