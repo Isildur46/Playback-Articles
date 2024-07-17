@@ -410,11 +410,7 @@ This chapter has charted the development of Playback Theatre from the early expe
 
 The final section discusses Playback Theatre scholarship and research with particular emphasis on the multiple levels at which Playback Theatre operates and the complexities of researching performance. The chapter argues that theory and knowledge about Playback Theatre has ostensibly been developed through practitioner reflection in the tradition of an oral culture. In undertaking this study, I aim to extend the knowledge and scope of understanding about Playback Theatre within the academic domain.
 
-.
-
-**CHAPTER THREE**
-
-**Review of Literature**
+# CHAPTER THREE: Review of Literature
 
 One of the most persistent but elusive ways that people make sense of themselves is to show themselves to themselves through multiple forms: by telling themselves stories; by dramatizing claims in rituals and other collective enactments; by rendering visible actual and desired truths about themselves and the significance of their existence in imaginative and performative productions.
 
