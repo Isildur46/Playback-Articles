@@ -38,15 +38,11 @@ The spread of Playback Theatre has been consistent yet contained, with the basic
 
 ## 2.2 The Playback Theatre Method
 
-Jo Salas, music therapist and co-founder of Playback Theatre states that from its earliest inception, the scope and purpose of Playback Theatre has been to
-
-Reveal the shapeliness and meaning in any experience, even the ones that are unclear and formless in the telling. [Playback Theatre can] dignify stories with ritual and aesthetic awareness, and link them together so that they form a collective story about a community of people whether the temporary community of a public audience, or a group of people whose lives are connected in an ongoing way. … [Playback Theatre] offers a public arena in which the meaning of individual experience expands to become part of a shared sense of purposeful existence (Salas, 1993, p.22).
+Jo Salas, music therapist and co-founder of Playback Theatre states that from its earliest inception, the scope and purpose of Playback Theatre has been to Reveal the shapeliness and meaning in any experience, even the ones that are unclear and formless in the telling. [Playback Theatre can] dignify stories with ritual and aesthetic awareness, and link them together so that they form a collective story about a community of people whether the temporary community of a public audience, or a group of people whose lives are connected in an ongoing way. … [Playback Theatre] offers a public arena in which the meaning of individual experience expands to become part of a shared sense of purposeful existence (Salas, 1993, p.22).
 
 In Australian and New Zealand contexts *good enough* has additional meaning drawn from the notion of adequacy fundamental to Moreno's theory of spontaneity (see Karp, 1994).
 
-Salas' explanation alludes to three defining elements of Playback Theatre: personal story (the content), a ritual aesthetic (the form), and the context. Fox (1994) reports that early Playback Theatre audiences included children in their schools, disabled residents at their group home and friends and family in their neighbourhood. It was the early application in places other than theatres, for people other than conventional theatre audiences that differentiated it from other forms of theatre. That these audiences were situated in specific contexts, e.g.,
-
-education/school, rehabilitation/group home, community/neighbourhood, has emerged as a defining aspect of the Playback Theatre method. The contemporary terminology for applications of theatre in such contexts is applied theatre (Taylor 2003).
+Salas' explanation alludes to three defining elements of Playback Theatre: personal story (the content), a ritual aesthetic (the form), and the context. Fox (1994) reports that early Playback Theatre audiences included children in their schools, disabled residents at their group home and friends and family in their neighbourhood. It was the early application in places other than theatres, for people other than conventional theatre audiences that differentiated it from other forms of theatre. That these audiences were situated in specific contexts, e.g., education/school, rehabilitation/group home, community/neighbourhood, has emerged as a defining aspect of the Playback Theatre method. The contemporary terminology for applications of theatre in such contexts is applied theatre (Taylor 2003).
 
 Three defining frames of applied theatre forms like Playback Theatre are the content, the form and the context. As suggested above, the context frames the process and provides a gateway through which audience members enter the participatory ritualised frame (the form).
 
@@ -62,9 +58,7 @@ Playback Theatre is spontaneous improvised theatre created through a unique coll
 
 While stories are mentioned in this description, Salas highlights the centrality of personal story in the theatre that is created during the performance. She writes:
 
-Audience members … are invited to [tell a story] … guided by the director or
-
-"Conductor," [the teller] casts his or her story from the row of actors. The chosen performers, supported by music and lighting, transform the story into a theatrical scene, using boxes and pieces of cloths as props (Salas in Feldhendler, 1994, p.101)[9].
+Audience members … are invited to [tell a story] … guided by the director or "Conductor," [the teller] casts his or her story from the row of actors. The chosen performers, supported by music and lighting, transform the story into a theatrical scene, using boxes and pieces of cloths as props (Salas in Feldhendler, 1994, p.101)[9].
 
 [9] The Playback Theatre stage is a simple arrangement of instruments and props, with two chairs placed stage left for the teller and conductor; opposite which is a semi-circle of audience chairs. For an example of the simplicity of the Playback Theatre stage see Appendix 1.
 
@@ -198,9 +192,7 @@ These works represent the documentation of the body of knowledge about the form 
 
 [13] Over the course of the research I have learned that there are dissertations underway or near completion. These are by Fe Day in New Zealand (The Application of Playback Theatre in Public Health Education), Nick Rowe in England (*Personal Stories in Public Places*) and Markus Hühn in Germany (title/topic unknown).
 
-Given its rapid development and worldwide expansion, there has been little empirical research undertaken on Playback Theatre. Heinrich Dauber, university professor and Playback Theatre practitioner, contemplates what Playback Theatre research might look like composing what he calls a "(tentative) definition." He writes that
-
-Playback Theatre is both an **individual** as well as a **collective** experience, which on the one hand can only be understood from a **subjective perspective** – i.e., through (individual and collective) self-reflection, and on the other hand can be described from an **objective perspective** as an objective experience of a theatre performance in a particular social context (bold in original, p.159).
+Given its rapid development and worldwide expansion, there has been little empirical research undertaken on Playback Theatre. Heinrich Dauber, university professor and Playback Theatre practitioner, contemplates what Playback Theatre research might look like composing what he calls a "(tentative) definition." He writes that Playback Theatre is both an **individual** as well as a **collective** experience, which on the one hand can only be understood from a **subjective perspective** – i.e., through (individual and collective) self-reflection, and on the other hand can be described from an **objective perspective** as an objective experience of a theatre performance in a particular social context (bold in original, p.159).
 
 This provides another way of thinking about the dimensions of Playback Theatre elucidating the content dimension in addition to those of art, social, and ritual nominated earlier in Fox's model (see Figure 1). Dauber offers a qualification of each dimension (see Figure 2) by means of defining the perspective informing each and proposing congruent questions for research. In his critique, Dauber proposes four possible research foci: the storyteller's experiences, the artistic endeavours of the form, the aesthetic of the ritual performance, and/or the socio-political context. Drawing from the earlier discussion about Playback Theatre as an unconventional and applied theatre approach, the research could focus on the content, the form and/or the context. This study recognises the interaction of these three dimensions as integral to an experience of Playback Theatre.
 
