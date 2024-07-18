@@ -189,7 +189,7 @@ At times, the in-depth scrutiny of my Playback Theatre work has effected my spon
 
 # CHAPTER ONE: Introduction
 
-# 第一章：导言
+# 第一章：引言
 
 > We have inherited a civilization in which the things that really matter in human life exist at the margin of our culture. What matters? How birthing takes place matters; how infants are raised matters; having a rich and active dream life matters. Animals matter, and so does ontological security and the magic of interpersonal interactions and healthy and passionate sexual expression. Career and prestige and putting a good face on it and the newest fashion in art or science do not matter. Coming to our senses means sorting this out once and for all. It also means becoming embodied. And the two ultimately amount to the same thing.
 Morris Berman (1990, p.341-2).
