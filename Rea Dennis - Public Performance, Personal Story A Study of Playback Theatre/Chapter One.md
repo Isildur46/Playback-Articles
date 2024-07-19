@@ -247,7 +247,7 @@ The purposes of the study are to:
 
 The research aims to frame the practice of Playback Theatre beyond the often self-referential frames that are a feature of the writing about Playback Theatre. It adds the voices and perceptions of audience members to Playback Theatre scholarship, specifically with relation to the one-off context-based performance. Finally, as an inquiry into audience experience the research process seeks to articulate ways in which people participate in the Playback Theatre ritual; the impact of telling, listening and watching the stories as they unfold; and how the experience equates to an experience of community for participants.
 
-这项研究旨在为一人一故事剧场的实践提供框架，使其超越一人一故事剧场的相关文章中经常的自我指涉的框架。将观众的声音和看法加入到一人一故事剧场的学术研究中，特别是和一次性的、与基于情境的一人一故事剧场的关联。最后，作为对观众体验的探究，研究过程试图阐明一人一故事剧场仪式的参与方式；讲述、聆听和观看故事所产生的影响；以及这种体验如何等同于参与者的社群体验。
+这项研究旨在为一人一故事剧场的实践提供框架，使其超越一人一故事剧场的相关文章中经常的自我指涉的框架。将观众的声音和看法加入到一人一故事剧场的学术研究中，特别是和一次性的、与基于背景（context）的一人一故事剧场的关联。最后，作为对观众体验的探究，研究过程试图阐明一人一故事剧场仪式的参与方式；讲述、聆听和观看故事所产生的影响；以及这种体验如何等同于参与者的社群体验。
 
 ## 1.2 Method
 
