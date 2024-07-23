@@ -12,3 +12,13 @@ $1 $2
 
 没有正确结尾的行
 [,a-z]$
+
+
+
+词汇表
+
+message-driven
+寓意驱动
+
+act of service
+服务的表演
