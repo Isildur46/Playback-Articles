@@ -48,7 +48,7 @@ In the first decade, other people[3] joined Fox and co-founder Jo Salas, in an e
 
 [3] This group became known as the Original Company (Fox, 1994).
 
-[3] 这支队伍后来被称为 "初始剧团"（福克斯，1994 年）。
+[3] 这支队伍后来被称为"初始剧团"（福克斯，1994 年）。
 
 [4] The notion of *good enough* is informed by Bettelheim's idea of good enough parenting (Salas, 1993, p. 30). In Australian and New Zealand contexts *good enough* has additional meaning drawn from the notion of adequacy fundamental to Moreno's theory of spontaneity (see Karp, 1994).
 
@@ -264,49 +264,96 @@ As proposed above, the text of the Playback Theatre performance comes from the a
 
 At the completion of the enactment the actors on stage freeze, holding the final scene, and transfer their gaze to the teller. The gaze of the spectator is again directed to the teller. And so it shifts: back and forward between the audience and the stage, between the individual and the group, and between the tellers and the players. As the teller returns to the group the audience is in major as they recompose themselves and orient to the idea of the next teller. The conductor subtly caresses these shifts throughout the performance.
 
+表演结束时，舞台上的演员定格，保持着最后的场景，并将目光转移到讲述者身上。观众的目光再次投向讲述者。就这样，目光在观众与舞台之间、个人与群体之间、讲述者与演员之间来回转移。当讲述者回到人群中时，观众重新整理自己的情绪，并将注意力集中到下一位讲述者身上。在整场演出中，领航员巧妙地控制着这些变化。
+
 There is a good deal of interest in the effect of Playback Theatre on the audience participant who tells a personal story. This individual speaks aloud from the group either seated amongst them or on stage alongside the conductor. As suggested above, both sites of telling require the audience participant to assume a more direct performative role in the event. They step out, into the private/public threshold, bringing with them the content that forms the basis of the next dramatic display. While this transition and subsequent participation in the performance is somewhat central to the Playback Theatre method, it is in no way unique in storytelling theatre traditions.
+
+一人一故事剧场对讲述个人故事的观众参与者的影响颇受关注。他们或坐在观众中间，或在舞台上与领航员一起大声讲述故事。如上所述，这两种讲述方式都要求观众在活动中扮演更直接的表演角色。他们走出私人/公共的门槛，带来构成下一个戏剧展示基础的内容。虽然这种过渡和随后的参与表演在某种程度上是一人一故事剧场方法的核心，但它在讲故事的戏剧传统中绝非独一无二。
 
 In other narrative contexts (see for example, Bruner, 1986, Sayre, 1989) the storytelling participants are positioned as empowered or liberated, and as witnesses for the group. In Playback Theatre there can be a tendency to position the storytelling participant as vulnerable (see for example, Nash & Rowe 2002). Thinking about the teller in this way can have the effect of skewing the teller's performance toward a therapeutic frame. I am inclined toward a conception of the telling participants as risk-takers. That is not to say the act of telling will not render the teller vulnerable. In fact, like many performative roles vulnerability is central, for it is in the individual's capacity to take risks that we see their truth and their humanity. When they move to tell, they embark on a journey into the unknown possibilities of the performance. In this performance the conductor accompanies them. Penny (2002) asserts that if, in the enactment, the actors match the risks taken by the teller a primary condition for advancing the ritual will be met. He states, "For the actor to advance and deepen the ritual they need a performance courage that matches specifically the courage the teller summoned to tell" (p.7). Experimental theatre technician, Peter Brook (1989) writes about the primacy of risking as an improviser. He asserts that taking "total" risks as a performer enables the ensemble to be influenced by the presence of the people, the context, the pace, and even the time of day (p.118).
 
+在其他叙事语境中（例如，见 Bruner, 1986 年，Sayre, 1989 年），讲故事的参与者被定位为获得权力或解放的人，以及群体的见证人。而在一人一故事剧场中，讲故事的参与者往往被定位为弱势群体（参见纳什和罗，2002 年）。以这种方式思考讲述者可能会使讲述者的表演偏向治疗框架。我倾向于将讲述参与者视为风险承担者。这并不是说讲述行为不会使讲述者变得脆弱。事实上，与许多表演性角色一样，脆弱性是核心，因为正是在个人承担风险的能力中，我们才能看到他们的真实和人性。当他们开始讲述时，就踏上了一段未知的表演之旅。在这场表演中，领航员陪伴着他们。佩妮（Penny，2002 年）断言，如果在表演中，演员与讲述者所冒的风险相匹配，那么就满足了推进仪式的首要条件。他说："演员要推进和深化仪式，就需要有与讲述者讲述时所鼓起的勇气相匹配的表演勇气"（第 7 页）。实验戏剧大师彼得-布鲁克（Peter Brook，1989 年）写道，作为即兴表演者，冒险是最重要的。他断言，作为表演者，"完全"冒险能使剧团受到在场人员、背景、节奏甚至时间的影响（第 118 页）。
+
 In this section I have discussed the notion of Playback Theatre as a community performance ritual. This was achieved through a consideration of the way in which Playback Theatre interacts with the audience as community and in communal ways in a performance context. The notion of performance and the place of story generally, are explored in greater detail in the next chapter. Next, I present a description of the emergence of Playback Theatre scholarship and research.
+
+在本节中，我讨论了一人一故事剧场作为一种社群表演仪式的概念。这是通过考虑一人一故事剧场作为社群与观众互动的方式以及在演出背景下的社群方式来实现的。下一章将更详细地探讨表演的概念和故事的地位。接下来，我将介绍一人一故事剧场学术研究的兴起。
 
 ## 2.4 Playback Theatre Scholarship and Research 
 
+## 2.4 一人一故事剧场学术研究 
+
 Published works on Playback Theatre include the early works of Fox (1994) and Salas (1983, 1992, 1993, 1994) on the application of Playback Theatre, the artistic elements of Playback Theatre, and good enough Playback Theatre. While these works are necessarily advocating the fit of Playback Theatre to the contemporary world, they make sound attempts to present a thoughtful and critical gaze. In his book *Acts of Service*, Fox presents a comprehensive explanation of the conception of Playback Theatre. Based on his own reflective practice, *Acts of Service* reveals Fox's sense making processes drawing on literary theory, ritual and cultural theory, psychodramatic theory and the history and theory of preliterary theatre. He attempts to document what is required of the specific roles inherent in the form: actor, director, conductor and ensemble. Fox documents the place of language and form in non-scripted theatre and includes his conclusions about how the improvisational process has a contribution to make in educational and social spheres in society. As discussed earlier in the chapter, these have not been isolated reflections but have arisen from an experimental ensemble, where he has been influenced by others, and by the processes that unfolded as they prepared, enacted and cooled down from their performances. Salas' contribution, *Improvising Real Life: Personal story & Playback Theatre*, published a year earlier but developed simultaneously (Dauber, 1999a) is structured like a Playback Theatre handbook. It provides a practical guide to doing Playback Theatre from how a performance could unfold, to the conventional Playback Theatre forms and many applications.
+
+已出版的有关一人一故事剧场的著作包括福克斯（1994 年）和萨拉斯（1983 年、1992 年、1993 年、1994 年）关于一人一故事剧场的应用、一人一故事剧场的艺术元素和足够好的一人一故事剧场的早期作品。虽然这些作品必然是在主张一人一故事剧场与当代世界的契合，但它们在提出一种深思熟虑的批判性目光方面做出了合理的尝试。福克斯在其著作《服务的表演》（*Acts of Service*）中全面阐释了一人一故事剧场的概念。基于自身的反思实践，《服务的表演》一书揭示了福克斯从文学理论、仪式和文化理论、心理剧理论以及前文本戏剧的历史和理论中汲取灵感的过程。他试图记录这种形式对演员、导演、领航员和剧团等特定角色的要求。福克斯记录了语言和形式在无剧本戏剧中的地位，并总结了即兴创作过程在社会教育和社会领域中的贡献。正如本章前面所讨论的，这些并不是孤立的思考，而是产生于一个实验性的剧团，在这个剧团中，他受到了其他人的影响，也受到了他们在准备、表演和从表演中冷静下来的过程中展开的影响。萨拉斯的作品《即兴真实人生：个人故事与一人一故事剧场》（*Improvising Real Life：Personal story & Playback Theatre*》是在一年前出版的，但与此同时也在发展（Dauber, 1999a），其结构就像一本一人一故事剧场手册。它提供了一本关于如何进行一人一故事剧场表演的实用指南，从表演如何展开，到传统的一人一故事剧场形式和许多应用。
 
 These two texts articulate the ways that Playback Theatre diverges from other oral theatre traditions, from theatre as art or theatre as entertainment, and from psychodrama and various other action methods that have informed Fox and Salas in their formative years (Dauber, 1999a). The two volumes also act like entry texts to the method yet do not stand alone.
 
+这两本书阐明了一人一故事剧场与其他口述戏剧传统、与作为艺术的戏剧或作为娱乐的戏剧、与心理剧和其他各种行动方法的不同之处，而福克斯和萨拉斯在他们成长的岁月中正是从这些不同之处获得灵感的（Dauber, 1999a）。这两卷书也是该方法的入门文本，但并不是独立存在的。
+
 Practice-driven writings proliferate and contribute equally to the early sense making, theory building and documentation of the Playback Theatre process, its values and vision, its diverse application, and potential outcomes. There is also writing about artistic style, artistic excellence and the aesthetics of Playback Theatre.
+
+以实践为导向的著作层出不穷，它们同样促进了对一人一故事剧场过程、其价值和愿景、其多样化应用和潜在成果的早期认识、理论建设和记录。此外，还有关于艺术风格、艺术卓越性和一人一故事剧场美学的著作。
 
 The International Playback Theatre Network publishes a quarterly newsletter, *Interplay*, and convenes biennial international conferences – both providing much needed forums for dialogue and critique. Since its inception, the *Interplay* newsletter has featured practice reflections, theory and concept development based on anecdotal evidence, and performance analysis writings[12]. The publication of the eclectic volume, *Gathering Voices* (Fox & Dauber, 1999), a collection of essays presented at the inaugural Playback Theatre symposium in Kassel, Germany is the most recent contribution to the Playback Theatre writing. A milestone in the movement, Fox (1999a) states that the Kassel Symposium has acknowledged that the early period of experimentation is complete, and has signaled a move toward inviting more rigorous and critical research. Significant, in terms of providing a critical gaze to the mix, is the chapter by Dauber himself. *Tracing the Songlines* (Dauber, 1999a) documents a history of the evolution of Playback Theatre by way of considering biographical information about the founders, Fox & Salas, and examining the inferences therein.
 
+国际一人一故事剧场网络（IPTN）出版季度简报《*Interplay*》，并召开两年一次的国际会议——两者都为对话和评论提供了亟需的论坛。自创办以来，*Interplay* 简报一直以实践反思、基于见证轶事的理论和概念发展以及表演分析文章为特色[12]。在德国卡塞尔举行的首届一人一故事剧场研讨会上发表的文选《收集声音》（*Gathering Voices*）（福克斯和道博，1999 年）的出版是对一人一故事剧场写作的最新贡献。作为这一运动的里程碑，福克斯（1999a）指出，卡塞尔研讨会承认早期的实验阶段已经结束，并预示着将邀请更严格的批判性研究。就提供一种批判性的视角而言，道伯自己撰写的一章具有重要意义。*Tracing the Songlines* (Dauber, 1999a)通过对创始人福克斯和萨拉斯的传记资料进行考量，并对其中的推论进行研究，记录了一人一故事剧场的发展史。
+
 [12] *Interplay* publishes a variety of articles reflecting on Playback Theatre in specific contexts. Some examples of these contexts include: organisations (Hofman, 1997); prisons (Bett, 2000, Southard 2000); housing estates (Murphy, 2001); disability (Day, 1998); mental health (Muckley, 1998); youth (Wynter, 1998); refugee groups (Robb, 2002); and in indigenous communities (Cox, 1996). There is also discussion of the form from various practice frameworks, for example, from a therapeutic perspective (Nash & Rowe 2001, Tselikas 2001, Salas 2000); and in development and social change: (Mills, 1999, Hosking & Fox, 2002).
+
+[12] *Interplay* 发表了各种文章，对特定环境下的一人一故事剧场进行反思。其中的一些例子包括：组织（Hofman, 1997）；监狱（Bett, 2000, Southard 2000）；住宅区（Murphy, 2001）；残疾（Day, 1998）；心理健康（Muckley, 1998）；青年（Wynter, 1998）；难民团体（Robb, 2002）；以及土著社群（Cox, 1996）。还有人从不同的实践框架来讨论这种形式，例如，从治疗的角度（Nash & Rowe 2001, Tselikas 2001, Salas 2000）；以及在发展和社会变革中（Mills, 1999, Hosking & Fox, 2002）。
 
 More recently, there have been papers presented at academic conferences (generally not refereed) and student essays emerging from The School of Playback Theatre's Leadership Module. Conference paper topics have included the application of Playback Theatre in education & training by US academic, Linda Park-Fuller, and Australians, Deborah Pearson and Tarquam McKenna (see Park-Fuller, 1997a, Pearson, 1997, McKenna, 1993). McKenna and Park-Fuller have also published on Playback Theatre as a research method (McKenna, 1999, Park-Fuller, 1997b). An archive of available Playback Theatre writings is currently underway to enable access to these and others papers written about Playback Theatre (see for example Bett, 1999). Specially authored reports on work done with the support of government funding or non-government aid funding have included Hosking & Penny (1998, 1999).
 
+最近，在学术会议上提交的论文（一般未经评审）和学生论文在一人一故事剧场学校的领导力模块中出现。会议论文主题包括美国学者琳达-帕克-富勒（Linda Park-Fuller）和澳大利亚学者德博拉-皮尔森（Deborah Pearson）和塔尔夸姆-麦肯纳（Tarquam McKenna）关于一人一故事剧场在教育和培训中的应用（见帕克-富勒，1997a；皮尔森，1997；麦肯纳，1993）。麦肯纳和 Park-Fuller 还发表了关于作为研究方法的一人一故事剧场的文章（McKenna, 1999, Park-Fuller, 1997b）。目前正在建立 Playback Theatre 著作档案库，以便查阅这些著作和其他有关 Playback Theatre 的论文（参见 Bett, 1999）。关于在政府资助或非政府援助资金支持下所做工作的专门报告包括 Hosking & Penny (1998, 1999)。
+
 These works represent the documentation of the body of knowledge about the form and practice of Playback Theatre. There is considerable scope for more formal research to be undertaken, a task already underway through the completion of this study, and the imminent completion of further dissertations[13]. Further, the completion of this thesis coincides with the recent launch of a Playback Theatre journal.
+
+这些作品代表了有关一人一故事剧场的形式和实践的知识体系。通过完成本研究以及即将完成的更多论文[13]，这项任务已经在进行之中。此外，本论文的完成恰逢最近 Playback Theatre 杂志的发行。
 
 [13] Over the course of the research I have learned that there are dissertations underway or near completion. These are by Fe Day in New Zealand (The Application of Playback Theatre in Public Health Education), Nick Rowe in England (*Personal Stories in Public Places*) and Markus Hühn in Germany (title/topic unknown).
 
+[13] 在研究过程中，我了解到有一些论文正在撰写或即将完成。这些论文的作者分别是新西兰的费-戴（The Application of Playback Theatre in Public Health Education）、英国的尼克-罗（Nick Rowe）（*Personal Stories in Public Places*）和德国的马库斯-胡恩（Markus Hühn）（题目/主题不明）。
+
 Given its rapid development and worldwide expansion, there has been little empirical research undertaken on Playback Theatre. Heinrich Dauber, university professor and Playback Theatre practitioner, contemplates what Playback Theatre research might look like composing what he calls a "(tentative) definition." He writes that Playback Theatre is both an **individual** as well as a **collective** experience, which on the one hand can only be understood from a **subjective perspective** – i.e., through (individual and collective) self-reflection, and on the other hand can be described from an **objective perspective** as an objective experience of a theatre performance in a particular social context (bold in original, p.159).
+
+鉴于一人一故事剧场的快速发展和全球扩张，有关一人一故事剧场的实证研究一直很少。海因里希-道博（Heinrich Dauber）是一位大学教授，同时也是一人一故事剧场的实践者，他思考了一人一故事剧场研究可能是什么样的，并给出了他认为的"（暂定）定义"。他写道，一人一故事剧场既是一种**个人**体验，也是一种**集体**体验，一方面只能从**主观角度**——即通过（个人和集体）自我反思——来理解，另一方面可以从**客观角度**——描述为在特定社会背景下对戏剧表演的客观体验（原文加粗部分，第 159 页）。
 
 This provides another way of thinking about the dimensions of Playback Theatre elucidating the content dimension in addition to those of art, social, and ritual nominated earlier in Fox's model (see Figure 1). Dauber offers a qualification of each dimension (see Figure 2) by means of defining the perspective informing each and proposing congruent questions for research. In his critique, Dauber proposes four possible research foci: the storyteller's experiences, the artistic endeavours of the form, the aesthetic of the ritual performance, and/or the socio-political context. Drawing from the earlier discussion about Playback Theatre as an unconventional and applied theatre approach, the research could focus on the content, the form and/or the context. This study recognises the interaction of these three dimensions as integral to an experience of Playback Theatre.
 
+这为一人一故事剧场的维度提供了另一种思考方式，除了福克斯模型中前面提到的艺术、社会和仪式维度（见图 1），还阐明了内容维度。道伯对每个维度进行了限定（见图 2），界定了每个维度的研究视角，并提出了一致的研究问题。在他的评论中，道伯提出了四个可能的研究重点：讲述者的经历、形式的艺术努力、仪式表演的美学和/或社会政治背景。根据早先关于一人一故事剧场作为一种非传统的应用戏剧方法的讨论，研究可以侧重于内容、形式和/或背景。本研究认为，这三个方面的互动是体验一人一故事剧场不可或缺的一部分。
+
 **Figure 2: Four Dimensions for Research**
 
-| DIMENSION | RESEARCH QUESTION |
+**图 2：研究的四个维度**
+
+| **DIMENSION** | **RESEARCH QUESTION** |
 | --- | --- |
 | Content dimension – individually subjective perspective | What does Playback Theatre achieve, or how does it work from the perspective of the storyteller? |
 | Artistic dimension – individually objective dimension | What makes a performance artistically effective? |
 | Ritualistic dimension – collectively subjective dimension | What does Playback Theatre achieve or how does it work in regard to the ritual interaction between the storyteller, conductor, players and audience? |
 | Social dimension – collectively objective dimension | What effect does Playback Theatre have on the audience, the performing Company and on the social context in which it is embedded? |
 
+| **维度** | **研究问题** |
+| --- | --- |
+| 内容维度 – 个人主观视角 | 从讲述者的角度看，一人一故事剧场实现了什么，或它是如何运作的？ |
+| 艺术层面 - 个人的客观层面 | 怎样才能使表演具有艺术效果？ |
+| 仪式维度 - 集体主观维度 | 一人一故事剧场在讲述者、领航员、演员和观众之间的仪式性互动方面有何成就或如何运作？ |
+| 社会维度 - 集体客观维度 | 一人一故事剧场对观众、演出团体以及其所处的社会环境有何影响？ |
+
 (Dauber, 1999b, pp.159-162).
 
 The four spheres Dauber names are also mutually interactive. The Playback Theatre performance is layered and complex for audience members. Bharucha (1993) asserts that researching any performance demands a consideration of the contexts in which it occurs. The complexities of researching a Playback Theatre performance occur on multiple levels. As Dauber states, the pluralistic nature of Playback Theatre makes the task of researching effectiveness difficult (Dauber, 1999b, p.161). This study does not set out to measure effectiveness, rather it investigates the Playback Theatre performance through the experiences of the audience.
 
+道博命名的四个层面也是相互影响的。对观众而言，一人一故事剧场的表演是多层次的、复杂的。Bharucha (1993)断言，研究任何表演都需要考虑其发生的背景。研究一人一故事剧场表演的复杂性体现在多个层面。正如 Dauber 所说，一人一故事剧场的多元性使得研究其有效性变得困难重重（Dauber, 1999b, p.161）。本研究并不打算衡量其有效性，而是通过观众的体验来研究一人一故事剧场表演。
+
 ## 2.5 Summary
+
+## 2.5 小结
 
 This chapter has charted the development of Playback Theatre from the early experimentation by The Original Company in upstate New York, USA, through the international expansion and the establishment of various elements of regulation, to the emergence of a more critical phase in which research such as this thesis now features. I have presented the philosophical underpinnings and integral values of the form and sketched the practice applications that have emerged. The dimensions of the Playback Theatre method have been acknowledged in relation to general applied theatre methods and the specific aspects identified in Playback Theatre theory - art, ritual and social interaction. An exploration of the many applications of Playback Theatre has assisted me to articulate the complex nature of the interactive purposes of this hybrid form in the community arena.
 
+本章描述了一人一故事剧场的发展历程，从美国纽约州北部初始剧团的早期实验，到国际扩张和各种监管要素的建立，再到现在本论文等研究工作所处的更为关键的阶段。我介绍了这种形式的哲学基础和整体价值，并勾勒了已经出现的实践应用。一人一故事剧场方法的各个层面已在一般应用剧场方法和一人一故事剧场理论所确定的具体方面——艺术、仪式和社会互动——中得到确认。对"一人一故事剧场"多种应用的探索有助于我阐明这种混合形式在社群舞台上的互动目的的复杂性。
+
 The final section discusses Playback Theatre scholarship and research with particular emphasis on the multiple levels at which Playback Theatre operates and the complexities of researching performance. The chapter argues that theory and knowledge about Playback Theatre has ostensibly been developed through practitioner reflection in the tradition of an oral culture. In undertaking this study, I aim to extend the knowledge and scope of understanding about Playback Theatre within the academic domain.
+
+最后一节讨论了一人一故事剧场的学术和研究，特别强调了一人一故事剧场运作的多个层面以及研究表演的复杂性。本章认为，有关一人一故事剧场的理论和知识表面上是通过实践者在口述文化传统中的反思而发展起来的。在进行这项研究时，我的目标是在学术领域扩展有关一人一故事剧场的知识和理解范围。
