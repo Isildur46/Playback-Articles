@@ -68,7 +68,7 @@ The spread of Playback Theatre has been consistent yet contained, with the basic
 
 ## 2.2 The Playback Theatre Method
 
-## 2.2 一人一故事剧场法
+## 2.2 一人一故事剧场方法
 
 Jo Salas, music therapist and co-founder of Playback Theatre states that from its earliest inception, the scope and purpose of Playback Theatre has been to 
 
@@ -77,7 +77,7 @@ Jo Salas, music therapist and co-founder of Playback Theatre states that from it
 
 音乐治疗师兼一人一故事剧场创始人之一乔-萨拉斯（Jo Salas）说，"一人一故事剧场"从一开始就致力于
 
-> 揭示任何经历的形状和意义，即使是那些在讲述过程中模糊不清的经历。[一人一故事剧场可以]以仪式和审美意识赋予故事以尊严，并将它们联系在一起，从而形成一个关于人群的集体故事，无论是公开招募的观众组成的临时群体，还是以持续方式将生活联系在一起的群体。……[一人一故事剧场]提供了一个公共舞台，在这个舞台上，个人经历的意义得以扩展，成为有坚实的存在的共同意识的一部分（Salas，1993 年，第 22 页）。
+> 揭示任何经历的形状和意义，即使是那些在讲述过程中模糊不清的经历。[一人一故事剧场可以]以仪式和美学赋予故事以尊严，并将它们联系在一起，从而形成一个关于人群的集体故事，无论是公开招募的观众组成的临时群体，还是以持续方式将生活联系在一起的群体。……[一人一故事剧场]提供了一个公共舞台，在这个舞台上，个人经历的意义得以扩展，成为有坚实的存在的共同意识的一部分（Salas，1993 年，第 22 页）。
 > 
 
 Salas' explanation alludes to three defining elements of Playback Theatre: personal story (the content), a ritual aesthetic (the form), and the context. Fox (1994) reports that early Playback Theatre audiences included children in their schools, disabled residents at their group home and friends and family in their neighbourhood. It was the early application in places other than theatres, for people other than conventional theatre audiences that differentiated it from other forms of theatre. That these audiences were situated in specific contexts, e.g., education/school, rehabilitation/group home, community/neighbourhood, has emerged as a defining aspect of the Playback Theatre method. The contemporary terminology for applications of theatre in such contexts is applied theatre (Taylor 2003).
@@ -94,7 +94,7 @@ The context can act as an initial link among audience members and between audien
 
 This is the ritualised process that both drives and is driven by the audience-performer interaction. In Playback Theatre the form consists of conventions of space, performance and content through participation. An illustration of the Playback Theatre spacial conventions appears in Appendix 1. Performance conventions include the performing roles[7]: actor, conductor and musician, and performance forms, for example fluid sculptures and story scenes[8], and styles, which could be unique to the specific ensemble. (For a description of a Playback Theatre performance see Appendix 2). Hosking & Penny (1998) propose an explanation of Playback Theatre as an interactive performance form:
 
-这是一个仪式化的过程，既推动观众与表演者之间的互动，也被观众与表演者之间的互动所推动。在一人一故事剧场中，这种形式包括空间、表演和内容的约定俗成的参与方式。一人一故事剧场空间惯例图示见附录 1。表演惯例包括表演角色[7]：演员、指挥和音乐家，以及表演形式，例如流体雕塑和故事场景[8]，以及风格，这可能是特定剧团独有的。（关于一人一故事剧场表演的描述，见附录 2）。Hosking & Penny（1998 年）将一人一故事剧场解释为一种互动表演形式：
+这是一个仪式化的过程，既推动观众与表演者之间的互动，也被观众与表演者之间的互动所推动。在一人一故事剧场中，这种形式包括空间、表演和内容的约定俗成的参与方式。一人一故事剧场空间惯例图示见附录 1。表演惯例包括表演角色[7]：演员、领航员和乐师，以及表演形式，例如流动雕塑和自由演绎[8]，以及风格，这可能是特定剧团独有的。（关于一人一故事剧场表演的描述，见附录 2）。Hosking & Penny（1998 年）将一人一故事剧场解释为一种互动表演形式：
 
 [7] Playback Theatre performing roles are discussed in Chapter 5. For a full description of the performing roles see Chapters 4-6 in *Improvising Real Life* by Jo Salas (1993) & Chapters 9-11 in *Acts of Service* by Jonathan Fox (1994). See also Good (1986) and Hoesch (1999).
 
