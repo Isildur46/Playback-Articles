@@ -440,10 +440,7 @@ This subjectivity and flexibility of standards is not unique to playback, but in
 这种主观性和标准的灵活性并不是一人一故事所独有的，事实上任何艺术领域都存在。观众对任何表演的体验都离不开背景和期望。艺术家实际提供的东西与观众带来的东西之间总是存在相互作用。文学或绘画等非表演艺术形式也是如此。价值归根结底是艺术家和观众共同创造的，这也是在实际成就的每一点上都能发现真正艺术意义的原因。
 
 
-Playback's Fulfillment
-
-
-一人一故事的实现
+## Playback's Fulfillment 一人一故事的实现
 
 
 In my small town there lives a world-famous pianist who performs here once or twice a year. His most recent concert fell on the same night as one of our playback shows. I was very sorry to miss it: this man's music is a treasure, a consummation of the art of the keyboard. As my imagination went from his concert, an all-Bach solo recital, to our playback theatre show, the difference between these two kinds of performances was very clear. Much as I love the magic of playback's mercurial creativity, I also sometimes want the grandeur and perfection of art that is painstakingly developed and rehearsed.
