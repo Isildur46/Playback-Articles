@@ -1,64 +1,108 @@
-# THE ART OF LISTENING IN PLAYBACK THEATRE: Conductor’s perspective
+# THE ART OF LISTENING IN PLAYBACK THEATRE: Conductor’s perspective 一人一故事剧场中的倾听艺术：领航员的
 
 Satu Prittinen
 
 TTO 2018-2020
 
-# Introduction
+# Introduction 简介
 
 I see Playback Theatre is an art form with almost endless possibilities. Created with the audience and based on improvisation, it is crucial to have the structure and routines as a way of making the audience have some sense of predictability in the face of the unexpected events unfolding before them. Actors and conductor use different forms on stage to find and portray the essence of the story, also referred to as the heart of the story. (Pitkänen, PTC-studies, March 2019; Rahmel, PTC- studies, May 2019.) It can be referred to as a humble form of art, seeking to offer voice to all members of society, especially the ones silenced or ignored (Fox, H., 2007).
 
+在我看来，一人一故事剧场是一种几乎具有无限可能性的艺术形式。它与观众共同创作，以即兴表演为基础，关键是要有一定的结构和固定流程，使观众在面对眼前的突发事件时有一定的可预见性。演员和领航员在舞台上使用不同的形式来寻找和描绘故事的精髓，也被称为故事的核心。（Pitkänen, PTC-studies, March 2019; Rahmel, PTC-studies, May 2019.）它可以被称为一种谦逊的艺术形式，旨在为所有社会成员，尤其是那些被压制或被忽视的人发出声音（Fox, H., 2007）。
+
 None of this is possible without one key element; listening. Listening can be viewed as simply sensing the audio waves one receives, but in order to understand those one must process them and finally the conductor and the actors do their best to respond by playing back the story they heard. This requires the listening to be both active and empathetic.
 
-In this thesis I will explore the art of listening in Playback Theatre from the conductor’sperspective, mirrored against the theory of active empathetic listening (AEL), which includes three aspects: sensing, processing and responding (Drollinger, Comer &Warrington, 2006).
+没有倾听这一关键要素，这一切都不可能实现。倾听可以被视为简单地感知所接收到的声波，但为了理解这些声波，必须对其进行处理，最后领航员和演员通过演绎他们所听到的故事来尽力做出回应。这就要求倾听既要积极主动，又要感同身受。
+
+In this thesis I will explore the art of listening in Playback Theatre from the conductor’sperspective, mirrored against the theory of active empathetic listening (AEL), which includes three aspects: sensing, processing and responding (Drollinger, Comer & Warrington, 2006).
+
+在这篇论文中，我将从领航员的角度探讨一人一故事剧场中的倾听艺术，并以积极共情的倾听（AEL）理论为镜像，该理论包括三个方面：感知、处理和回应（Drollinger, Comer & Warrington, 2006）。
 
 I wish to provide some answers to the questions about possible emphasises on different aspects of active empathetic listening and ways that the conductors describe their listening in the performance situations.
 
+我希望就积极共情的倾听可能强调的不同方面，以及领航员描述他们在演出情境中倾听的方式等问题提供一些答案。
+
 This has been done through a questionnaire with ten (10) 1-5 scale questions built or borrowed from the questionnaire of Active Empathetic Listening (Drollinger, Comer & Warrington 2006), covering the three aspects mentioned above. In addition to these there were two (2) open questions asking the describe aspects of listening in own words and to choose the most important of them. Posted on in a closed group on a social media platform for one (1) week in May 2020, the questionnaire received 45 responses.
 
-# 1. Listening in the Playback Theatre
+为此，我从积极共情的倾听问卷（Drollinger, Comer & Warrington 2006）中借鉴了十个 1-5 级的问题，涵盖了上述三个方面。除此之外，还有两（2）个开放式问题，要求用自己的话描述倾听的各个方面，并选择其中最重要的方面。该问卷于 2020 年 5 月在社交媒体平台的一个封闭群组中发布了一（1）周，共收到 45 份回复。
+
+# 1. Listening in the Playback Theatre 一人一故事剧场中倾听
 
 Playback Theatre was created by Jonathan Fox, Jo Salas and their company in 1975 (Rowe, 2007, p.12; Salas, 20.5.2011 TedTalk). Starting from an idea of offering a new kind of art to the communities and willingness to explore the unknown. It has spread to over 60 countries and continues to build understanding, empathy, dialog and change in various contexts. (Salas, 20.5.2011, TedTalk.)
 
+一人一故事剧场由乔纳森-福克斯（Jonathan Fox）、乔-萨拉斯（Jo Salas）和他们的剧团于 1975 年创立（Rowe, 2007, p.12; Salas, 20.5.2011 TedTalk）。他们的初衷是为社群提供一种新的艺术，并愿意探索未知世界。它已传播到 60 多个国家，并继续在各种背景下建立理解、共鸣、对话和变革。（萨拉斯，2011 年 5 月 20 日，TedTalk）。
+
 In a nutshell the concept consists of an audience member sharing a real-life story about their own life. This person is called the “teller” and while telling they sit next to a Playback Theatre conductor at one (often left) side of the stage. On stage there are usually four (4) actors and at least one (1) musician. The conductor discusses with the teller, collecting the essential information about the story being told. Once finished, the conductor chooses a form (a structure) to be used for this story and says, “*Let’s watch*”, indicating to the actors and musician to begin their performance. Actors and musician work together to play the story back in an artistic form. (Rowe, 2007, p. 12; Salas, 20.5.2011, TedTalk; Salas & al., 2013.)
+
+简而言之，这一概念由一名听众分享自己生活中的真实故事组成。这个人被称为"讲述者"，讲述时他们坐在舞台一侧（通常是左侧）的一人一故事剧场领航员旁边。舞台上通常有四（4）名演员和至少一（1）名乐师。领航员与讲述者讨论，收集所讲述故事的基本信息。完成后，领航员会为这个故事选择一种形式（结构），然后说"*请看*"，示意演员和乐师开始表演。演员和乐师共同合作，以艺术的形式将故事演绎出来。(Rowe，2007 年，第 12 页；Salas，2011 年 5 月 20 日，TedTalk；Salas & al.，2013 年）。
 
 It is important for the conductor to listen to the teller and protect them from telling too much, in other words keeping in mind that the situation is also a live performance. Playback Theatre seeks to offer a safe space for different groups of people being heard, especially those that might be silenced or left out from the public discussions in the communities. (Rahmel, PTC-studies, September 2019 & May 2020, Pitkänen, PTC-studies, November 2019.) Everyone should be offered a chance to be heard without judgement or prejudice. However, this does not mean that Playback Theatre could be used as a mean to express insulting, belittling or harmful thoughts towards some individuals or groups of people. In case this happens, the conductor must stop the story from being presented on stage. These ethical frames built to ensure everyone can feel accepted and included, can sometimes create the illusion that Playback Theatre is political, which it is not (Rahmel, PTC- studies, May 2020.)
 
-As described above listening is an essential part of Playback Theatre. There are many levels and layers of listening taking place simultaneously during a Playback Theatre performance. The audience listens to each other telling stories, conductor facilitating those and actors and musician performing them. The musician can be described as playing the emotional current of the story
+重要的是，领航员者要倾听讲述者的讲述，保护他们不要讲得太多，换句话说，要牢记这个过程也是一场现场表演。一人一故事剧场旨在为不同群体提供一个安全的倾听空间，尤其是那些可能被压制或被排除在社群公共讨论之外的群体。(Rahmel, PTC-studies, September 2019 & May 2020, Pitkänen, PTC-studies, November 2019.）。每个人都应该有机会发表意见，而不应受到评判或偏见。但这并不意味着可以利用一人一故事剧场表达对某些个人或群体的侮辱、贬低或有害思想。如果出现这种情况，领航员必须停止故事在舞台上的呈现。这些为确保每个人都能感到被接纳和包容而建立的道德框架，有时会造成一种错觉，以为一人一故事剧场是政治性的，其实不然（Rahmel, PTC- studies, May 2020.）。
 
-(Salas, 20.5.2011, TedTalk). The listening must be deep and focused, attuned to the teller (Ng & Graydon, 2016).
+As described above listening is an essential part of Playback Theatre. There are many levels and layers of listening taking place simultaneously during a Playback Theatre performance. The audience listens to each other telling stories, conductor facilitating those and actors and musician performing them. The musician can be described as playing the emotional current of the story (Salas, 20.5.2011, TedTalk). The listening must be deep and focused, attuned to the teller (Ng & Graydon, 2016).
 
-## 1.1Previous studies
+如上所述，倾听是一人一故事剧场的重要组成部分。在一人一故事剧场演出中，同时进行着多层次的倾听。观众在倾听彼此讲述故事，领航员主持这个过程，演员和乐师演绎故事。乐师可以视作是在演奏故事中的情感之流（Salas, 20.5.2011, TedTalk）。倾听必须深入、专注，与讲述者同频（Ng & Graydon, 2016）。
+
+## 1.1 Previous studies 以往的研究
 
 Playback theatre is built on the notion of the power of being heard. I would suspect it is quite common to have similar experience as Virginia Reed Murphy when first seeing one’s own story played back on stage with sincerity and emotion, as if it was the own story of those performing it. Describing feeling a deep connection, sensing the “*I am, because you are*”- phrase coming to life.
 
+一人一故事剧场建立在"倾听的力量"这一概念之上。我猜想，当第一次看到自己的故事在舞台上真挚动情地演绎，仿佛是表演者自己的故事时，类似弗吉尼亚-里德-墨菲的经历是很常见的。她形容自己感受到了一种深刻的联系，感觉到"*我存在，因为你存在*"这句话栩栩如生。
+
 She felt that a simple act of listening with empathy can be life-giving. (Murphy, 6.3.2019, TedTalk.)
+
+她认为，一个简单的共情的倾听行为就能赋予生命力。(Murphy, 6.3.2019, TedTalk.）。
 
 In its close to 50 years of existence Playback Theatre has also faced criticism and questioning. It has been seen too much like therapy and too process oriented as well as too artistic, depending on the viewpoint of the criticiser. (Salas, 20.5.2020, TedTalk.) Despite of this, it has kept going and growing providing numerous people around the world a chance of being heard and seeing their story transformed to art on stage.
 
+在近 50 年的发展历程中，一人一故事剧场也曾面临批评和质疑。人们认为它太像治疗，太面向过程，也太艺术化，这取决于批评者的观点。（Salas, 20.5.2020, TedTalk.）尽管如此，它仍在不断发展壮大，为世界各地的无数人提供了被倾听的机会，让他们看到自己的故事在舞台上转化为艺术。
+
 There have been studies on Playback Theatre too, some Theses, many project or case based have been presented in scientific articles or books. I can only scratch the surface here but will try to present some of them. The two founders of Playback Theatre Jonathan Fox and Jo Salas have written and edited some books about Playback Theatre.
+
+关于一人一故事剧场的研究也有很多，一些论文、许多基于项目或案例的研究都已发表在科学文章或书籍中。在此，我只能浅尝辄止，但会尽量介绍其中一些。一人一故事剧场的两位创始人乔纳森-福克斯（Jonathan Fox）和乔-萨拉斯（Jo Salas）撰写和编辑了一些关于一人一故事剧场的书籍。
 
 Jo Salas has written several books on her experiences with Playback Theatre, probably most famous being “*Improvising real life*- *personal story in Playback Theatre”* (1999). In *Improvising real life* Jo Salas describes the practice and the philosophy of Playback Theatre. Together with Heinrich Dauber, Jonathan Fox edited an essay collection called *“Gathering voices- essays on Playback Theatre”* in 1999. Jonathan Fox has recently written “*Beyond theatre- a memoir of playback theatre”* (2015) in which he explains the events and thoughts behind the vision that became Playback Theatre. He has also been writing a theory called *Narrative reticulation* based on his previous essaysand the thoughts of some members of the global Playback Theatre community. This has not yet been published but is available for educational use as a working paper. (Fox, 2016.)
 
+乔-萨拉斯（Jo Salas）写了几本关于她在一人一故事剧场的经历的书，其中最著名的可能是《*即兴真实人生——一人一故事剧场中的个人故事》*（1999 年）。在《即兴真实人生》一书中，乔-萨拉斯描述了一人一故事剧场的实践和理念。1999 年，乔纳森-福克斯与海因里希-道伯（Heinrich Dauber）共同编辑了一本名为*"汇聚声音——关于一人一故事剧场的论文集"*的论文集。乔纳森-福克斯最近撰写了《*超越剧场——一人一故事剧场回忆录*》（2015 年），其中他解释了一人一故事剧场的愿景背后的事件和想法。他还根据自己以前的文章和全球一人一故事剧场社群一些成员的想法，撰写了名为"*叙事网状结构*"（Narrative reticulation）的理论。该理论尚未出版，但可作为工作文件用于教学。（Fox, 2016.）。
+
 Studies of Playback Theatre have covered for example using Playback Theatre to address bullying at schools (Salas, J., 2005), exploring the accountability and aesthetics when used among refugees (Dennis, 2008), enhancing communication among medical students (Salas, R. & al., 2013).
+
+有关一人一故事剧场的研究包括利用一人一故事剧场解决校园欺凌问题（Salas, J., 2005）、探索难民使用一人一故事剧场时的责任感和美感（Dennis, 2008）、加强医学生之间的交流（Salas, R. & al., 2013）等。
 
 Playback Theatre as a method of intercultural dialog ( Feldhendler, 2007) and stories in PT as cultural production and an ethics of listening (Dennis, 2007). It has been used as a form of cultural resistance in the occupied Palestine (Rivers, 2015) and exploring empathy within Playback Theatre (Ng & Graydon, 2016).
 
+一人一故事剧场是一种跨文化对话的方法（Feldhendler, 2007），PT 中的故事是一种文化生产和倾听伦理（Dennis, 2007）。它被用作巴勒斯坦被占领地区的一种文化抵抗形式（Rivers, 2015），并在一人一故事剧场中探索共情（Ng & Graydon, 2016）。
+
 As notable from these examples most of the studies on Playback Theatre have not focused on listening but more on the different contexts where Playback Theatre can be used in. Dennis (2007) comes closest to listening, looking at Playback Theatre as a community-based art form continuing the long tradition of coming together for storytelling. He sees Playback Theatre as a way of promoting ethical listening and anti-oppressive practices. I think listening is such an essential and irreplaceable part of Playback Theatre that focusing solely on that in a study has not been relevant or inviting. I find it interesting because of this. Listening is always present but can be taken for granted and overlooked when reflecting a Playback Theatre performance, because there are so many aspects to be considered as a conductor, which I will present now.
 
-## 1.2The multifaced role of the conductor
+从这些例子中可以看出，大多数有关一人一故事剧场的研究并不关注倾听，而是更关注一人一故事剧场可用于的不同语境。丹尼斯（Dennis, 2007）最接近于倾听，他将一人一故事剧场视为一种基于社群的艺术形式，延续了人们聚在一起讲故事的悠久传统。他认为，一人一故事剧场是促进道德倾听和反压迫实践的一种方式。我认为倾听是一人一故事剧场不可或缺、不可替代的一部分，因此在研究中仅仅关注倾听并不贴切，也不吸引人。正因为如此，我觉得这很有趣。倾听始终存在，但在反映一人一故事剧场表演时可能被视为理所当然和被忽视，因为作为一名领航员者，有许多方面需要考虑，我现在将介绍这些方面。
+
+## 1.2 The multifaced role of the conductor 领航员的多面角色
 
 During a Playback Theatre performance, the conductor must focus on multiple things simultaneously and yet appear to be very focused only on the teller while they are telling their story.
 
+在一人一故事剧场演出中，领航员必须同时关注多件事情，但在讲述者讲述故事时又要显得非常专注。
+
 This is not an easy task and requires practice and understanding. It is very important that the performing group and the audience sense they can trust the conductor to have control of the situation and be open to any unexpected events. In order to succeed in this the conductor must be fully present in the situation and avoid being too self-critical (Rahmel, PTC-studies, January 2020).
+
+这并非易事，需要练习和理解。非常重要的一点是，表演团体和观众要相信领航员能够控制局面，并对任何突发事件保持开放的态度。为了成功做到这一点，领航员必须全身心地投入其中，避免过于自我批评（Rahmel, PTC-studies, January 2020）。
 
 Fox’s (2016) *Narrative reticulation* is built on four main categories or aspects; story, spontaneity, atmosphere and guidance. Story includes memorizing, order and a sense of aesthetic. Spontaneity refers to being present to events of the situation, ability to cooperate and Genuity or acting as oneself. Atmosphere covers being a human in front of other humans, being inviting and inclusive toward to audience, oneness between the audience and the performers and shamanistic energy. Guidance is built from the rituals, skills of protecting both the teller and the audience, knowledge of the ethical viewpoints, ensuring diversity in tellers, ways of choosing the next teller and conveying the sense of control to the audience. These are not hierarchical to each other but rather overlapping and intertwined together. All are necessary and important.
 
+福克斯（2016）的"叙事网状结构"（*Narrative reticulation）建立在四个主要类别或方面之上：故事、自发性、氛围和引导。故事包括记忆、秩序和美感。自发性指的是对情境事件的临场感、合作能力和创造力或自我行为。氛围包括在其他人面前作为一个人、对观众的邀请和包容、观众和表演者之间的合一以及萨满般的能量。引导来自仪式、保护讲述者和观众的能力、道德观点的知识、确保讲述者的多样性、选择下一位讲述者的方法以及向观众传达控制感。它们彼此之间没有等级关系，而是相互重叠和交织在一起。所有这些都是必要和重要的。
+
 When exploring different Playback Theatre groups, Fox (2016) was able to detect that the difference between the groups establihing a true connection with the audience and those who did not succeed in this, came down to having a clear red thread in the performance. Thus, one important factor of the multifacedness of the conductor’s role is the ability to successfully combine these different aspects and create a sense of coherence in the stories, which are impossible to predict.
+
+福克斯（Fox, 2016）在研究不同的一人一故事剧团时发现，与观众建立真正联系的剧团与未能成功建立联系的剧团之间的区别，就在于表演中是否有一条明确的红线。因此，领航员角色的多面性的一个重要因素就是能够成功地将这些不同方面结合起来，并在故事中创造出一种连贯感，而这是无法预测的。
 
 I think narrative reticulation provides an idea of the multifaced role of the conductor. During our studies Rahmel and Pitkänen also presented this Jo Salas’ idea of the seven different aspects of a Playback Theatre conductor. They are *master of ceremony, entertainer, performer, diplomat, therapist, clown* and *shaman*. These link quite closely to the aspects of narrative reticulation presented above. Master of ceremony keeps order and atmosphere; entertainer offers a piece of oneself to the stage in a personal way. Performer needs to be present; diplomat values all stories and seeks to empower diversity in stories. Therapist does not mean Playback Theatre would be therapy, rather it refers to the ethics that the conductor should always consider, often in the form of protecting the teller and audience from too exposing too much and the way a possibly traumatic story is played back. Clown enables the flow of different emotions and the importance of humour in a performance. Shaman is considered to be a spiritual guide. (Rahmel, TTO-studies, January 2019, from Salas, 1999.)
 
+我认为，叙事网状结构为领航员的多面性角色提供了一个思路。在我们学习期间，拉赫梅尔（Rahmel）和皮特卡宁（Pitkänen）还提出了乔-萨拉斯关于一人一故事剧场领航员七个不同方面的观点。这七个方面分别是*司仪、娱乐家、表演者、外交官、治疗师、小丑*和*萨满*。这些方面与上文介绍的叙事网状结构的各个方面有着非常密切的联系。司仪负责维持秩序和气氛；娱乐家以个人的方式在舞台上展现自己。表演者需要在场；外交官重视所有故事，并寻求增强故事的多样性。治疗师并不意味着一人一故事剧场就是治疗，而是指领航员应始终考虑的职业道德，通常是保护讲述者和观众，避免过于暴露，以及演绎可能造成创伤的故事的方式。小丑能让不同的情绪在表演中流动，并强调幽默的重要性。萨满被视为精神向导。(Rahmel, TTO-studies, January 2019, from Salas, 1999.）。
+
 Both the multiple roles and the different aspects of Playback Theatre conductor and the previous studies are built on listening, an active, empathetic listening that can offer a profound sense of being seen and heard to the teller, as described by Virginia Reed Murphy (2019) above.
+
+正如弗吉尼亚-里德-墨菲（Virginia Reed Murphy）（2019）在上文所述，一人一故事剧场领航员的多重角色和不同方面以及之前的研究都建立在倾听的基础上，一种积极的、感同身受的倾听，能够给讲述者带来一种被看到和听到的深刻感受。
 
 # 2. The Active Empathetic Listening (AEL) in Playback Theatre
 
@@ -115,7 +159,7 @@ In analysing the answers, I started by looking at the charts provided automatica
 
 Here are the results for the research question 1, collected from the questions with a scale. Results are presented through the aspects of listening from the AEL. I will present only some of the charts here, all of them can be found in the Attachment 3.
 
-*Sensing*
+### Sensing
 
 Sensing was covered in the first three (3) questions of the questionnaire. These were about being aware of what is implied but not said (Q1), sensing how the Teller feels (Q2) and listening to the tone of the conversation when talking to the Teller (Q3). Sensing from these perspectives showed to be often taking place among the responders. None of these received any answers for the value 1, indicating never and only sensing how the Teller feels (Q2) received one (1) answer to value 2.
 
@@ -129,7 +173,7 @@ Sensing seemed to take place often in these forms during a Playback Theatre perf
 
 These seem logical because sensing the tone of the conversation and the Teller’s feelings are important factors guiding the conductor during the discussion with the Teller. To my short experience with Playback Theatre some of the greatest successes of playing the story back have taken place when the Teller discovers something on the stage, they were not verbalizing but still recognize. I think the power of Playback Theatre stems from this kind of moments, sometimes happening to the Teller and sometimes to a member of the audience reflecting their own experiences against those presented at the stage. These are moments of exploring the unknown (Salas, 20.5.2011, TedTalk), building empathy (Ng & Graydon, 2016), Genuity and spontaneity, being open, present and authentically oneself (Fox, 2016) and being deeply moved as a teller (Murphy, 6.3.2019 TedTalk).
 
-*Processing*
+### Processing
 
 The following three questions were about processing. Question 4 about keeping track of the points the Teller makes, question 5 asking for clarification when not sure of the Teller’s meaning and question 6 about deciding the form to be used while listening the Teller.
 
@@ -147,7 +191,7 @@ The clear drop on the commonness of deciding the form to be used while listening
 
 (Drollinger, Comer & Warrington, 2006). In narrative reticulation’s story category Fox (2016) refers to memorizing, order and aesthetics, which are all necessary to choosing a form. The answers indicate that thinking about the form takes place sometimes during the Teller’s story, but not as often as some of the other aspects of listening covered here.
 
-*Responding*
+### Responding
 
 Responding was the aspect behind questions 7, 8 and 9. Showing listening to the Teller by body language (Q7), asking questions to show understanding of Teller’s positions (Q8) and restating important points of the story to ensure correct understanding before choosing the form (Q9).
 
@@ -171,7 +215,7 @@ Question 10 was my own creation, which combined sensing, processing and respondi
 
 In retrospect the most obvious reason for this is probably that in the question/statement I have placed the audience in front of the Teller, as if listening to the audience instead of the Teller would assist in choosing the best form. As will be presented below, holding the Teller front and centre wasimportant for many these Playback Theatre conductors. Multitasking, sensing and considering the audience was mentioned too and is also important but does not surpass the Teller. Another possible explanation for this is that the statement also implies that somehow the audience would offer the best form to the conductor, if they only pay close attention. Quite the opposite, the conductor makes the decision to the best of their abilities bearing in mind the audience and the previous stories of that performance. They do not always find the best possible form in the short time span they have available, but most definitely they all try their best at doing honour to the story trusted for them.
 
-4.2 Aspects of AEL emphasized in the answers of PT conductors
+## 4.2 Aspects of AEL emphasized in the answers of PT conductors
 
 The overall comparison mentioned above show quite nice division between the three aspects of listening, the first three are all from different aspects. However when combining the percentage of the three questions of each three aspects of listening (sensing, processing and responding), sensing receives the highest average percentage of 91,86% on values 4 or 5. Processing follows with 80,7% average on values 4 or 5, and responding on 72,4% average on values 4 or 5.
 
@@ -179,13 +223,13 @@ This might be because as described earlier, sensing is not an option, it must ta
 
 Because of this diversity I included also the open questions offering responders the chance to describe different aspects of listening in their own words and also to choose one aspect that the conductors would consider to be the most important.
 
-## 4.2.1 Conductors own descriptions of listening
+### 4.2.1 Conductors own descriptions of listening
 
 The analysis of the open questions was done as a content analysis. Instead of mirroring the results against some classes, I created own classes for them based on what I found in the data. First, I read the answers through a couple of times. Then I made mind maps collecting different expressions used in the answers. From those I combined similar answers and created classes. In classifying the data, I used different colours for each class, underlining the words and expressions belonging to that class. Finally, I collected all the different answers of each class. All of the answers to open questions can be found in Attachment 4.
 
 For the question 11, which requested to use own words in describing the different aspects of listening in a Playback Theatre performance, I received 43 answers. All responses received a running number to distinguish them from each other, in front of this number there is capital R,referring to “respondent”. The classes I formed of those answers were *reflecting (a), deep and active listening (b), multitasking (c) and focus on teller (d).* I present them in this order, which is based on the number of answers classified to each category. I classified the answers based on the first information offered in them. There were only few answers that fit neatly under one category, most had at least two categories included in them. When presenting quotes from the answers I will indicate the parts, which were not classified under that category.
 
-*a. Reflecting*
+#### a. Reflecting
 
 The category reflecting included 13 answers starting with reflection or comment about the conductor’s work. Some offered a sort of a guideline like in answers (R26, R36 and R38).
 
@@ -211,7 +255,7 @@ Some answers were more in more simple forms, stating the important aspects of li
 
 In these answers there were indicators of Genuity from narrative reticulation (Fox, 2016) and diplomat from the theory of seven roles of a Playback Theatre conductor (Salas, 1999). Diplomat means understanding conductor’s key role in offering diversity and value to stories being told. From the AEL theory (Drollinger, Comer & Warrington, 2006) these answers are closest to processing, handling and seeking to understand the information one receives. I think these answers signal the responsibility for the different aspects of listening. Although one responder (R43) clearly found thisunnecessary to chop the listening to smaller pieces. I agree that it is artificial and might not offer any additional value to the importance of listening. However I feel that pausing to reflect the complexity of not only listening but all the different aspects affecting it in a Playback Theatre performance can be beneficial.
 
-*b. Deep and active listening*
+#### b. Deep and active listening
 
 In this category there were 12 answers, which began with something I classified under deep and active listening. As can be detected from the name of this category, this included all the three categories of AEL (Drollinger, Comer and Warrington, 2006). Non-verbal messages were mentioned in many, like in answer by R2. This was sometimes taken even further like in the answer R10, which adds listening with all of them to the active listening.
 
@@ -229,7 +273,7 @@ These terms could have been used in the answers anyway, but now the number of th
 
 It is easy to see the connection between the scale-questions presented above and this section. The importance of the non-verbal language and the implications offered by the teller. Also, empathy and the interest to understand are present.
 
-*c. Multitasking*
+#### c. Multitasking
 
 In this category there were 10 answers. They were often quite long. Answers in the category of multitasking included several aspects of listening, curiosity and seeking to understand. Also considering the audience’s perspective was present in some of these answers. In multitasking allthree aspects of AEL (sensing, processing and responding) were present. From the narrative reticulation theory (Fox, 2016) building the atmosphere comes closest and of the seven different roles of a conductor the master of ceremony (Salas, 1999). Also finding the red line of the story (Fox, 2016), among the different aspects and unfolding events was mentioned.
 
@@ -245,7 +289,7 @@ In this category there were 10 answers. They were often quite long. Answers in t
 
 As can be seen in these examples from the answers in this category, they describe the complexity of conductor’s tasks during a performance. As mentioned in the answer of R7, this is quite the puzzle in the short timeline available. Ensuring the atmosphere, being impacted by the story and even the dreaming taking place behind the story (R12). The interrelations between stories (R37) can also refer to the role of diplomat from seven roles of the conductor giving value to all stories (Salas, 1999), ensuring the diversity of the stories being told and guidance (Fox, 2016) in enabling diversity of the tellers.
 
-*d. Focus on the teller*
+#### d. Focus on the teller
 
 There were 8 answers starting with the focus on the teller. These answers gave center stage to the teller, sometimes only focusing on the teller, like in answers R1 and R2. Sometimes they included also elements of other categories like in answers R23 and R32. Making the teller feel at ease, seeing themselves a facilitator, giving space for them and feeling their mood.
 
@@ -268,11 +312,11 @@ R15 answer is compact but it includes two very important points to listening, re
 
 Of the aspects in AEL answers in focusing on the teller category come closest to processing and responding. Especially processing in collecting the important points of the story. The descriptions are also about guidance in narrative reticulation (Fox, 2016), telling especially about the protection of the teller and maintaining the rituals, also atmosphere is present in the answers. Diplomat ensuring diversity in stories and therapist as protecting the Teller connect from the seven roles of the conductor (Salas, 1999). The importance of finding the essence in the story, the red thread of the story and eventually of the performance (Fox, 2016).
 
-*Final notes of these results*
+#### Final notes of these results
 
 Since many of the answers contained parts of different categories, I created a system of dividing them into different categories, which was based on the beginning of the answer. This was not very clear cut and if the answer began with a comment or a side note, I used the first category followed by that. Each question only belongs to one (1) category, although it might contain parts of several others too. This proved to be quite an interesting approach with this question, since the question was open, and it would have been possible to start with anything. I think this could indicate something about the most important or at least the easiest to remember factors of their listening as a Playback Theatre conductor.
 
-## 4.2.2 Most important aspect of listening
+### 4.2.2 Most important aspect of listening
 
 The final question of my questionnaire was number 12, which asked to name the most important aspect of listening in Playback Theatre performance. There were 43 answers to this question. Since the question was about the most important aspect, these answers were significantly easier to categorize than those of question 11. Still some answers contained several aspects, which I find telling of the complexity and the multiple levels of Playback Theatre conductor’s work.
 
@@ -280,7 +324,7 @@ I formed five (5) categories based on the answers. They were *active listening a
 
 Q12 in the questionnaire was “*What do You consider to be the most important aspect of listening in a Playback Theatre performance*?” With these answers I seek to answer the last part of my research question 2: How do the conductors themselves describe their listening and the most important aspect of it?
 
-*a. Active listening and presence*
+#### a. Active listening and presence
 
 In this category there were 14 answers, all choosing listening or presence as the most important aspect of listening. The answers about listening included the teller, like in R16 and R17, but also the importance of being present and listening to oneself (R17 & R21). In the AEL answers in this category fall into sensing and processing (Drollinger, Comer & Warrington, 2006).
 
@@ -303,7 +347,7 @@ Listening was also described from the perspective of balancing and making decisi
 
 The importance of being present belongs also to Fox’s (2016) spontaneity in narrative reticulation and Salas’ (1999) performer in the seven roles of the Playback Theatre conductor. Listening also needs to be compassionate and deep (R41), which bring us to the other main category of this question, empathy.
 
-*b. Empathy*
+#### b. Empathy
 
 Already at first glimpse of the answers to this question, the frequency of empathy was easy to notice. There were 13 answers in this category, and it is noteworthy that many of them were short, some only single word- answers like R19. Empathy is so central, that it seemed to be sufficient to refer without any clarification or explanation. Partly this can also be about being loyal to the question, which asked the responders to name only one aspect. Sensing is the aspect of AEL (Drollinger, Comer & Warrington, 2006), I would connect to this category.
 
@@ -321,7 +365,7 @@ Already at first glimpse of the answers to this question, the frequency of empat
 
 Protecting the teller and the audience requires empathy, as in the atmosphere of narrative reticulation (Fox, 2016). Building empathy and understanding (Salas, 20.5.2011, TedTalk) and the power it has to the teller (Murphy, 6.3.2019, TedTalk) support the notion that empathy is an important part of Playback Theatre conductor’s work. Both the therapist and diplomat from the seven roles of conductor also support the need of empathy, protecting the teller from oversharing while empowering diversity on stage (Salas, 1999).
 
-*c.1 Openness and curiosity*
+#### c.1 Openness and curiosity
 
 In this category there were 5 answers. In AEL openness to anything offered in the discussion is about sensing (Drollinger, Comer & Warrington, 2006). Fox’s (2016) Spontaneity and Salas’ (1999) clown also include the importance of being open to different events and feelings taking place in the performance.
 
@@ -336,7 +380,7 @@ In this category there were 5 answers. In AEL openness to anything offered in th
 
 Taking different perspectives, expressing curiosity and receiving the feeling in the performance (R7 & R42). Also, here some answers only had only one word. I think this category links closely to both empathy and active listening. In R42 it is also reminded, perhaps because of the knowledge that I am only beginning my journey as a Playback Theatre conductor, that it is important to take care of the structure and not merely to receive everything as it is offered. This links closely to Story in narrative reticulation (Fox, 2016) and to the next category of answers.
 
-*c.2 Sense of dramaturgy*
+#### c.2 Sense of dramaturgy
 
 Having a sense of dramaturgy is about maintaining the structures, rituals and keeping in mind that the story is soon taken to the stage (Fox, 2016). This category had also 5 answers. In order to do this, one needs to process and respond adequately to what is being told (Drollinger, Comer & Warrington, 2006). Keeping track of the important points and making sure everything runs smoothly is the job of the master of ceremony (Salas, 1999).
 
@@ -351,7 +395,7 @@ Having a sense of dramaturgy is about maintaining the structures, rituals and ke
 
 The answers reflect the theory presented above. As in the answers to question 11, they lift up the importance to find the heart of the story, the essential part of it (R20, R33), some refer to a turning point (R27). These are almost like descriptions of detectives at work, they keep constantly in mind the upcoming performance and seek to find the essence for the actors and the musician to work with.
 
-*c.3 Being sincere and respectful*
+#### c.3 Being sincere and respectful
 
 The last category of question 12 is about sincerity and respect. Both much needed in the Playback Theatre performance. There were 5 answers in this category. Sensing (Drollinger, Comer &
 
@@ -368,7 +412,7 @@ Warrington, 2006), Genuity (Fox, 2016) and diplomat and entertainer (Salas, 1999
 
 These answers reflect all those elements. Relying on the different senses, again the importance of non-verbal communication is raised in R36’s answer. Simply just being sincere in R3 and the element of a global interconnectedness in the form of our humanity in R30. Linking closely to Fox’s (2016) description in atmosphere, being a human in front of other humans.
 
-*Final notes on this question*
+#### Final notes on this question
 
 The answer left out of these categories was R43. The responder, most likely already expressing the listening with heart, and questioning about the aspects of listening in question 11, was clearly frustrated in the answer to the last question. I am grateful for this commentary answer as it provokes questions. If the questions about aspects in listening seemed irrelevant to this responder, why go through the trouble of answering the entire questionnaire, including the open questions. There were 45 answers in total to the scale questions but only 43 to the open questions, so 2 responders did not answer them. Perhaps this responder saw these text fields as a place for offering feedback to me, rather than forms of collecting information on the requested topics.
 
@@ -455,7 +499,7 @@ Salas, R., Steele, K., Lin, A., Loe, C., Gauna, L. & Jafar-Nejad, P. (2013). Pla
 
 # Attachments
 
-**ATTACHMENT 1**
+## ATTACHMENT 1
 
 Description of the questionnaire and its purpose posted on Facebook page of Playback Theatre around the world on 24th of May 2020.
 
@@ -477,7 +521,7 @@ Best regards,
 
 Satu Prittinen
 
-**ATTACHMENT 2**
+## ATTACHMENT 2
 
 **The questionnaire Form**
 
@@ -559,7 +603,7 @@ Oma vastauksesi
 
 Lähetä
 
-**ATTACHMENT 3**
+## ATTACHMENT 3
 
 **Responses to questions 1-10.**
 
@@ -581,7 +625,7 @@ Lähetä
 
 ![img/image6.png](img/image6.png)
 
-**Attachment 4**
+## Attachment 4
 
 **Responses to questions 11 and 12**
 
