@@ -38,7 +38,7 @@ In a nutshell the concept consists of an audience member sharing a real-life sto
 
 It is important for the conductor to listen to the teller and protect them from telling too much, in other words keeping in mind that the situation is also a live performance. Playback Theatre seeks to offer a safe space for different groups of people being heard, especially those that might be silenced or left out from the public discussions in the communities. (Rahmel, PTC-studies, September 2019 & May 2020, Pitkänen, PTC-studies, November 2019.) Everyone should be offered a chance to be heard without judgement or prejudice. However, this does not mean that Playback Theatre could be used as a mean to express insulting, belittling or harmful thoughts towards some individuals or groups of people. In case this happens, the conductor must stop the story from being presented on stage. These ethical frames built to ensure everyone can feel accepted and included, can sometimes create the illusion that Playback Theatre is political, which it is not (Rahmel, PTC- studies, May 2020.)
 
-重要的是，领航员者要倾听讲述者的讲述，保护他们不要讲得太多，换句话说，要牢记这个过程也是一场现场表演。一人一故事剧场旨在为不同群体提供一个安全的倾听空间，尤其是那些可能被压制或被排除在社群公共讨论之外的群体。(Rahmel, PTC-studies, September 2019 & May 2020, Pitkänen, PTC-studies, November 2019.）。每个人都应该有机会发表意见，而不应受到评判或偏见。但这并不意味着可以利用一人一故事剧场表达对某些个人或群体的侮辱、贬低或有害思想。如果出现这种情况，领航员必须停止故事在舞台上的呈现。这些为确保每个人都能感到被接纳和包容而建立的道德框架，有时会造成一种错觉，以为一人一故事剧场是政治性的，其实不然（Rahmel, PTC- studies, May 2020.）。
+重要的是，领航员者要倾听讲述者的讲述，保护他们不要讲得太多，换句话说，要牢记这个过程也是一场现场表演。一人一故事剧场旨在为不同群体提供一个安全的倾听空间，尤其是那些可能被压制或被排除在社群公共讨论之外的群体。(Rahmel, PTC-studies, September 2019 & May 2020, Pitkänen, PTC-studies, November 2019.）。每个人都应该有机会发表意见，而不应受到评判或偏见。但这并不意味着可以利用一人一故事剧场表达对某些个人或群体的侮辱、贬低或伤害性的思想。如果出现这种情况，领航员必须停止故事在舞台上的呈现。这些为确保每个人都能感到被接纳和包容而建立的道德框架，有时会造成一种错觉，以为一人一故事剧场是政治性的，其实不然（Rahmel, PTC- studies, May 2020.）。
 
 As described above listening is an essential part of Playback Theatre. There are many levels and layers of listening taking place simultaneously during a Playback Theatre performance. The audience listens to each other telling stories, conductor facilitating those and actors and musician performing them. The musician can be described as playing the emotional current of the story (Salas, 20.5.2011, TedTalk). The listening must be deep and focused, attuned to the teller (Ng & Graydon, 2016).
 
@@ -104,98 +104,160 @@ Both the multiple roles and the different aspects of Playback Theatre conductor 
 
 正如弗吉尼亚-里德-墨菲（Virginia Reed Murphy）（2019）在上文所述，一人一故事剧场领航员的多重角色和不同方面以及之前的研究都建立在倾听的基础上，一种积极的、感同身受的倾听，能够给讲述者带来一种被看到和听到的深刻感受。
 
-# 2. The Active Empathetic Listening (AEL) in Playback Theatre
+# 2. The Active Empathetic Listening (AEL) in Playback Theatre 一人一故事剧场中的积极共情的倾听（AEL）
 
 I discovered the theory of active empathetic listening quite recently. I had already decided to explore listening from the perspective of the conductor in my thesis. Listening is often divided to three (3) dimensions in different models and theories. In the model of Active Empathetic Listening, which was developed by Comer and Drollinger in 1999, these dimensions are *sensing, processing* and *responding*. (Drollinger, Comer & Warrington, 2006.)
 
+我是最近才发现积极共情的倾听理论的。在我的论文中，我已经决定从领航员的角度来探讨倾听。在不同的模式和理论中，倾听通常被分为三（3）个维度。在 1999 年由 Comer 和 Drollinger 提出的"积极共情的倾听"模型中，这三个维度分别是*感知、*处理*和*回应*。(Drollinger, Comer & Warrington, 2006）。
+
 As my primary source for this I will use the article by Drollinger, Comer and Warrington (2006), which focuses on the interaction between customers and sales personnel. The article covers three separate studies through which it tries to provide validation to the scale and questions used in AEL.
+
+我将使用 Drollinger、Comer 和 Warrington（2006）的文章作为主要资料来源，这篇文章主要关注客户与销售人员之间的互动。这篇文章涵盖了三项独立的研究，试图通过这些研究为 AEL 中使用的量表和问题提供验证。
 
 Drollinger, Comer & Warrington (2006) wished to find ways of distinguishing the effective and ineffective listening among sales personnel.
 
+Drollinger、Comer 和 Warrington（2006）希望找到区分销售人员有效倾听和无效倾听的方法。
+
 This is by no means the goal of this thesis. I only wish to explore the listening in Playback Theatre context through these aspects. I think in Playback Theatre ineffective or superficial listening is notan option, the listening must be active and empathetic always. Empathy needs attuning to the feelings of someone else and attentive listening (Ng & Graydon, 2016). I will now present the three (3) dimensions, here referred to as aspects, as explained by Drollinger, Comer and Warrington (2006) combined to the context of Playback Theatre performance.
 
-## a. Sensing
+这绝不是本论文的目标。我只想通过这些方面来探讨一人一故事剧场中的倾听。我认为，在一人一故事剧场中，无效或肤浅的倾听都是不可取的，倾听必须始终是积极的、共情的。移情需要适应他人的感受，需要专注地倾听（Ng & Graydon，2016）。现在，我将根据 Drollinger、Comer 和 Warrington（2006）的解释，结合一人一故事剧场表演的背景，介绍三（3）个维度（此处称为方面）。
+
+## a. Sensing 感知
 
 Sensing is the first and most basic of these aspects, as can be concluded by the name of this, it includes the concrete action of hearing the words. Also, non-verbal messages and things referred to but not expressed verbally are included under sensing in AEL. (Drollinger, Comer & Warrington, 2006.) In Playback Theatre performance listening as sensing takes place especially between the conductor, actors, musician and the teller. All performers pay close attention to the words being said, the body language and the in-between-the lines hints provided by the teller. During the telling of a longer story the conductor sits next to the teller and often is the person teller focuses on when telling the story.
 
-## b. Processing
+感知是这些方面中的第一个也是最基本的一个方面，顾名思义，它包括听到话语的具体行动。此外，非语言信息和涉及到但未用语言表达的事物也包括在 AEL 的"感知"中。（Drollinger, Comer & Warrington, 2006）在一人一故事剧场表演中，作为感知的倾听尤其发生在领航员、演员、乐师和讲述者之间。所有表演者都会密切关注讲述者所说的话、肢体语言和台词之间的暗示。在讲述一个较长的故事时，领航员坐在讲述者旁边，通常是讲述者讲述故事时所关注的人。
+
+## b. Processing 处理
 
 Processing covers the cognitive operations of the listener, which happen mostly simultaneously with sensing. It has four functions, (1) understanding the meaning, (2) interpreting the underlying implications, (3) evaluating the importance of the cues and (4) remembering the message by updating material in memory. (Drollinger, Comer, Warrington, 2006.)
 
-In the context of Playback Theatre, the conductor (and other performers) seek to follow these steps when listening a story. It is important to understand what the teller means, interpreting and evaluating the cues given and lastly to constantly pile the information to their memory to be used when playing the story back. This aspect includes also the questions, statements and comments of the conductor during the telling of the story. With these the conductor ensures correctunderstanding, encourages to tell more if necessary or also gently and respectfully guides the teller to conclude their story if it seems to be becoming too wide or long. The conductor makes sure the actors and the musician have enough material to work with when playing the story back to the teller.
+处理包括听者的认知操作，大多与感知同时进行。它有四种功能：(1) 理解含义；(2) 解释潜在含义；(3) 评估线索的重要性；(4) 通过更新记忆材料记住信息。（Drollinger, Comer, Warrington, 2006）。
 
-## c. Responding
+In the context of Playback Theatre, the conductor (and other performers) seek to follow these steps when listening a story. It is important to understand what the teller means, interpreting and evaluating the cues given and lastly to constantly pile the information to their memory to be used when playing the story back. This aspect includes also the questions, statements and comments of the conductor during the telling of the story. With these the conductor ensures correct understanding, encourages to tell more if necessary or also gently and respectfully guides the teller to conclude their story if it seems to be becoming too wide or long. The conductor makes sure the actors and the musician have enough material to work with when playing the story back to the teller.
+
+在一人一故事剧场中，领航员（和其他表演者）在倾听故事时要遵循这些步骤。重要的是要理解讲述者的意思，解释和评估所给出的提示，最后不断将信息堆叠到记忆中，以便在演绎故事时使用。这方面还包括在讲述故事时领航员的提问、陈述和评论。通过它们，领航员可以确保理解正确，必要时鼓励讲述者讲述更多的故事，或者在故事似乎变得过于宽泛或冗长时，温和而尊重地引导讲述者结束故事。领航员确保演员和乐师在向讲述者演绎故事时有足够的素材。
+
+## c. Responding 回应
 
 The last of the three aspects is responding, which means that the listener offers signals to the talker that they have been heard and understood. These can be either verbal or non-verbal. Listener often encourages the speaker to continue speaking, if interrupted for a question. If no clarification isneeded this can be as simple as nodding the head or offering short verbal prompts. (Drollinger, Comer & Warrington, 2006.)
 
+三个方面中的最后一个方面是回应，即听众向讲述者发出信号，表示他们已经听到并理解了讲述者的意思。这些信号可以是口头的，也可以是非口头的。如果被打断提问，倾听者通常会鼓励说话者继续说话。如果不需要澄清，可以简单地点头或提供简短的语言提示。（Drollinger, Comer & Warrington, 2006）。
+
 Responding in Playback Theatre starts when the teller has finished telling their story. The conductor has a big responsibility already here in building trust and making the teller feel heard and also choosing the form to be used in playing back the story. Here the conductor must consider the viewpoints of the performing group, the audience and the teller. The point is not to simply act out the story as it has been told, but to respectfully and avoiding too much interpretation seek to provide the essentials of the story in slightly modified form. It is important that the teller recognises the story but ideally also sees something they did not explicitly tell.
+
+一人一故事剧场中的回应始于讲述者讲完故事之后。领航员在建立信任、让讲述者感到自己的声音被倾听以及选择故事演绎的形式方面已经承担了很大的责任。在这里，领航员必须考虑表演团队、观众和讲述者的视角。问题的关键不是简单地按照讲述者所讲的故事进行表演，而是以尊重的态度，避免过多的诠释，力求以略加修改的形式提供故事的实质。重要的是，讲述者要认可故事，但最好也能看到他们没有明确讲述的内容。
 
 The conductor has a crucial role in making this possible as sometimes choosing less than ideal form for the story can restrict the potential of the actors and musician. In my experience giving too much liberty to beginner level actors and musician can result in prolonged and non-coherent stories on stage. Thus, it is important that the conductor knows the performing group and offers them challenges and possibilities based on their skills. The conductor enables the group to shine and succeed.
 
+领航员在实现这一点的过程中起着至关重要的作用，因为有时为故事选择不太理想的形式会限制演员和乐师的潜力。根据我的经验，给初学者水平的演员和乐师过多的自由会导致舞台上的故事冗长而不连贯。因此，领航员必须了解表演团队，并根据他们的技能为他们提供挑战和可能性。领航员可以使得表演团队大放异彩，取得成功。
+
 Should something unwanted to happen during a performance it is important that the conductor can openly acknowledge their failure in choosing a form for the story. It is always possible for the teller to comment the played back story and to tell, if something did not match their telling or ifsomething important was left out. If needed the conductor can offer the chance of a redo, which can be important for both the teller and the performing group. I suspect this can happen more often when the conductor does not have a long experience. Yet I also think that one can never be ready as a Playback Theatre conductor (or any performer) and admitting own missteps builds respect and trust.
 
-# 3. Questions and analysis
+如果在演出过程中出现意外情况，重要的是领航员能够公开承认他们在选择故事形式方面的失败。讲述者总是可以对演绎的故事进行评论，并讲述是否有与他们的讲述不一致的地方，或者是否遗漏了重要的内容。如果需要，领航员可以提供重演的机会，这对讲述者和表演团队都很重要。我猜想，当领航员的经验不丰富时，这种情况会更多一些。但我也认为，作为一名一人一故事剧场领航员（或任何表演者），永远不可能准备就绪，承认自己的失误可以建立尊重和信任。
+
+# 3. Questions and analysis 问题与分析
 
 In order to collect answers from Playback Theatre conductors around the world I created a short questionnaire using Google forms. The questionnaire included ten (10) questions with a Likert-scale from 1 to 5. The value 1 represented never and value 5 always. Google forms did not allow naming the values in between, but they more or less represented 2 rarely, 3 sometimes and 4 often. Of course, I cannot be sure these are the labels used in the minds of the people responding to the questionnaire.
 
+为了从世界各地的一人一故事剧场领航员那里收集答案，我使用谷歌表格制作了一份简短的调查问卷。问卷包括十（10）个问题，用李克特量表（Likert-scale from）从 1 到 5 表示。数值 1 代表从不，数值 5 代表总是。谷歌表单不允许为介于两者之间的数值命名，但它们或多或少代表了 2 很少、3 有时和 4 经常。当然，我不能确定这些就是问卷调查者心中所使用的标签。
+
 I posted the link to the questionnaire on the Facebook page of a closed group called *Playback Theatre around the world* with a short description of its use (Attachment 1). The questionnaire (Attachment 2) was posted on 24th of May 2020 and it was open for answers until 31st of May 2020.
+
+我在一个名为"*世界各地的一人一故事剧场*"的封闭群组的 Facebook 页面上发布了问卷链接，并附有简短的使用说明（附件 1）。问卷（附件 2）于 2020 年 5 月 24 日发布，截止日期为 2020 年 5 月 31 日。
 
 The limited time was chosen mainly because of the length of this thesis as I wanted to include all the answers to my analysis and would not have been able to do so with a large data.
 
+之所以选择有限的时间，主要是考虑到本论文的篇幅，因为我希望将所有答案都纳入我的分析中，如果数据量较大，就无法做到这一点。
+
 For my research questions I chose two (2) questions. The first seeking to cover the scale questions and the second the open questions.
+
+对于我的研究问题，我选择了两（2）个问题。第一个问题是量表问题，第二个问题是开放问题。
 
 Questions
 
-1. Which aspects of Active Empathetic Listening are emphasized in the answers from Playback Theatre conductors?
-2. How do the conductors themselves describe their listening and the most important aspect of it?
+问题
+
+1. Which aspects of Active Empathetic Listening are emphasized in the answers from Playback Theatre conductors? 在一人一故事剧场领航员的回答中，积极共情的倾听（AEL）的哪些方面得到了强调？
+2. How do the conductors themselves describe their listening and the most important aspect of it? 领航员自己如何描述他们的倾听以及其中最重要的方面？
 
 In the original AEL questionnaire there are 21 statements. For sensing and processing there are eight (8) for each aspect and five (5) for responding. As I took these quite far from their original context of sales personnel and their customers, I only choose some of the statements, some I modified and one I created myself loosely based on the original questions. In my questionnaire for the Playback Theatre conductors there were ten (10) questions with the scale from 1-5. Of those three (3) focused on sensing, three (3) on processing, three (3) on responding and one (1) own which combined sensing, processing and responding.
 
+在最初的 AEL 问卷中有 21 项陈述。在感觉和处理方面，每个方面都有 8 项陈述，回答方面有 5 项陈述。由于我把这些问题从销售人员和他们的客户的原始背景中抽离出来，我只选择了其中的一些陈述，有些陈述是我修改过的，还有一个陈述是我在原始问题的基础上粗略地自己创造出来的。在我给一人一故事剧场领航员的问卷中，有十（10）个问题，量表为 1-5。其中有三（3）个问题是关于感知的，三（3）个问题是关于处理的，三（3）个问题是关于回应的，还有一（1）个问题是综合了感知、处理和回应的。
+
 In analysing the answers, I started by looking at the charts provided automatically by forms I used. In searching the emphasis, I was looking at the questions that had most answers on the values 4 and 5, meaning often and always. I arranged the answers based on the most agreed on when calculating together the percentage of answers in those two values. In presenting these results I will use the aspects of sensing, processing and responding.
 
-# 4. Results
+在分析答案时，我首先查看了所使用表格自动提供的图表。在搜索重点时，我关注的是那些回答值为 4 和 5（即经常和总是）最多的问题。在计算这两个数值的答案所占百分比时，我根据最一致的答案进行了排列。在介绍这些结果时，我将从感知、处理和回应这三个方面进行阐述。
 
-## 4.1 Results on the emphasized aspects of listening by Playback Theatre conductors
+# 4. Results 结果
+
+## 4.1 Results on the emphasized aspects of listening by Playback Theatre conductors 关于一人一故事剧场领航员强调的倾听方面的结果
 
 Here are the results for the research question 1, collected from the questions with a scale. Results are presented through the aspects of listening from the AEL. I will present only some of the charts here, all of them can be found in the Attachment 3.
 
-### Sensing
+以下是针对研究问题 1 的结果，这些结果是从带有量表的问题中收集的。结果通过 AEL 中倾听的各个方面呈现。我在此仅介绍部分图表，所有图表可在附件 3 中找到。
+
+### Sensing 感知
 
 Sensing was covered in the first three (3) questions of the questionnaire. These were about being aware of what is implied but not said (Q1), sensing how the Teller feels (Q2) and listening to the tone of the conversation when talking to the Teller (Q3). Sensing from these perspectives showed to be often taking place among the responders. None of these received any answers for the value 1, indicating never and only sensing how the Teller feels (Q2) received one (1) answer to value 2.
 
+问卷的前三（3）个问题涉及感知。这三个问题是：意识到暗示但没有说出来的话（问题 1）、感觉到讲述者的感受（问题 2）和与讲述者交谈时倾听谈话的语气（问题 3）。从这些角度出发的感知在答卷人中经常出现。没有人回答数字 1，这表明从来没有，只有"感受讲述者的感受"（Q2）得到了一 (1) 个价值 2 的答案。
+
 Question 3 (*I listen to the tone of the conversation when talking to the Teller)* received the highest percentage (97,8%) of values 4 and 5 both in the sensing subsection and the overall comparison of all the ten questions. Sensing the Teller’s feelings (Q2) had 93,3 % of answers on values 4 and 5, placing 3rd on the overall comparison As a Playback Theatre conductor being aware of what the Teller implies but does not say also received high percentage of values 4 and 5, totalling to 84,5% and 5th overall placing.
 
+问题 3（*我在与讲述者交谈时倾听谈话的语气*）在感知分项和所有 10 个问题的总体比较中，价值 4 和价值 5 所占比例最高（97.8%）。感觉到讲述者的感受（问题 2）有 93.3% 的人回答了 4 分和 5 分，在总体比较中排在第三位。 作为一名一人一故事剧场领航员，意识到讲述者暗示但没有说的话也得到了很高的 4 分和 5 分，共占 84.5%，在总体比较中排在第五位。
+
 Sensing seemed to take place often in these forms during a Playback Theatre performance. Empathetic listening in AEL, ethical listening and deep and active listening are all present in these (Drollinger & al., 2006; Dennis, 2006; Murphy, 2019). Paying attention to both the words being said and the non-verbal messages was important to the effective listeners in Drollinger & al. (2006) studies. This seems to happen a lot among the Playback Theatre conductors, who answered the questionnaire.
+
+在一人一故事剧场表演中，感知似乎经常以这些形式出现。情感倾听（AEL）中的共情倾听、道德倾听以及深度和积极倾听都存在于这些形式中（Drollinger & al.，2006；Dennis，2006；Murphy，2019）。在 Drollinger 等人（2006）的研究中，对言语和非言语信息的关注对于有效倾听者来说非常重要。在回答问卷的一人一故事剧场领航员中，这种情况似乎经常发生。
 
 ![img/image3.png](img/image3.png)
 
 *Figure 1 Q3 Highest agreement on sensing and in overall comparison*
 
+*图 1 Q3 在感知和整体比较方面的最高一致度*
+
 These seem logical because sensing the tone of the conversation and the Teller’s feelings are important factors guiding the conductor during the discussion with the Teller. To my short experience with Playback Theatre some of the greatest successes of playing the story back have taken place when the Teller discovers something on the stage, they were not verbalizing but still recognize. I think the power of Playback Theatre stems from this kind of moments, sometimes happening to the Teller and sometimes to a member of the audience reflecting their own experiences against those presented at the stage. These are moments of exploring the unknown (Salas, 20.5.2011, TedTalk), building empathy (Ng & Graydon, 2016), Genuity and spontaneity, being open, present and authentically oneself (Fox, 2016) and being deeply moved as a teller (Murphy, 6.3.2019 TedTalk).
 
-### Processing
+这些似乎是合乎逻辑的，因为在与讲述者的讨论中，感受谈话的语气和讲述者的感受是指导领航员的重要因素。在我短暂的一人一故事剧场经验中，一些最成功的故事演绎都发生在讲述者在舞台上发现了一些他们没有用语言表达但仍能识别的东西时。我认为，一人一故事剧场的力量源于这样的时刻，有时发生在讲述者身上，有时发生在观众身上，他们将自己的经历与舞台上呈现的内容相联系。这是探索未知的时刻（Salas, 20.5.2011, TedTalk），是建立共情的时刻（Ng & Graydon, 2016），是创造力和自发性的时刻，是开放、呈现真实自我的时刻（Fox, 2016），也是作为讲述者深受感动的时刻（Murphy, 6.3.2019 TedTalk）。
+
+### Processing 处理
 
 The following three questions were about processing. Question 4 about keeping track of the points the Teller makes, question 5 asking for clarification when not sure of the Teller’s meaning and question 6 about deciding the form to be used while listening the Teller.
 
+以下三个问题是关于处理的。第 4 个问题是关于记录讲述者的观点，第 5 个问题是在不确定讲述者的意思时请求澄清，第 6 个问题是在倾听讲述者时决定使用的形式。
+
 Asking for clarification when not sure of the meaning of the Teller’s statements (Q5) was very common among the Playback Theatre conductors who responded to the questionnaire. 95,5 % of them gave values 4 or 5, an shared 2nd place in overall comparison. Keeping track of the Teller’s points (Q4) was almost as common, 86,6 % of the responses had either value 4 or 5, 4th in overallcomparison. Deciding the form while listening to the Teller was not nearly as common, receiving only 60% of the answers to values 4 or 5, placing 7th on overall comparison.
+
+在回答问卷的一人一故事剧场领航员中，不确定讲述者陈述的含义时要求澄清（问题 5）的情况非常普遍。95.5%的人给出了 4 或 5 分，在总体比较中位居第二。确保了解讲述者的观点（Q4）几乎同样普遍，86.6% 的回答数值为 4 或 5，在总体比较中排名第四。边倾听讲述者边决定形式的情况并不常见，只有 60% 的答案数值为 4 或 5，在整体比较中排名第 7。
 
 ![img/image4.png](img/image4.png)
 
 *Figure 2 Q5 Highest agreement on processing, shared 2nd in overall comparison*
 
+*图 2 第 5 题 在处理问题上意见最为一致，在总体比较中排名第 2*。
+
 Ensuring correct understanding of the Teller’s statements cannot be overlooked as this would most likely result in playing back something that the Teller does not recognize. Therefore, the high agreement on this among the Playback Theatre conductor’s makes sense. In the overall comparison this was in a shared second place, when comparing the percentage of answers given to values 4 or 5.
+
+确保正确理解讲述者的陈述不容忽视，因为这很可能导致演绎讲述者无法识别的内容。因此，一人一故事剧场领航员在这一点上的高度一致是有道理的。在整体比较中，如果比较回答数值 4 或 5 的百分比，这一点共同排在第二位。
 
 Keeping track of the Teller’s points implies to active and concentrated listening and the goal of doing justice to the story when choosing a form and giving it to the actors and musician. As presented by Drollinger & al. (2006) processing is about understanding the meaning and interpreting the implications, which were shown to be important in the sensing section.
 
-The clear drop on the commonness of deciding the form to be used while listening to the Teller (Q6) can be because of several factors. Value 3 received 28,9% of the responses in this and value 2 11,1%. The most obvious answer could be that deep and active listening often means clearly focusing on one thing, in this case the Teller’s story. Also, it is necessary to listen the full story before deciding the form to be used. The story must be remembered by constant updating
+确保了解讲述者的话，意味着在选择一种形式并将其交给演员和乐师时，要积极、专注地倾听，并以公正地讲述故事为目标。正如 Drollinger 等人（2006）所指出的，"处理"是指理解意义和解释含义，这在"感知"部分非常重要。
 
-(Drollinger, Comer & Warrington, 2006). In narrative reticulation’s story category Fox (2016) refers to memorizing, order and aesthetics, which are all necessary to choosing a form. The answers indicate that thinking about the form takes place sometimes during the Teller’s story, but not as often as some of the other aspects of listening covered here.
+The clear drop on the commonness of deciding the form to be used while listening to the Teller (Q6) can be because of several factors. Value 3 received 28,9% of the responses in this and value 2 11,1%. The most obvious answer could be that deep and active listening often means clearly focusing on one thing, in this case the Teller’s story. Also, it is necessary to listen the full story before deciding the form to be used. The story must be remembered by constant updating (Drollinger, Comer & Warrington, 2006). In narrative reticulation’s story category Fox (2016) refers to memorizing, order and aesthetics, which are all necessary to choosing a form. The answers indicate that thinking about the form takes place sometimes during the Teller’s story, but not as often as some of the other aspects of listening covered here.
 
-### Responding
+在倾听讲述者（问题 6）时决定使用哪种形式的普遍性明显下降，这可能是由几个因素造成的。选项 3 得到了 28.9% 的选择，选项 2 得到了 11.1% 的选择。最明显的答案可能是，深入而积极的倾听通常意味着明确地专注于一件事，在本例中就是倾听讲述者的故事。此外，在决定使用何种形式之前，有必要听完整个故事。必须通过不断更新来记住这个故事（Drollinger, Comer & Warrington, 2006）。在叙事网状结构的故事这个门类中，福克斯（2016）提到了记忆、顺序和美感，这些都是选择形式的必要条件。答案表明，在讲述者讲述故事的过程中，有时会对形式进行思考，但并不像本文所涉及的倾听的其他方面那样频繁。
+
+### Responding 回应
 
 Responding was the aspect behind questions 7, 8 and 9. Showing listening to the Teller by body language (Q7), asking questions to show understanding of Teller’s positions (Q8) and restating important points of the story to ensure correct understanding before choosing the form (Q9).
 
+回应是问题 7、8 和 9 背后的方面。通过肢体语言（问题 7）、通过提问以表示理解讲述者的立场（问题 8）和通过复述故事要点以确保正确理解后再选择形式（问题 9）来表现对讲述者的倾听。
+
 Expressing one’s listening through body language was very common among responders, values 4 or 5 were given by 95.5% of them, shared 2nd place in overall. Asking questions to show understanding only had 77,2% on values 4 and 5, on 6th place in overall comparison. The least common form of responding based on these three questions was restating or paraphrasing important points of the story before deciding the form (Q9), values 4 or 5 given by 44,5% of the responders, placing 8th in overall comparison.
+
+通过肢体语言表达自己的倾听在答卷者中非常普遍，95.5% 的答卷者给出了 4 或 5 分，在总分中排名第二。为表示理解而提问的比例仅为 77.2%，数值为 4 和 5，在总体比较中排在第 6 位。在这三个问题中，最不常见的回答形式是在决定形式之前复述或转述故事的重要内容（问题 9），44.5% 的回答者给出了 4 或 5 分，在总体比较中排在第 8 位。
 
 Body language (Q7) was on shared second place of the overall comparison based on the percentage on values 4 and 5 combined. In Playback Theatre the uninterrupted listening is important in delivering the sense of being heard and seeking to understand instead of assuming. Expressing with body language that the conductor is listening allows the Teller to continue telling their story and probably feeling safe to do so. Showing understanding by asking questions was used quite often too. Body language as a response was the most important for the responders. The importance of body language was also noted in the study of Drolliinger & al. (2006).
 
