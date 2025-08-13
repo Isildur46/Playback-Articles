@@ -90,7 +90,7 @@ This is not an easy task and requires practice and understanding. It is very imp
 
 Fox’s (2016) *Narrative reticulation* is built on four main categories or aspects; story, spontaneity, atmosphere and guidance. Story includes memorizing, order and a sense of aesthetic. Spontaneity refers to being present to events of the situation, ability to cooperate and Genuity or acting as oneself. Atmosphere covers being a human in front of other humans, being inviting and inclusive toward to audience, oneness between the audience and the performers and shamanistic energy. Guidance is built from the rituals, skills of protecting both the teller and the audience, knowledge of the ethical viewpoints, ensuring diversity in tellers, ways of choosing the next teller and conveying the sense of control to the audience. These are not hierarchical to each other but rather overlapping and intertwined together. All are necessary and important.
 
-福克斯（2016）的"叙事网状结构"（*Narrative reticulation）建立在四个主要类别或方面之上：故事、自发性、氛围和引导。故事包括记忆、秩序和美感。自发性指的是对情境事件的临场感、合作能力和创造力或自我行为。氛围包括在其他人面前作为一个人、对观众的邀请和包容、观众和表演者之间的合一以及萨满般的能量。引导来自仪式、保护讲述者和观众的能力、道德观点的知识、确保讲述者的多样性、选择下一位讲述者的方法以及向观众传达控制感。它们彼此之间没有等级关系，而是相互重叠和交织在一起。所有这些都是必要和重要的。
+福克斯（2016）的"叙事网状结构"（*Narrative reticulation）建立在四个主要类别或方面之上：故事、自发性、氛围和引导。故事包括记忆、秩序和美感。自发性指的是对情境事件的临在、合作能力和创造力或自我行为。氛围包括在其他人面前作为一个人、对观众的邀请和包容、观众和表演者之间的合一以及萨满般的能量。引导来自仪式、保护讲述者和观众的能力、道德观点的知识、确保讲述者的多样性、选择下一位讲述者的方法以及向观众传达控制感。它们彼此之间没有等级关系，而是相互重叠和交织在一起。所有这些都是必要和重要的。
 
 When exploring different Playback Theatre groups, Fox (2016) was able to detect that the difference between the groups establihing a true connection with the audience and those who did not succeed in this, came down to having a clear red thread in the performance. Thus, one important factor of the multifacedness of the conductor’s role is the ability to successfully combine these different aspects and create a sense of coherence in the stories, which are impossible to predict.
 
@@ -261,235 +261,395 @@ Expressing one’s listening through body language was very common among respond
 
 Body language (Q7) was on shared second place of the overall comparison based on the percentage on values 4 and 5 combined. In Playback Theatre the uninterrupted listening is important in delivering the sense of being heard and seeking to understand instead of assuming. Expressing with body language that the conductor is listening allows the Teller to continue telling their story and probably feeling safe to do so. Showing understanding by asking questions was used quite often too. Body language as a response was the most important for the responders. The importance of body language was also noted in the study of Drolliinger & al. (2006).
 
+肢体语言（问题 7）在总体比较中位居第二，因为 4 和 5 的比例相加。在一人一故事剧场中，不间断的倾听对于传递被倾听的感觉和寻求理解而不是假设非常重要。用肢体语言表达出领航员在倾听，可以让讲述者继续讲述他们的故事，而且这样做可能会让他们感到安全。通过提问来表示理解的方式也很常用。肢体语言作为一种回应，对应答者来说是最重要的。Drolliinger 等人（2006）的研究也指出了肢体语言的重要性。
+
 ![img/image5.png](img/image5.png)
 
 *Figure 3 Q7 Highest agreement on responding, shared 2nd in overall comparison*
 
+*图 3 第 7 题 在回答问题上意见最为一致，在整体比较中共同排名第二*。
+
 Restating or paraphrasing the important points (Q9) before deciding the form got value 3 from 40% of the responders. This could be because there is not only one way of conducting a Playback Theatre performance nor are the Tellers alike, so this most likely depends on the situation and could indicate to the Teller that they were not listened to or understood before this. Maybe because of this this is not an often-used way of responding to a Teller’s story.
+
+在决定形式之前重述或转述要点（问题 9），40% 的回答者给出了 3 分。这可能是因为进行一人一故事剧场表演的方式并非只有一种，讲述者也不尽相同，因此这很可能取决于具体情况，也可能表明讲述者在此之前没有被倾听或理解。也许正因为如此，这种回应讲述者故事的方式并不常用。
 
 As a conductor the need for this could probably be prevented by using good questions along the discussion with the Teller and also by trusting the listening of the performing group. I would assume this is necessary if the Teller has ended up telling a lot and on different topics or about something very personal and vulnerable. This falls into Fox’s (2016) narrative reticulation’s guidance, which includes the rituals and protection of the teller, the audience and the ethicality of the performance. This is most clearly evident in the responding by choosing the form.
 
+作为领航员，在与讲述者讨论的过程中使用好的问题，并相信表演团队的倾听能力，也许可以避免这种需要。我认为，如果讲述者最终讲述了很多不同的主题，或者讲述了一些非常私人和脆弱的事情，就有必要这样做。这属于福克斯（2016）的叙事网状结构的指导范畴，其中包括对讲述者、观众和表演伦理的仪式和保护。这一点在选择形式的回答中体现得淋漓尽致。
+
 Question 10 was my own creation, which combined sensing, processing and responding. “*Listening and sensing the audience helps me decide the best form for the Teller’s story.”* This was clearly the question receiving least values 4 and 5, only 34,1% of the responders. It placed last, 9th on the overall comparison of agreement in the responses. Value 3 was given by 20,5% and value 2 by 40,9% of the responders.
+
+第 10 题是我自己的创作，它将感知、处理和回应结合在一起。"*倾听和感知观众帮助我决定讲述者故事的最佳形式*"。这显然是得到 4 和 5 分值最少的问题，只有 34.1% 的回答者。该问题排在最后，在答复的整体一致性比较中排在第 9 位。20.5% 的回答者给出了第 3 值，40.9% 的回答者给出了第 2 值。
 
 ![img/image6.png](img/image6.png)
 
 *Figure 4 Question 10 Least agreement among the responders*
 
-In retrospect the most obvious reason for this is probably that in the question/statement I have placed the audience in front of the Teller, as if listening to the audience instead of the Teller would assist in choosing the best form. As will be presented below, holding the Teller front and centre wasimportant for many these Playback Theatre conductors. Multitasking, sensing and considering the audience was mentioned too and is also important but does not surpass the Teller. Another possible explanation for this is that the statement also implies that somehow the audience would offer the best form to the conductor, if they only pay close attention. Quite the opposite, the conductor makes the decision to the best of their abilities bearing in mind the audience and the previous stories of that performance. They do not always find the best possible form in the short time span they have available, but most definitely they all try their best at doing honour to the story trusted for them.
+*图 4 问题 10 回答者中意见最不一致的人*
 
-## 4.2 Aspects of AEL emphasized in the answers of PT conductors
+In retrospect the most obvious reason for this is probably that in the question/statement I have placed the audience in front of the Teller, as if listening to the audience instead of the Teller would assist in choosing the best form. As will be presented below, holding the Teller front and centre was important for many these Playback Theatre conductors. Multitasking, sensing and considering the audience was mentioned too and is also important but does not surpass the Teller. Another possible explanation for this is that the statement also implies that somehow the audience would offer the best form to the conductor, if they only pay close attention. Quite the opposite, the conductor makes the decision to the best of their abilities bearing in mind the audience and the previous stories of that performance. They do not always find the best possible form in the short time span they have available, but most definitely they all try their best at doing honour to the story trusted for them.
+
+现在回想起来，最明显的原因可能是我在问题/陈述中把观众放在了讲述者的前面，似乎倾听观众而不是讲述者的声音有助于选择最佳形式。如下文所述，对许多一人一故事剧场领航员而言，将讲述者置于前方和中心位置非常重要。多任务处理、感知和考虑观众也被提及，这一点也很重要，但并没有超越讲述者。另一种可能的解释是，这种说法还暗示，只要领航员密切关注，观众就会为领航员提供最好的形式。恰恰相反，领航员在做出决定时会考虑到观众和该场演出之前的故事。他们并不总能在短暂的时间内找到最佳的形式，但可以肯定的是，他们都会尽最大努力，为他们所信任的故事尽一份力。
+
+## 4.2 Aspects of AEL emphasized in the answers of PT conductors 在 PT 领航员的回答中强调的 AEL 的各个方面
 
 The overall comparison mentioned above show quite nice division between the three aspects of listening, the first three are all from different aspects. However when combining the percentage of the three questions of each three aspects of listening (sensing, processing and responding), sensing receives the highest average percentage of 91,86% on values 4 or 5. Processing follows with 80,7% average on values 4 or 5, and responding on 72,4% average on values 4 or 5.
 
+上述总体比较显示，倾听的三个方面之间有很好的划分，前三个方面都来自不同的方面。然而，如果将倾听的三个方面（感知、处理和回应）的三个问题的百分比结合起来看，感知在数值 4 或 5 中的平均百分比最高，为 91.86%。其次是处理，4 或 5 分的平均百分比为 80.7%，而回应 4 或 5 分的平均百分比为 72.4%。
+
 This might be because as described earlier, sensing is not an option, it must take place in Playback Theatre. As must processing and responding, but to divide them into these small pieces probably does not do them justice and they also offer more flexibility and space for diversity than the questions under the subsection of sensing.
+
+这可能是因为如前所述，感知不是一个可选可不选的选项，它必须在一人一故事剧场中存在。处理和回应也是如此，但将它们分成这些小块可能并不公平，而且它们也比"感知"小节下的问题提供了更大的灵活性和多样性空间。
 
 Because of this diversity I included also the open questions offering responders the chance to describe different aspects of listening in their own words and also to choose one aspect that the conductors would consider to be the most important.
 
-### 4.2.1 Conductors own descriptions of listening
+由于这种多样性，我还加入了开放式问题，让回答者有机会用自己的语言描述倾听的不同方面，并选择领航员认为最重要的一个方面。
+
+### 4.2.1 Conductors own descriptions of listening 领航员自己对倾听的描述
 
 The analysis of the open questions was done as a content analysis. Instead of mirroring the results against some classes, I created own classes for them based on what I found in the data. First, I read the answers through a couple of times. Then I made mind maps collecting different expressions used in the answers. From those I combined similar answers and created classes. In classifying the data, I used different colours for each class, underlining the words and expressions belonging to that class. Finally, I collected all the different answers of each class. All of the answers to open questions can be found in Attachment 4.
 
+对开放式问题的分析是以内容分析的形式进行的。我没有将结果照搬到某些类别中，而是根据我在数据中发现的内容为它们创建了自己的类别。首先，我通读了几遍答案。然后，我制作了思维导图，收集答案中使用的不同表达方式。根据这些，我将相似的答案合并在一起，并创建了类别。在对数据进行分类时，我为每个类别使用了不同的颜色，并在属于该类别的词语和表达方式下划了横线。最后，我收集了每个类别的所有不同答案。开放性问题的所有答案见附录 4。
+
 For the question 11, which requested to use own words in describing the different aspects of listening in a Playback Theatre performance, I received 43 answers. All responses received a running number to distinguish them from each other, in front of this number there is capital R,referring to “respondent”. The classes I formed of those answers were *reflecting (a), deep and active listening (b), multitasking (c) and focus on teller (d).* I present them in this order, which is based on the number of answers classified to each category. I classified the answers based on the first information offered in them. There were only few answers that fit neatly under one category, most had at least two categories included in them. When presenting quotes from the answers I will indicate the parts, which were not classified under that category.
 
-#### a. Reflecting
+问题 11 要求用自己的语言描述倾听一人一故事剧场表演的不同方面，我收到了 43 份答案。所有答案都有一个流水号以示区分，流水号前的大写字母 R 代表"受访者"。我对这些答案进行了分类，分别是*反思（a）、深入和积极倾听（b）、多任务处理（c）和聚焦讲述者（d）*。我根据答案中提供的第一条信息对答案进行分类。只有极少数答案完全符合一个类别，大多数答案至少包含两个类别。在引述答案时，我会标明未归入该类别的部分。
+
+#### a. Reflecting 反思
 
 The category reflecting included 13 answers starting with reflection or comment about the conductor’s work. Some offered a sort of a guideline like in answers (R26, R36 and R38).
 
+在"反思"类别中，有 13 份答案的开头是对领航员工作的反思或评论。有些答案提供了某种指导，如答案（R26、R36 和 R38）。
+
 > *“This job needs practise and the more you do it the better you will get. I hope :)*”(R26) (underlined categorized as a comment, excluded from the categories.)
+> 
+> *"这项工作需要练习，你做得越多，就会做得越好。希望如此:)*"（R26）（下划线归类为评论，不列入类别。）
 > 
 
 > *“I have to listen to how the story connects not only to the teller, but also to stories that came before it, or perhaps feelings that others in the audience wish to express.”* (R36) (underlined categorized as multitasking)
 > 
+> *"我不仅要倾听故事与讲述者之间的联系，还要倾听故事与之前的故事之间的联系，或者感受众希望表达的情感"*（R36）（下划线被归类为多重任务）
+> 
 
 > *“Ohjaajan tulee yhtälailla kuunnella kertojaa, **yleisöä ja esiintyjiä.”*** (R38) (underlined categorized to focus on the teller, bolded as multitasking)(trans. The conductor should equally listen to the teller, audience and the performers)
+>
+> > *"Ohjaajan tulee yhtälailla kuunnella kertojaa, **yleisöä ja esiintyjiä。"***（R38）（下划线归类为聚焦讲述者，粗体为多任务处理）（译注：领航员应同样倾听讲述者、观众和表演者的声音）
 > 
 
 Some answers were more in more simple forms, stating the important aspects of listening as a Playback Theatre conductor, like R41 and R42. One responder (R43) criticized the entire usage of the aspects, stating that listening with the heart is what they try to do.
 
+有些回答形式较为简单，如 R41 和 R42，说明了作为一名一人一故事剧场领航员，倾听的重要方面。一位回答者（R43）批评了这些方面的全部用法，指出用心倾听才是他们努力的方向。
+
 > *“Sensitive, Open, Aware.”* (R41)
+>
+> *"敏锐、开放、觉察"*（R41）
 > 
 
 > *“for me in one word is to be present as a conductor* “(R42)
 > 
+> *"对我来说，总而言之就是作为领航员而存在*"（R42）
+>
 
 > *“I try to listen with my heart - what do you mean by aspects?”* (R43) (underlined marked as comment, outside of the categories)
+>
+> *"我试着用心倾听--你说的方面是什么意思？"*（R43）（下划线标注为评论，不在类别范围内）
 > 
 
 In these answers there were indicators of Genuity from narrative reticulation (Fox, 2016) and diplomat from the theory of seven roles of a Playback Theatre conductor (Salas, 1999). Diplomat means understanding conductor’s key role in offering diversity and value to stories being told. From the AEL theory (Drollinger, Comer & Warrington, 2006) these answers are closest to processing, handling and seeking to understand the information one receives. I think these answers signal the responsibility for the different aspects of listening. Although one responder (R43) clearly found thisunnecessary to chop the listening to smaller pieces. I agree that it is artificial and might not offer any additional value to the importance of listening. However I feel that pausing to reflect the complexity of not only listening but all the different aspects affecting it in a Playback Theatre performance can be beneficial.
 
-#### b. Deep and active listening
+在这些答案中，有来自叙事网状结构（福克斯，2016）的 Genuity 指标，也有来自一人一故事剧场领航员七种角色理论（萨拉斯，1999）的外交官指标。外交官指的是理解领航员在为所讲述的故事提供多样性和价值方面的关键作用。从 AEL 理论（Drollinger, Comer and Warrington, 2006）来看，这些答案最接近于处理、应对和寻求理解所收到的信息。我认为这些答案表明了倾听不同方面的责任。尽管一位回答者（R43）明显认为有必要将倾听切成小块。我同意这种做法是人为的，而且可能不会给倾听的重要性带来任何额外的价值。不过，我认为，在一人一故事剧场表演中，用停顿来体现倾听的复杂性以及影响倾听的所有不同方面，可能会有所裨益。
+
+#### b. Deep and active listening 深入和积极的倾听
 
 In this category there were 12 answers, which began with something I classified under deep and active listening. As can be detected from the name of this category, this included all the three categories of AEL (Drollinger, Comer and Warrington, 2006). Non-verbal messages were mentioned in many, like in answer by R2. This was sometimes taken even further like in the answer R10, which adds listening with all of them to the active listening.
 
-*Non verbal language is as or even more important as verbal.* (R2)
+在这一类别中，有 12 个答案的开头被我归类为深度和积极的倾听。从这个类别的名称可以看出，它包括了所有三个类别的 AEL（Drollinger, Comer and Warrington, 2006）。许多人都提到了非语言信息，如 R2 的回答。有时甚至更进一步，如在 R10 的答案中，在积极倾听的基础上增加了"倾听"。
 
-*Escucha activa, con todo mi ser, con empatía y sin querer agregar nada o refutar nada**, entrando en el mundo y tratando de ver con los ojos del narrador*** (R10)
+> *Non verbal language is as or even more important as verbal.* (R2)
+> *非语言与语言同等重要，甚至更为重要*（R2）
+>
 
-(underlined part in multitasking, bolded under focusing on the teller) [own trans. active listening, with all of me, with empathy and without wanting to add anything or repeal anything, entering the world and trying to see it with the eyes of the teller.]
+> *Escucha activa, con todo mi ser, con empatía y sin querer agregar nada o refutar nada**, entrando en el mundo y tratando de ver con los ojos del narrador*** (R10)
+> 
+> (underlined part in multitasking, bolded under focusing on the teller) [own trans. active listening, with all of me, with empathy and without wanting to add anything or repeal anything, entering the world and trying to see it with the eyes of the teller.]
+>
+>（下划线部分归入多任务处理类别，加粗部分归入聚焦于讲述者类别）[我自己的翻译：积极倾听，用我的全部，用同理心，不想添加任何东西，也不想废除任何东西，进入这个世界，试图用讲述者的眼睛去看这个世界。]
+>
 
-*It's a combination of active, emphatic listening and artistic listening* (R34) (underlined part in reflecting)
+> *It's a combination of active, emphatic listening and artistic listening* (R34) (underlined part in reflecting)
+>
+> *这是一种积极共情的倾听和艺术性倾听的结合*（R34）（下划线部分为思考内容）
+> 
 
-*I listen to the body language and also what is not said and then the actual words...(*R40)
+> *I listen to the body language and also what is not said and then the actual words...(*R40)
+> 
+> *我倾听肢体语言，也倾听没有说出来的话，然后再倾听实际的话……（*R40）
+>
 
 These terms could have been used in the answers anyway, but now the number of them in answers might have been affected by the name of the questionnaire and my thesis. Being fully present as in spontaneity of the narrative reticulation theory (Fox, 2016) can also be seen in these answers. From the seven roles of conductor (Salas, 1999) performer comes closest, as being present and aware of the upcoming performance.
 
+这些术语本来可以在答案中使用，但现在答案中使用这些术语的数量可能受到问卷名称和我的论文的影响。在这些答案中还可以看到叙事网状结构理论（Fox, 2016）中的自发性，即完全的临在。在领航员的七种角色中（Salas, 1999），表演者的角色与之最为接近，因为他们在当下并意识到即将开始的表演。
+
 It is easy to see the connection between the scale-questions presented above and this section. The importance of the non-verbal language and the implications offered by the teller. Also, empathy and the interest to understand are present.
 
-#### c. Multitasking
+不难看出上述量表问题与本节内容之间的联系。非语言的表达的重要性和讲述者提供的暗示。此外，共情和想要理解的好奇心也很重要。
+
+#### c. Multitasking 多重任务
 
 In this category there were 10 answers. They were often quite long. Answers in the category of multitasking included several aspects of listening, curiosity and seeking to understand. Also considering the audience’s perspective was present in some of these answers. In multitasking allthree aspects of AEL (sensing, processing and responding) were present. From the narrative reticulation theory (Fox, 2016) building the atmosphere comes closest and of the seven different roles of a conductor the master of ceremony (Salas, 1999). Also finding the red line of the story (Fox, 2016), among the different aspects and unfolding events was mentioned.
 
+这一类共有 10 个答案。这些答案通常较长。多任务类别的答案包括倾听、好奇心和寻求理解等几个方面。有些答案还考虑了观众的角度。在多重任务中，AEL 的所有三个方面（感知、处理和回应）都有体现。从叙事网状结构（Fox, 2016）来看，营造气氛与领航员的七种不同角色（Salas, 1999）中司仪这一角色最为接近。在不同的方面和展开的事件中，还提到了寻找故事的红线（Fox, 2016）。
+
 > *“One must listen to the feelings, the story, the red line of the story, the warmth of the audience, the security of the whole crowd, actors and musicians feelings and awareness. It is really a quite of a puzzle and because it happens all in just a moment, you quite seldom get to think these aspects afterwords. This is why one should always check in a performance situation and also afterword (with the group): did I hear correctly?”* (R7)
+>
+> *"我们必须倾听感受、故事、故事的红线、观众的热情、全场的安全感、演员和乐师的感受和觉察。这确实是一个相当大的难题，因为这一切都发生在一瞬间，你很少有机会在事后思考这些方面。这就是为什么在演出过程中和演出结束后（与演出团队一起）都要复盘：我倾听得对吗？*
 > 
 
-> *“The info, the feelings, the dreaming behind the story, the impact of the story/ teller on the overall atmosphere of the performance, the storyline connecting this story to the ones already told, choosing the form, recap the story if needed.* “(R12)
-(underlined part coded to reflection)
+> *“The info, the feelings, the dreaming behind the story, the impact of the story/ teller on the overall atmosphere of the performance, the storyline connecting this story to the ones already told, choosing the form, recap the story if needed.* “(R12) (underlined part coded to reflection)
+> 
+> *"信息、情感、故事背后的梦想、故事/讲述者对表演整体氛围的影响、将本故事与已讲述的故事连接起来的故事线、选择形式、必要时复述故事*"（R12）(下划线部分归入为反映）
 > 
 
 > *“Listen to the dialogue and interrelations between different stories”* (R37)
 > 
+> *"倾听不同故事之间的对话和相互关系"* (R37)
+> 
 
 As can be seen in these examples from the answers in this category, they describe the complexity of conductor’s tasks during a performance. As mentioned in the answer of R7, this is quite the puzzle in the short timeline available. Ensuring the atmosphere, being impacted by the story and even the dreaming taking place behind the story (R12). The interrelations between stories (R37) can also refer to the role of diplomat from seven roles of the conductor giving value to all stories (Salas, 1999), ensuring the diversity of the stories being told and guidance (Fox, 2016) in enabling diversity of the tellers.
 
-#### d. Focus on the teller
+从本组答案的这些例子中可以看出，他们描述了领航员在演出过程中任务的复杂性。正如 R7 的回答所提到的，在短短的时间内，这是一个相当大的难题。确保氛围，受到故事的影响，甚至故事背后的梦想的影响（R12）。故事之间的相互关系（R37）也可以指领航员的七种角色中的外交官角色，赋予所有故事以价值（Salas, 1999），确保所讲述故事的多样性，并引导（Fox, 2016）讲述者的多样性。
+
+#### d. Focus on the teller 聚焦讲述者
 
 There were 8 answers starting with the focus on the teller. These answers gave center stage to the teller, sometimes only focusing on the teller, like in answers R1 and R2. Sometimes they included also elements of other categories like in answers R23 and R32. Making the teller feel at ease, seeing themselves a facilitator, giving space for them and feeling their mood.
 
-> *“I try to help the teller feel comfortable and supported while telling the story.* “(R1)
+有 8 个答案以讲述者为中心。这些答案以讲述者为中心，有时只聚焦讲述者，如答案 R1 和 R2。有时也包括其他类别的要素，如答案 R23 和 R32。让讲述者感到自在，视自己为引导者，为他们提供空间，感受他们的心情。
+
+> *“I try to help the teller feel comfortable and supported while telling the story.”* (R1)
+>
+> *"在讲述故事时，我尽量让讲述者感到舒适和被支持*"（R1）
 > 
 
 > *“Listening as being channel, listening as facilitating”* (R3)
+>
+> *"倾听是成为渠道，倾听是促进"*（R3）
 > 
 
 > *“it is a special art to listen the heart of the story with a great respect to the the teller”* (R15)
+>
+> *"带着对讲述者的极大尊重，倾听故事的核心是一门特殊的艺术"*（R15）
 > 
 
 > *“Provide a space for the teller to show their inner self to the audience and the member of our Playback Company* “(R23) (underlined part categorized in multitasking)
+>
+> *"为讲述者提供一个向观众和我们的一人一故事剧团成员展示其内心世界的空间*"（R23）（下划线部分归入多任务处理中）
 > 
 
 > *“To feel de mood of the narrator and to go deep with the essence”* (R32) (underlined part categorized in heart of the story)
 > 
+> *"感受讲述者的心境，深入本质"*（R32）（下划线部分归类为故事的核心）
+> 
 
 R15 answer is compact but it includes two very important points to listening, respecting the teller and a challenge requiring skills; seeking to hear the heart of the story being told.
 
+R15 的答案很紧凑，但包含了两个非常重要的倾听要点，即尊重讲述者和一项需要技巧的挑战，即设法倾听所讲述故事的核心。
+
 Of the aspects in AEL answers in focusing on the teller category come closest to processing and responding. Especially processing in collecting the important points of the story. The descriptions are also about guidance in narrative reticulation (Fox, 2016), telling especially about the protection of the teller and maintaining the rituals, also atmosphere is present in the answers. Diplomat ensuring diversity in stories and therapist as protecting the Teller connect from the seven roles of the conductor (Salas, 1999). The importance of finding the essence in the story, the red thread of the story and eventually of the performance (Fox, 2016).
 
-#### Final notes of these results
+在 AEL 的答案中，和聚焦讲述者方面最接近于处理和回应。尤其是收集故事要点的处理。这些描述还涉及到在叙事网状结构中的指导（guidance）（Fox, 2016），特别是讲述者的保护和仪式的维护，答案中还出现了氛围。确保故事多样性的外交官和保护讲述者的治疗师与领航员的七个角色有关（Salas, 1999 年）。找到故事中的精髓、故事的红线以及最终表演的红线的重要性（Fox, 2016）。
+
+#### Final notes of these results 对这些结果的最后说明
 
 Since many of the answers contained parts of different categories, I created a system of dividing them into different categories, which was based on the beginning of the answer. This was not very clear cut and if the answer began with a comment or a side note, I used the first category followed by that. Each question only belongs to one (1) category, although it might contain parts of several others too. This proved to be quite an interesting approach with this question, since the question was open, and it would have been possible to start with anything. I think this could indicate something about the most important or at least the easiest to remember factors of their listening as a Playback Theatre conductor.
 
-### 4.2.2 Most important aspect of listening
+由于许多答案包含了不同类别的部分内容，我创建了一个根据答案开头将其划分为不同类别的系统。这一点并不十分明确，如果答案以评论或旁注开头，我就使用它后面出现的第一个类别。每个问题只属于一（1）个类别，尽管它也可能包含其他几个类别的一部分。事实证明，在这个问题上，这是一个相当有趣的方法，因为问题是开放式的，有可能以任何内容开头。我认为，这可以说明作为一名一人一故事剧场领航员，他们在倾听过程中最重要或至少最容易记住的因素。
+
+### 4.2.2 Most important aspect of listening 倾听的最重要方面
 
 The final question of my questionnaire was number 12, which asked to name the most important aspect of listening in Playback Theatre performance. There were 43 answers to this question. Since the question was about the most important aspect, these answers were significantly easier to categorize than those of question 11. Still some answers contained several aspects, which I find telling of the complexity and the multiple levels of Playback Theatre conductor’s work.
 
+问卷的最后一个问题是第 12 题，要求说出在一人一故事剧场演出中倾听的最重要方面。共有 43 人回答了这一问题。由于问题是关于最重要的方面，这些答案比问题 11 的答案更容易归类。但仍有一些答案包含多个方面，我认为这说明了一人一故事剧场领航员工作的复杂性和多层次性。
+
 I formed five (5) categories based on the answers. They were *active listening and presence (a), empathy (b), openness and curiosity (c1), sense of dramaturgy (c2) and being sincere and respectful (c3).* Categories a and b both received a bit more than ten (10) answers. All of the rest categories had five (5) answers each, which is why I have named them all with the letter c and a running number. In addition to these there was one (1) answer which was more of a comment than an answer (R43), which I decided to leave outside of these categories.
+
+我根据这些答案归纳出五（5）个类别。它们分别是*积极倾听和临在（a）、共情（b）、开放性和好奇心（c1）、戏剧感（c2）以及真诚和尊重（c3）。其余所有类别各有五（5）个答案，因此我用字母 c 和流水号为它们命名。除此之外，还有一 (1) 个与其说是答案不如说是评论的答案（R43），我决定将其排除在这些类别之外。
 
 Q12 in the questionnaire was “*What do You consider to be the most important aspect of listening in a Playback Theatre performance*?” With these answers I seek to answer the last part of my research question 2: How do the conductors themselves describe their listening and the most important aspect of it?
 
-#### a. Active listening and presence
+问卷中的第 12 个问题是："*你认为在一人一故事剧场演出中倾听最重要的方面是什么*？通过这些答案，我试图回答我的研究问题 2 的最后一部分：领航员们自己如何描述他们的倾听以及倾听中最重要的方面？
+
+#### a. Active listening and presence 积极倾听和临在
 
 In this category there were 14 answers, all choosing listening or presence as the most important aspect of listening. The answers about listening included the teller, like in R16 and R17, but also the importance of being present and listening to oneself (R17 & R21). In the AEL answers in this category fall into sensing and processing (Drollinger, Comer & Warrington, 2006).
 
+这一类别共有 14 个答案，所有答案都将倾听或临在作为倾听的最重要方面。关于倾听的答案包括讲述者，如 R16 和 R17，但也包括在当下和倾听自己的重要性（R17 和 R21）。在 AEL 中，这一类的答案属于感知和处理（Drollinger, Comer & Warrington, 2006）。
+
 > *“A listening that communicates the safety to the teller and also a listening which is able to take the audience along with the story”* (R16)
+>
+> *"一种将安全感传递给讲述者的倾听，也是一种能够将观众带入故事中的倾听"*（R16）
 > 
 
 > *“Being present to myself and to the teller so I can really hear while holding the needs of the audience and the team.”* (R17)
+>
+> *"倾听自己和讲述者，这样我就能在真正倾听的同时兼顾观众和团队的需要"*（建议 17）
 > 
 
 > *“Listening to myself. There's a lot more I could say, but there is no space, and you only asked for one important aspect.”* (R21) (underlined marked as a comment)
+>
+> 倾听自己。我还有很多话想说，但篇幅有限，而且你只问了一个重要方面。"* （R21）（下划线标注为评论意见）
 > 
 
 Listening was also described from the perspective of balancing and making decisions when to comment and when to remain silent (R18). Reference to leadership skills speaks again about the responsibility the conductor holds towards the teller, performers and the audience.
 
+还有人从平衡的角度来描述倾听，并决定何时发表意见，何时保持沉默（R18）。在提到领导力技能时，再次谈到了领航员对讲述者、表演者和观众的责任。
+
 > *“Active listening - showing you are listening and trying to balance between being scilence and nutral to ask questions and lead, in other words showing dominance leadership skills“(*R18)
+> 
+> *"积极倾听--表现出你在倾听，并努力在保持沉默和提问和引导的天然冲动（换句话说，要表现出主导性的领导能力）"*（R18）
 > 
 
 > *“Deep Listening, Compassionate Listening, Listening to help the teller empty his/her heart*.” (R41)
+>
+> *"深度倾听，富有同情心的倾听，倾听让讲述者清空内心*"。(R41)
 > 
 
 The importance of being present belongs also to Fox’s (2016) spontaneity in narrative reticulation and Salas’ (1999) performer in the seven roles of the Playback Theatre conductor. Listening also needs to be compassionate and deep (R41), which bring us to the other main category of this question, empathy.
 
-#### b. Empathy
+福克斯（Fox, 2016）提出的叙事网状结构中的自发性和萨拉斯（Salas, 1999）提出的表演者在一人一故事剧场领航员中的七种角色中也强调了在当下的重要性。倾听还需要富有同情心和深度（R41），这就引出了本问题的另一个主要类别——共情。
+
+#### b. Empathy 共情
 
 Already at first glimpse of the answers to this question, the frequency of empathy was easy to notice. There were 13 answers in this category, and it is noteworthy that many of them were short, some only single word- answers like R19. Empathy is so central, that it seemed to be sufficient to refer without any clarification or explanation. Partly this can also be about being loyal to the question, which asked the responders to name only one aspect. Sensing is the aspect of AEL (Drollinger, Comer & Warrington, 2006), I would connect to this category.
 
+乍一看这个问题的答案，就不难发现共情的频率很高。这一类共有 13 个答案，值得注意的是，其中许多答案都很简短，有些只有一个单词，如 R19。共情是如此重要，似乎不需要任何说明或解释。这在一定程度上也是因为问题要求回答者只说出一个方面。感知是 AEL 的一个方面（Drollinger, Comer & Warrington, 2006），我会将其与这一类别联系起来。
+
 > *“Empathy”* (R19)
+>
+> *"共情"* (R19)
 > 
 
 > *“Empathy and acceptance, as well as a sense of dramaturgy. It is really hard to decide between those.”* (R6) (underlined in sense of dramaturgy)
 > 
+> *"共情和接纳，以及戏剧感。要在这两者之间做出选择真的很难。"* （R6）（"戏剧感"被下划线标出） 
+> 
 
 > *“Tellers feel safe to share”* (R23)
+>
+> *"讲述者感到安全。
 > 
 
 > *“Empathy/Compassion, Sensibility, Charme and Humor”* (R28)
 > 
+> *"共情/同情、敏锐、魅力和幽默"* (R28)
+> 
 
 Protecting the teller and the audience requires empathy, as in the atmosphere of narrative reticulation (Fox, 2016). Building empathy and understanding (Salas, 20.5.2011, TedTalk) and the power it has to the teller (Murphy, 6.3.2019, TedTalk) support the notion that empathy is an important part of Playback Theatre conductor’s work. Both the therapist and diplomat from the seven roles of conductor also support the need of empathy, protecting the teller from oversharing while empowering diversity on stage (Salas, 1999).
 
-#### c.1 Openness and curiosity
+保护讲述者和观众需要共情，就像在叙事网状结构的那样（Fox, 2016）。建立共情和理解（Salas，2011 年 5 月 20 日，TedTalk）以及它对讲述者的力量（Murphy，2019 年 3 月 6 日，TedTalk）都支持这一观点，即共情是一人一故事剧场领航员工作的重要组成部分。领航员的七种角色中的治疗师和外交官也支持共情的必要性，保护讲述者不过度分享，同时增强舞台上的多样性（Salas， 1999）。
+
+#### c.1 Openness and curiosity 开放性和好奇心
 
 In this category there were 5 answers. In AEL openness to anything offered in the discussion is about sensing (Drollinger, Comer & Warrington, 2006). Fox’s (2016) Spontaneity and Salas’ (1999) clown also include the importance of being open to different events and feelings taking place in the performance.
 
+这一类别共有 5 个答案。在 AEL 中，对讨论中提供的任何东西的开放性都是关于感知的（Drollinger, Comer & Warrington, 2006）。福克斯（2016）的"自发性"（Spontaneity）和萨拉斯（1999）的"clown"也包含了对表演中发生的不同事件和感受持开放态度的重要性。
+
 > *“One must be open to all the feelings around: my own; tellers, audiences', actors. These feelings can be used as a map to the listening.:)”* (R7)
+>
+> *"一个人必须对周围的所有感受持开放态度：我自己的感受、讲述者的感受、观众的感受、演员的感受。这些感受可以作为倾听的地图。:)"* (R7)
 > 
 
 > *“Openness”* (R37)
+>
+> *"开放"* (R37)
 > 
 
 > *“be open to every thing the teller bring be curious never forget "who how where when and why(but why not always) “(*R42)
+>
+> *"对讲述者带来的每一件事都敞开心扉，充满好奇心，永远不要忘记"谁，如何，何地，何时，为什么（为什么并不总是必要）"(*R42)
 > 
 
 Taking different perspectives, expressing curiosity and receiving the feeling in the performance (R7 & R42). Also, here some answers only had only one word. I think this category links closely to both empathy and active listening. In R42 it is also reminded, perhaps because of the knowledge that I am only beginning my journey as a Playback Theatre conductor, that it is important to take care of the structure and not merely to receive everything as it is offered. This links closely to Story in narrative reticulation (Fox, 2016) and to the next category of answers.
 
-#### c.2 Sense of dramaturgy
+采取不同的视角，表达好奇心，在表演中接受感受（R7 和 R42）。此外，有些答案只有一个词。我认为这一类别与共情和积极倾听密切相关。R42 还提醒我们，也许是因为我才刚刚开始我的一人一故事剧场领航员之旅，所以必须注意结构，而不仅仅是接受所提供的一切。这与叙事网状结构中的故事（Fox, 2016）以及下一类答案密切相关。
+
+#### c.2 Sense of dramaturgy 戏剧质感
 
 Having a sense of dramaturgy is about maintaining the structures, rituals and keeping in mind that the story is soon taken to the stage (Fox, 2016). This category had also 5 answers. In order to do this, one needs to process and respond adequately to what is being told (Drollinger, Comer & Warrington, 2006). Keeping track of the important points and making sure everything runs smoothly is the job of the master of ceremony (Salas, 1999).
 
+具有戏剧感是指维持结构和仪式，并牢记故事很快就会被搬上舞台（Fox, 2016）。这一类别也有 5 个答案。要做到这一点，就需要对所讲述的内容进行充分的处理和回应（Drollinger, Comer & Warrington, 2006）。掌握要点并确保一切顺利进行是司仪的职责（Salas, 1999）。
+
 > “*The combination of " heart of the story" and the systemic/ socialogical poatterns”*(R20)
+>
+> *"*故事核心"与系统的/社会学的模式的结合"*（R20）
 > 
 
 > *“The turning point. Where there comes a change in the story, and the essence of that change can bring the teller and the audience to a deeper understanding”* (R27) (underlined marked as empathy)
 > 
+> 转折点。故事的发生转变的点，而这种转折的内在本质能使讲述者和观众加深理解"*（R27）（下划线标明为共情）。
+>
 
 > *“The important aspect is the essence of the story. Why is it that this story wants to be told? What needs to be express”* (R33)
+>
+> 重要的是故事的本质。为什么要讲述这个故事？需要表达什么"* (R33)
 > 
 
 The answers reflect the theory presented above. As in the answers to question 11, they lift up the importance to find the heart of the story, the essential part of it (R20, R33), some refer to a turning point (R27). These are almost like descriptions of detectives at work, they keep constantly in mind the upcoming performance and seek to find the essence for the actors and the musician to work with.
 
-#### c.3 Being sincere and respectful
+这些答案反映了上述理论。正如对问题 11 的回答一样，他们强调了找到故事的核心、本质部分的重要性（R20、R33），有些人还提到了转折点（R27）。这几乎就像侦探在工作中的描述，他们时刻牢记即将到来的演出，并努力为演员和乐师找到故事的本质。
 
-The last category of question 12 is about sincerity and respect. Both much needed in the Playback Theatre performance. There were 5 answers in this category. Sensing (Drollinger, Comer &
+#### c.3 Being sincere and respectful 真诚和尊重
 
-Warrington, 2006), Genuity (Fox, 2016) and diplomat and entertainer (Salas, 1999) connect with this category. Sensing is about actively listening, Genuity is about being authentic self, entertainer offers a piece of oneself to the stage and diplomat respects and values diversity in the stories.
+The last category of question 12 is about sincerity and respect. Both much needed in the Playback Theatre performance. There were 5 answers in this category. Sensing (Drollinger, Comer & Warrington, 2006), Genuity (Fox, 2016) and diplomat and entertainer (Salas, 1999) connect with this category. Sensing is about actively listening, Genuity is about being authentic self, entertainer offers a piece of oneself to the stage and diplomat respects and values diversity in the stories.
+
+问题 12 的最后一类是关于真诚和尊重。这两点在一人一故事剧场表演中都非常需要。这一类共有 5 个答案。感知（Drollinger, Comer & Warrington，2006）、Genuity（Fox, 2016）和外交官与娱乐家（Salas， 1999）与这一类别相关。"感知"是指积极倾听，"Genuity"是指真实自我，"娱乐家"是指在舞台上展现自我，"外交家"是指尊重并重视故事的多样性。
 
 > “*Being sincere.”* (R3)
+> 
+> *"*真诚*"（R3）
 > 
 
 > *“to be with the tellers and audience and find the common humanity.”* (R30)
 > 
+> *"与讲述者和观众在一起，找到共同的人性。"*（R30）
+> 
 
 > *“Listening without prejudice, and listening with all my senses, because not everything is expressed in words”* (R36)
+>
+> *"不带偏见地倾听，用我所有的感官去倾听，因为不是所有的东西都能用语言表达出来"* (R36)
 > 
 
 These answers reflect all those elements. Relying on the different senses, again the importance of non-verbal communication is raised in R36’s answer. Simply just being sincere in R3 and the element of a global interconnectedness in the form of our humanity in R30. Linking closely to Fox’s (2016) description in atmosphere, being a human in front of other humans.
 
-#### Final notes on this question
+这些答案反映了所有这些要素。依赖不同的感官，R36 的答案再次提出了非语言交流的重要性。在 R3 中，仅仅是真诚，而在 R30 中，普世的内在关联以我们的人性为形式存在。这与福克斯（2016）对氛围的描述密切相关，即在其他人类面前作为一个人类而存在。
+
+#### Final notes on this question 本问题的最后说明
 
 The answer left out of these categories was R43. The responder, most likely already expressing the listening with heart, and questioning about the aspects of listening in question 11, was clearly frustrated in the answer to the last question. I am grateful for this commentary answer as it provokes questions. If the questions about aspects in listening seemed irrelevant to this responder, why go through the trouble of answering the entire questionnaire, including the open questions. There were 45 answers in total to the scale questions but only 43 to the open questions, so 2 responders did not answer them. Perhaps this responder saw these text fields as a place for offering feedback to me, rather than forms of collecting information on the requested topics.
 
+这些类别中遗漏的答案是 R43。这位回答者很可能已经表达了用心倾听，并在第 11 题中对倾听的各个方面提出了质疑，但在最后一题的答案中，这位回答者明显感到了沮丧。我很感谢这个评论性答案，因为它引发了问题。如果关于倾听的各个方面的问题似乎与这位回答者无关，那又何必费尽心思回答整份问卷，包括开放性问题。量表问题共有 45 个答案，但开放性问题只有 43 个答案，因此有 2 位答卷人没有回答这些问题。也许这位答卷人认为这些文本框是向我提供反馈意见的地方，而不是收集所需主题信息的形式。
+
 > *“Listening is listening!!!! There are no „aspects“!”* (R43)
+>
+> *"倾听就是倾听!!!!没有"方面"！* (R43)
 > 
 
-# 5. Conclusions
+# 5. Conclusions 结论
 
 In the overall comparison it was clear that sensing was the aspect emphasized in the answers of the Playback Theatre conductors, at least in the form of most agreed upon in the relation to these questions. In questions about sensing the average percentage of answers to values 4 or 5 was 91,86%. In processing the same was 80,7% and in responding 72,4%.
 
+在总体比较中，很明显，在一人一故事剧场领航员的回答中，感知是他们强调的方面，至少在这些问题的回答中，他们最认同的形式是感知。在有关感知的问题中，回答数值 4 或 5 的平均比例为 91.86%。在处理方面，平均比例为 80.7%；在回应方面，平均比例为 72.4%。
+
 Of those listening to the tone of the conversation was the most important (97,8% of responders gave either value 4 or 5). Although some of the questions about processing and responding did not produce wide agreement, some of them did. In processing asking for clarification when needed reached as wide agreement as showing listening by one’s body language in responding, both 95,5% on values 4 and 5.
+
+在倾听方面，对话的语气最为重要（97.8% 的回答者给出了 4 或 5 分）。尽管有些关于处理和回答的问题没有取得广泛的一致，但有些问题却取得了一致。在处理这一部分，在"需要时要求澄清"与在"回答问题时通过肢体语言表达倾听"同样得到了广泛的认同，都有 95.5% 的人给出了 4 和 5 的答案。
 
 The agreement was lowest on the question 10, which tried to combine all three aspects, stating that listening and sensing the audience helps to decide the best form for the Teller’s story, only 34,1% on values 4 or 5. The other question with less than half (44,5%) of the answers on the values 4 and 5, was also about choosing the form (Q9), if one restated important points before deciding the form.
 
+最不一致的是第 10 个问题，该问题试图将所有三个方面结合起来，即倾听和感知观众有助于决定讲述者故事的最佳形式，只有 34.1% 的人同意 4 或 5 项。另一个问题也是关于形式的选择（问题 9），如果在决定形式之前重述重要观点，则只有不到一半（44.5%）的答案是选择了 4 和 5 的。
+
 As I already concluded earlier, I think these questions imply that listening to the tone of the conversation, making sure of correct understanding and both using and reading the body language are so crucial elements or aspects in the Playback Theatre that they take place often regardless of the conductor on the stage. However, this is not the case in choosing the form or ways of responding to the story being told. I would say in these the personality of the conductor is more present. I do not mean that listening or using body language would be free of the conductor’s personality, rather that they are more universal in sensing than in the following parts.
+
+正如我在前面所总结的，我认为这些问题意味着，倾听对话的语气、确保正确理解、使用和阅读肢体语言是一人一故事剧场中至关重要的因素或方面，以至于无论领航员在舞台上是谁，这些都会经常发生。然而，在选择形式或回应故事的方式时，情况却并非如此。我想说的是，在这些方面，领航员的个性更为突出。我的意思并不是说倾听或使用肢体语言可以摆脱领航员的个性，而是说它们在感知方面比以下部分更具普遍性。
 
 Processing and responding can vary based on the country, culture or even more specific context of the performance, as all the performances reflect the audience, they are cocreated with. I think you can also see the style of the conductor, their natural rhythm of doing things in processing and responding. Experience is important factor too. An experienced Playback Theatre conductor can probably trust their intuition more, fully focus on the story when it’s being told and decide the form on the spot when the story is finished without any explicit sign of hesitation or uncertainty. This might not be the case with the beginning conductor, as they might fear not being able to come up with a good form in the short time available at the end of the story and thus consider the form to be used already during the teller’s story.
 
