@@ -333,7 +333,7 @@ The category reflecting included 13 answers starting with reflection or comment 
 
 > *“Ohjaajan tulee yhtälailla kuunnella kertojaa, **yleisöä ja esiintyjiä.”*** (R38) (underlined categorized to focus on the teller, bolded as multitasking)(trans. The conductor should equally listen to the teller, audience and the performers)
 >
-> > *"Ohjaajan tulee yhtälailla kuunnella kertojaa, **yleisöä ja esiintyjiä。"***（R38）（下划线归类为聚焦讲述者，粗体为多任务处理）（译注：领航员应同样倾听讲述者、观众和表演者的声音）
+> *"Ohjaajan tulee yhtälailla kuunnella kertojaa, **yleisöä ja esiintyjiä。"***（R38）（下划线归类为聚焦讲述者，粗体为多任务处理）（译注：领航员应同样倾听讲述者、观众和表演者的声音）
 > 
 
 Some answers were more in more simple forms, stating the important aspects of listening as a Playback Theatre conductor, like R41 and R42. One responder (R43) criticized the entire usage of the aspects, stating that listening with the heart is what they try to do.
@@ -1046,8 +1046,6 @@ Listen to the dialogue and interrelations between different stories (R37)
 倾听不同故事之间的对话和相互关系（R37）
 
 Ohjaajan tulee yhtälailla kuunnella kertojaa, yleisöä ja esiintyjiä. (R38)
-
-Ohjaajan tulee yhtälailla kuunnella kertojaa, yleisöä ja esiintyjiä。(R38)
 
 1. Listening for a story that actors can work with. 2. Listening for characters, images, feelings & narrative. 3. Listening for how the story fits in the performance. 4. Watching tine, volume, way of speaking. 5. Listening for what is not said. (R39)
 1.倾听一个演员可以演绎的故事。2.倾听角色、画面、感受和叙事。3.倾听故事与表演的契合点。4.注意语调、音量和说话方式。5.倾听没有说出来的话。(R39)
