@@ -383,7 +383,7 @@ In this category there were 12 answers, which began with something I classified 
 
 > *I listen to the body language and also what is not said and then the actual words...(*R40)
 > 
-> *我倾听肢体语言，也倾听没有说出来的话，然后再倾听实际的话……（*R40）
+> *我倾听肢体语言，也倾听没有说出来的话，然后再倾听实际的话……*（R40）
 >
 
 These terms could have been used in the answers anyway, but now the number of them in answers might have been affected by the name of the questionnaire and my thesis. Being fully present as in spontaneity of the narrative reticulation theory (Fox, 2016) can also be seen in these answers. From the seven roles of conductor (Salas, 1999) performer comes closest, as being present and aware of the upcoming performance.
@@ -402,12 +402,12 @@ In this category there were 10 answers. They were often quite long. Answers in t
 
 > *“One must listen to the feelings, the story, the red line of the story, the warmth of the audience, the security of the whole crowd, actors and musicians feelings and awareness. It is really a quite of a puzzle and because it happens all in just a moment, you quite seldom get to think these aspects afterwords. This is why one should always check in a performance situation and also afterword (with the group): did I hear correctly?”* (R7)
 >
-> *"我们必须倾听感受、故事、故事的红线、观众的热情、全场的安全感、演员和乐师的感受和觉察。这确实是一个相当大的难题，因为这一切都发生在一瞬间，你很少有机会在事后思考这些方面。这就是为什么在演出过程中和演出结束后（与演出团队一起）都要复盘：我倾听得对吗？*
+> *"我们必须倾听感受、故事、故事的红线、观众的热情、全场的安全感、演员和乐师的感受和觉察。这确实是一个相当大的难题，因为这一切都发生在一瞬间，你很少有机会在事后思考这些方面。这就是为什么在演出过程中和演出结束后（与演出团队一起）都要复盘：我倾听得对吗？"*
 > 
 
 > *“The info, the feelings, the dreaming behind the story, the impact of the story/ teller on the overall atmosphere of the performance, the storyline connecting this story to the ones already told, choosing the form, recap the story if needed.* “(R12) (underlined part coded to reflection)
 > 
-> *"信息、情感、故事背后的梦想、故事/讲述者对表演整体氛围的影响、将本故事与已讲述的故事连接起来的故事线、选择形式、必要时复述故事*"（R12）(下划线部分归入为反映）
+> *"信息、情感、故事背后的梦想、故事/讲述者对表演整体氛围的影响、将本故事与已讲述的故事连接起来的故事线、选择形式、必要时复述故事"*（R12）(下划线部分归入为反映）
 > 
 
 > *“Listen to the dialogue and interrelations between different stories”* (R37)
@@ -503,12 +503,12 @@ Listening was also described from the perspective of balancing and making decisi
 
 还有人从平衡的角度来描述倾听，并决定何时发表意见，何时保持沉默（R18）。在提到领导力技能时，再次谈到了领航员对讲述者、表演者和观众的责任。
 
-> *“Active listening - showing you are listening and trying to balance between being scilence and nutral to ask questions and lead, in other words showing dominance leadership skills“(*R18)
+> *“Active listening - showing you are listening and trying to balance between being scilence and nutral to ask questions and lead, in other words showing dominance leadership skills”*(R18)
 > 
 > *"积极倾听——表现出你在倾听，并努力在保持沉默和提问引导的天然冲动间保持平衡（换句话说，要表现出主导性的领导能力）"*（R18）
 > 
 
-> *“Deep Listening, Compassionate Listening, Listening to help the teller empty his/her heart*.” (R41)
+> *“Deep Listening, Compassionate Listening, Listening to help the teller empty his/her heart.”* (R41)
 >
 > *"深度倾听，富有同情心的倾听，倾听让讲述者清空内心*"。(R41)
 > 
@@ -535,7 +535,7 @@ Already at first glimpse of the answers to this question, the frequency of empat
 
 > *“Tellers feel safe to share”* (R23)
 >
-> *"讲述者感到安全。
+> *"讲述者感到安全"*。
 > 
 
 > *“Empathy/Compassion, Sensibility, Charme and Humor”* (R28)
@@ -563,9 +563,9 @@ In this category there were 5 answers. In AEL openness to anything offered in th
 > *"开放"* (R37)
 > 
 
-> *“be open to every thing the teller bring be curious never forget "who how where when and why(but why not always) “(*R42)
+> *“be open to every thing the teller bring be curious never forget "who how where when and why(but why not always) ”*(R42)
 >
-> *"对讲述者带来的每一件事都敞开心扉，充满好奇心，永远不要忘记"谁，如何，何地，何时，为什么（为什么并不总是必要）"(*R42)
+> *"对讲述者带来的每一件事都敞开心扉，充满好奇心，永远不要忘记"谁，如何，何地，何时，为什么（为什么并不总是必要）"*(R42)
 > 
 
 Taking different perspectives, expressing curiosity and receiving the feeling in the performance (R7 & R42). Also, here some answers only had only one word. I think this category links closely to both empathy and active listening. In R42 it is also reminded, perhaps because of the knowledge that I am only beginning my journey as a Playback Theatre conductor, that it is important to take care of the structure and not merely to receive everything as it is offered. This links closely to Story in narrative reticulation (Fox, 2016) and to the next category of answers.
@@ -580,7 +580,7 @@ Having a sense of dramaturgy is about maintaining the structures, rituals and ke
 
 > “*The combination of " heart of the story" and the systemic/ socialogical poatterns”*(R20)
 >
-> *"*故事核心"与系统的/社会学的模式的结合"*（R20）
+> *"故事核心"与系统的/社会学的模式的结合"*（R20）
 > 
 
 > *“The turning point. Where there comes a change in the story, and the essence of that change can bring the teller and the audience to a deeper understanding”* (R27) (underlined marked as empathy)
@@ -590,7 +590,7 @@ Having a sense of dramaturgy is about maintaining the structures, rituals and ke
 
 > *“The important aspect is the essence of the story. Why is it that this story wants to be told? What needs to be express”* (R33)
 >
-> 重要的是故事的本质。为什么要讲述这个故事？需要表达什么"* (R33)
+> *"重要的是故事的本质。为什么要讲述这个故事？需要表达什么"* (R33)
 > 
 
 The answers reflect the theory presented above. As in the answers to question 11, they lift up the importance to find the heart of the story, the essential part of it (R20, R33), some refer to a turning point (R27). These are almost like descriptions of detectives at work, they keep constantly in mind the upcoming performance and seek to find the essence for the actors and the musician to work with.
@@ -603,9 +603,9 @@ The last category of question 12 is about sincerity and respect. Both much neede
 
 问题 12 的最后一类是关于真诚和尊重。这两点在一人一故事剧场表演中都非常需要。这一类共有 5 个答案。感知（Drollinger, Comer & Warrington，2006）、Genuity（Fox, 2016）和外交官与艺人·家（Salas， 1999）与这一类别相关。"感知"是指积极倾听，"Genuity"是指真实自我，"艺人"是指在舞台上展现自我，"外交家"是指尊重并重视故事的多样性。
 
-> “*Being sincere.”* (R3)
+> *“Being sincere.”* (R3)
 > 
-> *"*真诚*"（R3）
+> "*真诚*"（R3）
 > 
 
 > *“to be with the tellers and audience and find the common humanity.”* (R30)
@@ -745,7 +745,7 @@ Salas, 20.5.2011 TedTalk https://www.youtube.com/watch?v=R-UtiROCm6E Jo Salas: E
 
 Salas, R., Steele, K., Lin, A., Loe, C., Gauna, L. & Jafar-Nejad, P. (2013). Playback Theatre as a tool to enhance communication in medical education. *Medical Education Online, 18*(1), .doi:10.3402/meo.v18i0.22622
 
-# Attachments 附录
+# Attachments 附件
 
 ## ATTACHMENT 1 附件 1
 
