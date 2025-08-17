@@ -185,7 +185,7 @@ Performing has been a significant avenue for me to express my unique self and to
 
 At times, the in-depth scrutiny of my Playback Theatre work has effected my spontaneity and diminished my capacity to appreciate the creative work of others and mine as good enough. I have experienced moments when my sense of play diminished and feelings of disconnection and isolation swamped me as I grappled with the conflicting agendas (and values) of a creative (group) artist and a (solo) scholar. In reading this thesis, you accompany me on my journey and witness my discoveries as I encounter Playback Theatre through the experiences of audience members in the liminal spaces of the research in my local community.
 
-有时，对一人一故事剧场工作的深入审视影响了我的自发性，削弱了我欣赏他人和我的创造性工作的能力。我曾经历过游戏感减弱的时刻，也曾经历过断裂感和孤独感淹没我的时刻，因为我在努力应对一个创造性（团体）艺术家和一个（个人）学者的议程（和价值观）之间的冲突。在阅读这篇论文的过程中，您将陪伴我走过这段旅程，见证我在当地社群的研究边缘空间中通过观众的体验与一人一故事剧场相遇时的发现。
+有时，对一人一故事剧场工作的深入审视影响了我的自发性，削弱了我欣赏他人和我的创造性工作的能力。我曾经历过游戏感减弱的时刻，也曾经历过断裂感和孤独感淹没我的时刻，因为我在努力应对一个创造性（团体）艺术家和一个（个人）学者的议程（和价值观）之间的冲突。在阅读这篇论文的过程中，您将陪伴我走过这段旅程，见证我在当地社群的研究阈限空间中通过观众的体验与一人一故事剧场相遇时的发现。
 
 # CHAPTER ONE: Introduction
 
@@ -271,11 +271,11 @@ The experience of watching the enactments inspired by the personal stories has b
 
 The study finds that audience members engage in a process of moving in and out of the liminal space of the performance. The nontraditional nature of the form and the highly ritualised structure of the performance activate this experience. The individual undertakes a form of critical reflection and engages in the constant comparison of their actual experience of the event with that which they had expected, and the ongoing consideration of the way in which the form intersects with their values. This results in audience members continually renegotiating their relationship to the values and ideas implicit in the form, particularly that of participation, and the mixing of the personal/public selves. The reflective experience extends beyond the formal performance frame.
 
-研究发现，观众参与了一个在表演的边缘空间进出的过程。表演形式的非传统性和高度仪式化的结构激活了这种体验。观众个体会进行一种批判性的反思，不断将自己的实际体验与预期体验进行比较，并持续思考表演形式与自身价值观的交集。这导致观众不断重新协调他们与这种形式所蕴含的价值观和理念的关系，特别是参与和个人/公共自我的混合。反思体验超越了正式表演的框架。
+研究发现，观众参与了一个在表演的阈限空间进出的过程。表演形式的非传统性和高度仪式化的结构激活了这种体验。观众个体会进行一种批判性的反思，不断将自己的实际体验与预期体验进行比较，并持续思考表演形式与自身价值观的交集。这导致观众不断重新协调他们与这种形式所蕴含的价值观和理念的关系，特别是参与和个人/公共自我的混合。反思体验超越了正式表演的框架。
 
 The research makes recommendations for purposeful and strategic Playback Theatre work. It proposes that Playback Theatre has a place in contemporary community life because it gives form and structure to that marginal space Berman names in the opening quote, a space where people can meet. The findings in this study provide a framework for the production of viable one-off Playback Theatre events. The study also makes recommendations for practitioner formation and development. Recommendations for further research are listed.
 
-研究为一人一故事剧场工作的目的性和战略性提供了建议。它提出，一人一故事剧场在当代社群生活中占有一席之地，因为它为伯尔曼在开篇引言中提到的边缘空间提供了形式和结构，一个人们可以相遇的空间。本研究的结论为制作可行的一人一故事剧场活动提供了一个框架。本研究还为从业者的培养和发展提出了建议。此外，还列出了进一步研究的建议。
+研究为一人一故事剧场工作的目的性和战略性提供了建议。它提出，一人一故事剧场在当代社群生活中占有一席之地，因为它为伯尔曼在开篇引言中提到的阈限空间提供了形式和结构，一个人们可以相遇的空间。本研究的结论为制作可行的一人一故事剧场活动提供了一个框架。本研究还为从业者的培养和发展提出了建议。此外，还列出了进一步研究的建议。
 
 ## 1.4 How the Thesis is Organised
 
