@@ -349,7 +349,7 @@ Nicholson and Taylor (1998) suggest that "audiences *interpret* a performance." 
 
 Engagement with the drama in this way brings the audience member more fully into the aesthetic frame and creates the potential for new understanding. Bundy states that "if new understanding or awareness is to develop, the mental and emotional energies of the participants or spectators must be engaged" (p.57). This is not engagement for engagement sake, rather, in the manner that Bauman and Boal suggest above, to "bring to living consciousness" the new perspective for the spectator (Bundy, 2001, p.57). Participants' expectation of the experience and their preparedness to enter the fiction influences the level and nature of their engagement and determines whether they have a flow experience[16].
 
-以这种方式参与戏剧，能使观众更全面地进入审美框架，并创造出新的理解潜力。邦迪指出，"如果要形成新的理解或认识，就必须调动参与者或观众的精神和情感能量"（第 57 页）。这不是为了参与而参与，而是以鲍曼和波尔在上文建议的方式，为观众"带来活生生的意识"新视角（Bundy, 2001, p.57）。参与者对体验的预期以及他们进入虚构的准备程度影响着他们参与的程度和性质，并 决定着他们是否获得了心流体验[16]。
+以这种方式参与戏剧，能使观众更全面地进入审美框架，并创造出新的理解潜力。邦迪指出，"如果要形成新的理解或认识，就必须调动参与者或观众的精神和情感能量"（第 57 页）。这不是为了参与而参与，而是以鲍曼和波尔在上文提到的方式，为观众"带来活生生的意识"新视角（Bundy, 2001, p.57）。参与者对体验的预期以及他们进入虚构的准备程度影响着他们参与的程度和性质，并 决定着他们是否获得了心流体验[16]。
 
 16 Flow is discussed earlier in the section.
 
@@ -379,7 +379,7 @@ Rituals are crucibles of cultural expression and a means by which to explain the
 
 Burkett (2001) suggests that new approaches must be developed if we are to move toward experiences of community that embrace intercultural meetings. The improvised oral form of Playback Theatre provides a way.
 
-Burkett（2001 年）建议，如果我们要走向包含跨文化会议的社群体验，就必须开发新的方法。即兴口述形式的一人一故事剧场提供了一种方法。
+Burkett（2001 年）认为，如果我们要走向包含跨文化会议的社群体验，就必须开发新的方法。即兴口述形式的一人一故事剧场提供了一种方法。
 
 Storytelling is a pre-modern culturally expressive technology. Poet James Cowan speaks about the state or spaces that are evoked in the storytelling traditions and the performance of culture for indigenous Australians as "the wild state". He says:
 
@@ -614,7 +614,7 @@ Saunders(2003)通过当代生活中的“外国人”概念考察了差异影响
 
 Could it be that estrangement is what is common to us all? Dillon (in Ahmed, 2000) suggests so stating, "the estrangement of human beings … is integral to their condition of being here as the beings that they are" (p.93).
 
-难道隔阂是我们所有人的共同之处吗？Dillon(在艾哈迈德，2000年)提出了这样的建议，“人类的隔阂……是他们作为他们而存在的不可或缺的条件”(第93页)。
+难道隔阂是我们所有人的共同之处吗？Dillon(在艾哈迈德，2000年)提出了这样的观点，“人类的隔阂……是他们作为他们而存在的不可或缺的条件”(第93页)。
 
 In *The Fall of Public Man,* Sennett (1977) chronicles the way in which the requirement and use of social distance between people has changed in public life from the time of the Roman empire. Once, public life was a male domain, concerned with "face", in which people could expect to be "left alone" (p.27). The public domain was a paradox of visibility and isolation. The city was a "collection of strangers" (p.48), not so much the strangers-as-outsiders idea of Ahmed (2000) rather, strangers-as-unknown. Sennett argues that on the one hand the austere face of the public domain is a product of the structures required to maintain material and emotional order. On the other hand he admits that it fosters immoral behaviour and a lewd and opportunistic closeness mistaken for collective intimacy. This closeness is a product of what Sennett calls the century of personality where self-gratification reigned (the 19th century) and is used to shore up intolerance of difference. Sennett claims that in the proceeding century we became too precious with ourselves and our need for a separate psychic life, withdrawing from the public into the "idealized refuge" of the family (p.20). Bailey (2000) too, is critical of this preoccupation suggesting the "culture of therapy" is derived from a particular kind of "privatism which now has associated organisational and institutional forms in the widely-available practices of 'personal growth', therapy, and couselling" (p.387). This trend underpins what Sennett asserts is the risk of social disintegration and increased self-absorption where we are fragile in ourselves and have trouble feeling and expressing feelings (Sennett, 1977, 1994). In Sennett's idea of society citizens appear to be devoid of autonomy, creativity and spontaneity, essential elements Burkett (2001) recommends for sustainable community.
  
@@ -649,7 +649,7 @@ Frank(1995)认为，故事是重新绘制地图、寻找新目的地的一种方
 
 Mienczakowski (1997) urges that an outward looking orientation is essential during this time in which there is a "preoccupation" with self (p.163). While he acknowledges that it was the postmodern theorists that have enabled us "to understand social life as a cultural plot" (p.166), he claims that this plot authorised certain voices and silenced others. Critical and feminist theorists (Lather, 1991, Razack, 1993) recommend the active application of story-based processes to seek such silenced voices. In so doing there is scope for what McLaren (in Mienczakowski, 1997) calls "*resistance postmodernism"* (p.167). Reinharz (1992) suggests that a critical-contextual approach is essential for such story-based processes. This enables us to face up "to other positions that might challenge and interrogate [our] own location" (Conquergood in Mienczakowski, 1997, p.167). Story-based process might assist us to invest our experiential life with moral significance and in doing so, influence human behaviour (Bauman, 1986, Bruner, 1986). Although, others (Rappaport, 1995, Stacey, 1988) warn that such processes must not undermine the agency of the storyteller, nor distort the purpose of the telling. This position places the act of listening in the centre of the story-based process. This is discussed further in the next section.
 
-米恩扎科夫斯基(1997)强调，在这段时间里，有一种对自我的“关注”，向外看的取向是必不可少的(第163页)。虽然他承认后现代理论家使我们能够“将社会生活理解为一个文化情节”(第166页)，但他声称，这个情节授权了某些声音，并压制了其他声音。批判理论家和女权主义理论家(Lather, 1991, Razack, 1993)建议积极应用基于故事的过程来寻求这种沉默的声音。这样做就有了麦克拉伦(in Mienczakowski，1997)所称的*抵抗后现代主义*(第167页)的空间。Reinharz(1992)认为，对于这种基于故事的过程，一种批判的-语境话的方法是必不可少的。这使我们能够面对“可能挑战和质疑[我们]自身位置的其他立场”(Conquergood in Mienczakowski，1997，第167页)。基于故事的过程可能会帮助我们赋予我们的经验生活以道德意义，从而影响人类的行为(Bauman, 1986, Bruner, 1986)。虽然，其他人(Rappaport, 1995, Stacey, 1988)警告说，这样的过程不能破坏讲故事的人的代理，也不能扭曲讲故事的目的。这一立场将倾听行为置于基于故事的过程的中心。这将在下一节进一步讨论。 
+米恩扎科夫斯基(1997)强调，在这段时间里，有一种对自我的“关注”，向外看的取向是必不可少的(第163页)。虽然他承认后现代理论家使我们能够“将社会生活理解为一个文化情节”(第166页)，但他声称，这个情节授权了某些声音，并压制了其他声音。批判理论家和女权主义理论家(Lather, 1991, Razack, 1993)提出积极应用基于故事的过程来寻求这种沉默的声音。这样做就有了麦克拉伦(in Mienczakowski，1997)所称的*抵抗后现代主义*(第167页)的空间。Reinharz(1992)认为，对于这种基于故事的过程，一种批判的-语境话的方法是必不可少的。这使我们能够面对“可能挑战和质疑[我们]自身位置的其他立场”(Conquergood in Mienczakowski，1997，第167页)。基于故事的过程可能会帮助我们赋予我们的经验生活以道德意义，从而影响人类的行为(Bauman, 1986, Bruner, 1986)。虽然，其他人(Rappaport, 1995, Stacey, 1988)警告说，这样的过程不能破坏讲故事的人的代理，也不能扭曲讲故事的目的。这一立场将倾听行为置于基于故事的过程的中心。这将在下一节进一步讨论。 
 
 **3.6.2 Stories as Experience 作为经历的故事**
 
@@ -708,99 +708,128 @@ This distinction is pertinent to the Playback Theatre method where the space tha
 > 一个永恒的孤独停止的领域。有道德的人不再是万物的始和终，他的情绪不再是衡量世界上发生的一切事情的意义的尺度。道德迫使所有人都有一种社群（community）意识(Frank, 1995，第153页)。 
 > 
 
-The postcolonial critique of resurgence in the telling of personal stories is seen as a way to counteract previous practices that might have contributed to silencing some voices. Feminist scholars have been particularly vocal in advocating ways in which to represent such voices without minimising the teller's authority. Reinharz (1992) concedes that this is a fraught area, with a high potential for re-colonising oppression. Yet, she recommends that we need not silence ourselves to let others be heard and in fact urges that we *use our authority* to help bring other voices forward. Such is the reality in the Playback Theatre method where there are various points at which performers collaborate with the teller to bring their voice forward. One example is in the interview with the conductor, where the conductor actively directs the telling albeit while attempting minimal authorial intrusion18. A second example occurs in the enactment where the actors are responsible for selecting which parts of the story to present and which to edit out (Stacey, 1988). This is the collaboration of the Playback Theatre storying process and moves the act of telling a story into the realm of performance.
+The postcolonial critique of resurgence in the telling of personal stories is seen as a way to counteract previous practices that might have contributed to silencing some voices. Feminist scholars have been particularly vocal in advocating ways in which to represent such voices without minimising the teller's authority. Reinharz (1992) concedes that this is a fraught area, with a high potential for re-colonising oppression. Yet, she recommends that we need not silence ourselves to let others be heard and in fact urges that we *use our authority* to help bring other voices forward. Such is the reality in the Playback Theatre method where there are various points at which performers collaborate with the teller to bring their voice forward. One example is in the interview with the conductor, where the conductor actively directs the telling albeit while attempting minimal authorial intrusion[18]. A second example occurs in the enactment where the actors are responsible for selecting which parts of the story to present and which to edit out (Stacey, 1988). This is the collaboration of the Playback Theatre storying process and moves the act of telling a story into the realm of performance.
 
-Denzin (1989) asserts that all stories are derivation of the larger group, cultural, ideological, and historical context. He states that no story is "an individual production" (Denzin, 1989, p.73). The listener is also implicated. The listener is required "to unpack the relationship
+后殖民时代对讲述个人故事的复兴的批评被视为一种抵消以前可能导致某些声音沉默的做法的方式。女权主义学者尤其主张在不降低讲述者权威的情况下，以某种方式来代表这些声音。Reinharz(1992)承认，这是一个令人担忧的领域，再殖民化的压迫出现的可能性很高。然而，她提出，我们不需要沉默自己，让别人的声音被听到，事实上，她敦促我们*利用自己的权威*来帮助别人发声。这就是一人一故事剧场方法的实际情况，在这种方法中，表演者与讲述者合作，在不同的点上把他们的声音带出来。一个例子是在和领航员的访谈中，领航员积极地引导讲述，尽量减少著作者式的侵扰[18]。第二个例子发生在表演中，演员负责选择故事的哪些部分要呈现，哪些部分要剪辑掉(Stacey, 1988)。这是一人一故事剧场故事过程的合作，并将讲故事的行为带入了表演的领域。
 
-18 The degree of intrusion will depend on the skill and experience of the conductor.
+[18] The degree of intrusion will depend on the skill and experience of the conductor.
 
-between the incidents described and the interpretation of what actually happened" (Shuman, 1986, p.21). In listening for the other, Frank (1995) states that there could be a mutual moment of witness. Waitzkin (in Frank, 1995) cautions that the listener is prone to interrupt when they become uncomfortable. The interruptions can work to silence the telling or turn stories away from their "truths" (Waitzen in Frank, 1995, p.63). Listening can be hard, yet is also a fundamental moral act (Frank, 1995, Razack, 1993).
+[18] 侵扰的程度将取决于领航员的技巧和经验。
+
+Denzin (1989) asserts that all stories are derivation of the larger group, cultural, ideological, and historical context. He states that no story is "an individual production" (Denzin, 1989, p.73). The listener is also implicated. The listener is required "to unpack the relationship between the incidents described and the interpretation of what actually happened" (Shuman, 1986, p.21). In listening for the other, Frank (1995) states that there could be a mutual moment of witness. Waitzkin (in Frank, 1995) cautions that the listener is prone to interrupt when they become uncomfortable. The interruptions can work to silence the telling or turn stories away from their "truths" (Waitzen in Frank, 1995, p.63). Listening can be hard, yet is also a fundamental moral act (Frank, 1995, Razack, 1993).
+
+Denzin(1989)断言，所有的故事都是更大的群体、文化、意识形态和历史背景的衍生。他说，没有一个故事是“个人作品”(Denzin, 1989年，第73页)。听者也受到牵连。倾听者需要“揭示所描述的事件与对实际发生的事情的解释之间的关系”(舒曼，1986年，第21页)。弗兰克(1995)指出，在倾听对方的过程中，可以有一个相互见证的时刻。Waitzkin (in Frank, 1995)警告说，当听众感到不舒服时，他们很容易打断对方。这种打断可以使讲的人沉默，或者使故事偏离“真相”(Waitzen in Frank, 1995, p.63)。倾听可能很难，但也是一种基本的道德行为(Frank, 1995; Razack, 1993)。
 
 Razack (1993) claims that it is the act of listening to the story that embodies the liberatory potential of storytelling. In listening, we can hear beyond dominant hegemonic discourses. She states that storytelling embodies the suppressed knowledge, the knowledge oppositional to established knowledge. The story is "the experience of the world that is not admitted into dominant knowledge paradigms" (Razack,1993, p.55). Thus, the challenge is to hear. This does not mean that any listener has a right to demand those voices to speak. While stories may break silences, they may also encourage listeners to view sociopolitical problems in individualistic terms (Reinharz, 1992).
 
-**3.6.3 Stories in the Community**
+Razack(1993)认为，正是听故事的行为体现了讲故事的解放性的潜质。在倾听中，我们可以听到超越支配性霸权话语的声音。她指出，讲故事体现了被压抑的知识，即与既定知识相对立的知识。故事是“不被主流知识范式所接受的世界经验”(Razack,1993，第55页)。因此，挑战在于倾听。这并不意味着任何听众都有权要求这些声音发言。虽然故事可能打破沉默，但它们也可能鼓励听众以个人主义的角度看待社会政治问题(Reinharz, 1992)。
 
-The place of personal stories is progressively more prominent in community-based performance projects, boosted through community development and community cultural development projects (Burkett, 2003). Rappaport (2000) argues that this is premised on the belief that "community cannot be a community without a shared narrative" (p.6). Through the 1980s and 1990s significant effort has been invested in articulating what community means in the context of community development practice (see for example, Burkett, 2001, Ife, 1995, Kenny, 1994). Many of these efforts are directed at the need to define sites of practice. In this era of globalisation, scholars and practitioners are seeking to situate themselves in ways that are internationally relevant whilst remaining relevant at a local level. Central to community development practice is a plurality of methods guided by principles of social justice,
+### 3.6.3 Stories in the Community 社群中的故事
 
-interpersonal connections, participation, integrity, creativity and inclusive processes that are aimed at collectively empowering ordinary people (Ife, 1995, Kenny, 1994). Story-based processes are often preferred as a way to enact these principles. Community is similarly a central term in the field of practice popularly known as community cultural development. In many ways, the creative sibling of community development, community cultural development is built on notions of social action, participation, empowerment and inclusion (Hawkes, 2003, Pye, 2003). This practice site is a primary avenue for the maintenance of cultural diversity in Australia (Theophanous, 2001). Community cultural development uses arts practice as a method for facilitating processes. Wiseman (2001) suggests that a primary aim of community cultural development practice is to foster
+The place of personal stories is progressively more prominent in community-based performance projects, boosted through community development and community cultural development projects (Burkett, 2003). Rappaport (2000) argues that this is premised on the belief that "community cannot be a community without a shared narrative" (p.6). Through the 1980s and 1990s significant effort has been invested in articulating what community means in the context of community development practice (see for example, Burkett, 2001, Ife, 1995, Kenny, 1994). Many of these efforts are directed at the need to define sites of practice. In this era of globalisation, scholars and practitioners are seeking to situate themselves in ways that are internationally relevant whilst remaining relevant at a local level. Central to community development practice is a plurality of methods guided by principles of social justice, interpersonal connections, participation, integrity, creativity and inclusive processes that are aimed at collectively empowering ordinary people (Ife, 1995, Kenny, 1994). Story-based processes are often preferred as a way to enact these principles. Community is similarly a central term in the field of practice popularly known as community cultural development. In many ways, the creative sibling of community development, community cultural development is built on notions of social action, participation, empowerment and inclusion (Hawkes, 2003, Pye, 2003). This practice site is a primary avenue for the maintenance of cultural diversity in Australia (Theophanous, 2001). Community cultural development uses arts practice as a method for facilitating processes. Wiseman (2001) suggests that a primary aim of community cultural development practice is to foster 
 
-Cultural democracy, in which all people have a genuine opportunity to be involved in individual and creative activity through which they can express and communicate what is important to them (Wiseman, 2001, p.18).
+通过社群发展和社群文化发展项目，个人故事在基于社群的演出项目中的地位日益突出(Burkett, 2003)。拉帕波特（Rappaport）(2000)认为，这是基于“没有共同的叙述，社群就不能成为社群”的信念(第6页)。在20世纪80年代和90年代，在阐明社区在社区发展实践中的意义方面投入了大量努力(例如，Burkett, 2001年，Ife, 1995年，Kenny, 1994年)。其中许多努力都是针对定义实践地点的需要。在这个全球化时代，学者和实践者正在寻求将自己定位在与国际相关的方式，同时在当地层面保持相关性。社群发展实践的核心是以社会正义原则为指导的多种方法， 人际关系，参与，诚信，创造力和包容性的过程，旨在集体地赋予普通人权力(Ife, 1995年，Kenny, 1994年)。基于故事的过程往往是实施这些原则的首选方式。社群同样是实践领域的一个核心术语，通常被称为社群文化发展。在许多方面，作为社群发展的创造性兄弟，社群文化发展建立在社会行动、参与、赋权和包容的概念之上(Hawkes, 2003, Pye, 2003)。这一实践场所是维护澳大利亚文化多样性的主要途径(Theophanous, 2001)。社群文化发展使用艺术实践作为促进进程的方法。怀斯曼(2001)认为，社群文化发展实践的一个主要目标是培养
+
+> Cultural democracy, in which all people have a genuine opportunity to be involved in individual and creative activity through which they can express and communicate what is important to them (Wiseman, 2001, p.18).
+> 
+> 文化民主，所有人都有真正的机会参与个人和创造性的活动，通过这种活动，他们可以表达和交流对他们重要的东西(怀斯曼，2001年，第18页)。 
+> 
 
 Daveson (2001) suggests that processes should attend to collective and individual experiences and build active, inclusive and sustainable community practice. Rappaport (1995) argues that much of the work of social change and community development is in the direction of greater personal and collective empowerment. He critiques the use of personal stories as a resource in this context and raises questions about their use. He asks, Who controls these resources? Why are some stories rejected and others valued? Rappaport suggests that if narratives are resources we should be able to see who is controlling them, and who gives them social value otherwise there is a risk of social control, oppression and disenfranchisement. Rappaport claims that *who* tells the stories (that are positively valued) about one's self and one's community reveals how the resources are unevenly distributed and controlled by social values.
 
-Everyone has stories, but some stories actively devalue people and other stories are not recognised as valuable at all. Some stories empower people and other stories disempower people (Rappaport, 1995, p.3).
+Daveson(2001)指出，过程应该关注集体和个人的经验，并建立积极的、包容的和可持续的社群实践。拉帕波特(1995)认为，社会变革和社群发展的大部分工作都是朝着更大的个人和集体赋权的方向发展的。他批评了在这种背景下使用个人故事作为资源的做法，并对其使用提出了质疑。他问道，谁控制着这些资源？为什么有的故事被拒绝，有的故事被重视？拉帕波特认为，如果叙事是一种资源，我们应该能够看到谁在控制它们，谁赋予它们社会价值，否则就有社会控制、压迫和剥夺公民权的风险。拉帕波特声称，谁讲述了关于自己和社群的故事(这些故事被积极评价)，揭示了资源是如何被社会价值观不均匀地分配和控制的。
 
-Rappaport's treatise is highly relevant to the critique of Playback Theatre's application.
+> Everyone has stories, but some stories actively devalue people and other stories are not recognised as valuable at all. Some stories empower people and other stories disempower people (Rappaport, 1995, p.3).
+> 
+> 每个人都有故事，但有些故事会主动贬低人，而其他故事则根本不被认为是有价值的。一些故事赋予人们权力，另一些故事剥夺了人们的权力(拉帕波特，1995年，第3页)。 
+> 
 
-Premised on the telling of personal story, the Playback Theatre event has inherent in it the potential for all the risks Rappaport proposes. This renders the Playback Theatre performance a political space, where authorship and entitlement are contentious.
+Rappaport's treatise is highly relevant to the critique of Playback Theatre's application. Premised on the telling of personal story, the Playback Theatre event has inherent in it the potential for all the risks Rappaport proposes. This renders the Playback Theatre performance a political space, where authorship and entitlement are contentious.
+
+拉帕波特的论述与对一人一故事剧场应用的批评高度相关。以讲述个人故事为前提，一人一故事剧场活动具有拉帕波特提出的所有风险的潜在可能性。这使得一人一故事剧场的演出成为一个政治空间，其中作者和权利是有争议的。
 
 Shuman (1986) discusses authorial rights with respect to personal stories. She likens the control over the use of stories told in everyday life to the copyright authors claim over "manuscripts prepared for publication" (p.1). This position is challenged when juxtaposed with Frank's position of stories being a liberation of multiple voices. He writes:
 
-In stories, the teller not only recovers her voice; she becomes a witness to the conditions that rob others of their voice. … When any person recovers his voice, many people begin to speak through that story (Frank, 1995, p.xii).
+舒曼(1986)从个人故事的角度讨论了作者的权利。她将对日常生活中讲述的故事的使用的控制比作版权作者对“准备出版的手稿”的主张(第1页)。当与弗兰克认为故事是多种声音的解放的立场并置时，这一立场受到了挑战。他写道：
+
+> In stories, the teller not only recovers her voice; she becomes a witness to the conditions that rob others of their voice. … When any person recovers his voice, many people begin to speak through that story (Frank, 1995, p.xii).
+> 
+> 在故事中，讲述者不仅恢复了声音；她成为剥夺他人声音的情况的见证者。……当任何一个人恢复了他的声音，许多人开始通过这个故事说话(Frank, 1995, p.xii)。
+> 
 
 Shuman (1986) acknowledges that the preoccupation with "storytelling rights shifts the focus away from the stories themselves toward their use" (p.2). In Playback Theatre the focus shifts between the two with an emerging interest in the way in which stories can be used in specific developmental work in communities.
 
+舒曼(1986)承认，对“讲故事权利的关注使人们把注意力从故事本身转移到了故事的使用上”(p.2)。在一人一故事剧场中，重点在这两者之间转移，对如何将故事用于社群的具体发展工作产生了新的兴趣。
+
 Frank (1995) proposes that working with story-based processes demands an ethics of voice, where those who have been objects of others' reports in the past, are now empowered to tell their own stories. He states that everyone has the "right to speak their own truth, in [their] own words" (p.23). This postmodern permission is inherent in the Playback Theatre method. The ethical stance is fundamental to the Playback Theatre method. Without it we are at risk of what Kelly (1984) alerts us to, causing further colonisation, further domination, further oppression.
+
+Frank(1995)提出，基于故事的过程需要一种声音伦理，在这种伦理中，那些过去一直是别人报道的对象的人，现在被授权讲述自己的故事。他指出，每个人都有“用[他们]自己的话说出他们自己的真相的权利”(第23页)。这种后现代的许可是一人一故事剧场方法所固有的。伦理立场是一人一故事剧场方法的基础。没有它，我们就会面临凯利(1984)提醒我们的风险，导致进一步的殖民、进一步的统治、进一步的压迫。 
 
 The telling of our stories is more than a reflection of our culture. Bauman (1986) reminds us that storytelling is constitutive of social life. She claims that:
 
-There is not much here – at least not yet– of literariness, or of performance as a special mode of communication, but there is a deep sense of context and of social action that is essential to any conception of literature as social practice (Bauman,
+讲述我们的故事不仅仅是对我们文化的反映。鲍曼(1986)提醒我们，讲故事是社会生活的组成部分。她声称: 
 
-1986, p.113).
+> There is not much here – at least not yet– of literariness, or of performance as a special mode of communication, but there is a deep sense of context and of social action that is essential to any conception of literature as social practice (Bauman, 1986, p.113).
+> 
+> 这里没有太多（至少暂时没有太多）的文学性，或者作为一种特殊的交流方式的表演，但有一种深刻的语境和社会行动的感觉，这是文学作为社会实践的任何概念所必需的(鲍曼，1986，第113页)。 
+> 
 
 While the act of telling stories is in itself empowering, Boje (1991) identifies another level, a meta-level, in which the tellers self-reflexively tell stories about storytelling. The truth of stories is not simply what was experienced, but equally what is experienced in the telling of the story and in its reception (Frank, 1995). This continuation of the processes can be thought of as an additional opportunity for reflexive insight. Mienczakowski (1997) claims that this could move audience participants "towards being visible where previously they were not" (p.170).
 
+虽然讲故事的行为本身是赋予权力，但Boje(1991)确定了另一个层面，一个元层面，在这个层面上，讲述者自我反身地讲述关于讲故事的故事。故事的真实性不仅仅是被体验到的东西，同样也是在讲故事和接受故事的过程中被体验到的东西(Frank, 1995)。这种过程的延续可以被认为是反身性洞察的额外机会。Mienczakowski(1997)声称，这可以使观众参与者“在他们以前不可见的地方变得可见”(第170页)。 
+
 Frank (1995) suggests that a useful way to consider how story interacts with everyday life is to imagine that we think *with* stories rather than be preoccupied with thinking *about* stories. He cites Cruickshank when he writes:
 
-To think about a story is to reduce it to content and then analyse that content.
+Frank(1995)认为，考虑故事如何与日常生活相互作用的一个有用方法是想象我们*用*故事来思考，而不是全神贯注地*对*故事进行思考。他引用Cruickshank的话写道: 
 
-Thinking with stories takes the stories as already complete; there is no going beyond it. … To think with stories is to find it affecting one's own life and to find in that effect a certain truth of one's life (Frank, 1995, p.23).
+> To think about a story is to reduce it to content and then analyse that content. Thinking with stories takes the stories as already complete; there is no going beyond it. … To think with stories is to find it affecting one's own life and to find in that effect a certain truth of one's life (Frank, 1995, p.23).
+> 
+> 思考一个故事，就是把它简化为内容，然后分析这个内容。用故事思考，把故事当成已经完成；有超越它的余地。……用故事来思考，就是发现它对自己生活的影响，并在这种影响中发现自己生活的某种真相(Frank, 1995, p.23)。 
+> 
 
 Applying Frank's conception of the place of story in contemporary life liberates thinking about the Playback Theatre form from a focus on what is told, to an appreciation that there is an interaction and a dialogue through stories.
 
+运用弗兰克关于故事在当代生活中的地位的概念，将对一人一故事剧场形式的思考从关注被讲述的内容，解放、提升到通过故事进行互动和对话上。 
+
 In this section I have presented the literature on personal story and the way in which it features in contemporary life as a means to make visible those who were once excluded. In this thesis, the prominence of personal story in the public domain is viewed through the ritual performance form of Playback Theatre. The next section is a comprehensive summary of the literature I have presented in this chapter.
 
-**3.7** **Literature Summary**
+在本节中，我介绍了关于个人故事的文献，以及它在当代生活中作为一种使曾经被排除在外的人可见的手段的方式。在本文中，个人故事在公共领域的突出地位是通过一人一故事剧场的仪式表演形式来观察的。下一节是对我在本章中所呈现的文献的全面总结。 
 
-This chapter has focused on providing a context for this thesis from the perspective of the literature. It presents the way in which performance theory has informed the study. The theory of public events has been included to contextualise the public nature of the Playback Theatre performances that are featured in the study. Using the theory of ritual, I have established that
+## 3.7 Literature Summary 文献综述
 
-![Rea%20Dennis%20-%20Public%20Performance,%20Personal%20Story%20A%20%20aa69f3095310455e95ef906fd8770c9c/image5.png](Rea%20Dennis%20-%20Public%20Performance,%20Personal%20Story%20A%20%20aa69f3095310455e95ef906fd8770c9c/image5.png)
+This chapter has focused on providing a context for this thesis from the perspective of the literature. It presents the way in which performance theory has informed the study. The theory of public events has been included to contextualise the public nature of the Playback Theatre performances that are featured in the study. Using the theory of ritual, I have established that ritual frameworks support liminal activities, and I have looked with particular emphasis, on the potential of liminal activities to induce flow and other aspects of emotional engagement. I have addressed the theory on nontraditional theatre experiences for spectators and participants as a way to speak about audience positions at the Playback Theatre performance. Storytelling as a ritual has also been discussed.
 
-ritual frameworks support liminal activities, and I have looked with particular emphasis, on the potential of liminal activities to induce flow and other aspects of emotional engagement. I have addressed the theory on nontraditional theatre experiences for spectators and participants as a way to speak about audience positions at the Playback Theatre performance. Storytelling as a ritual has also been discussed.
+本章着重从文献的角度为本文提供了一个语境。它展示了表演理论为研究提供信息的方式。公共事件的理论已被纳入到一人一故事剧场演出的公共性质的背景中，这个性质也是本研究关注的一人一故事剧场的特征。使用仪式理论，我已经确立了仪式框架是支持阈限活动的，我特别强调了阈限活动诱导心流和其他情感投入方面的潜力。我已经为观众和参与者提出了非传统戏剧体验理论，作为一种谈论一人一故事剧场表演中观众立场的方式。也将讲述故事作为一种仪式进行了讨论。
 
 The historical emergence of community-based public events has been addressed, with this forum depicted as a possible site for experiences of community. The notion of community has been considered. The chapter argues that community can be a physical place and an actual group of people or it can be understood as an experience. Communitas and ephemeral experiences of community have been presented. Community has also been discussed in terms of diversity.
 
-PUBLIC EVENTS
+讨论了基于社群的公共活动的历史出现，并将该公共集会描述为社群体验的可能场所。并且也考察了社群的概念。本章认为，社群可以是一个物理场所和一群实际存在的人，也可以理解为一种体验。介绍了社群共同体（Communitas）和短暂的社群体验。从多样性的角度对社群进行了讨论。 
 
-RITUAL PERFORMANCE
-
-A non-traditional theatre experience
-
-STORYTELLING FLOW & COMMUNITAS SPONTANEITY RITUAL
-
-PERSONAL
-
-STORY
-
-COMMUNITY
-
-Place, experience of, diversity
-
-COMMUNITY-BASED PERFORMANCE
+![./img/image5.png](./img/image5.png)
 
 **Figure 4: Literature Summary**
 
+**图4：文献综述**
+
 Finally, I have introduced literature on personal story and have considered the act of telling a personal story as a form of meaning making. The stories of interest in this thesis are those that recount personal experiences. I have discussed the function of the listener in the storytelling exchange. In the final section I have portrayed the applications and contexts of personal story in community-based practice. I have drawn the various literatures together in a visual summary in Figure 4.
 
-**3.8** **Conceptual Framework & Research Questions**
+最后，我介绍了关于个人故事的文献，并认为讲述个人故事的行为是一种意义制造的形式。本论文感兴趣的故事是那些叙述个人经历的故事。我已经讨论了听者在讲故事交流中的作用。在最后一节中，我描述了个人故事在社群实践中的应用和背景。我在图4的视觉总结中汇总了各种文献。 
+
+## 3.8 Conceptual Framework & Research Questions 概念框架与研究问题
 
 The final section in this chapter draws together elements of the literature in a statement of the conceptual framework that informs the study. Looking at the interactions, overlaps and gaps in the literature, I propose a rationale for undertaking the study. While the field of inquiry has been re-negotiated throughout the study, the eventual focus is presented below. I accomplish this by stating the research questions and pointing the reader forward to the methodology.
 
-**3.8.1 Conceptual Framework**
+本章的最后一节将文献中的元素汇集在一起，阐述了为研究提供信息的概念框架。通过观察文献中的相互作用、重叠和空白，我提出了开展这项研究的基本原理。虽然在整个研究过程中对调查领域进行了重新调整，但最终的重点如下。我通过陈述研究问题并向读者指出研究方法来实现这一目标。
+
+### 3.8.1 Conceptual Framework 概念性框架
 
 The literature reviewed in the previous sections identifies significant overlap in the way performance, ritual, and storytelling are written about and applied. Performance is "live": an in-the-moment experience that is not necessarily ritualised but offers containment of a similar kind to that offered by ritual events. The ritual event insinuates that participants will cross a threshold into a liminal zone and perhaps become compelled in some way or enter a trance state. Schechner (1985) suggests that audience members *must* cross a threshold in performance in order for it to succeed. Perhaps Csikszentmihalyi's notion of the flow experience provides a more likely description of the way in which audience members engage in performance. The ritual and performance dimensions of Playback Theatre interact and build on one another. Performance brings with it the condition of aliveness or immediacy, surprise and risk taking.
 
+前几节回顾的文献发现，演出、仪式和讲故事的方式在写作和应用方面存在显著的重叠。演出是“现场的”：一种当下的体验，不一定是仪式化的，但提供了类似于仪式活动所提供的容器。仪式事件暗示参与者将跨越一个门槛（threshold），进入一个阈限区域，也许会以某种方式被强迫或进入一种恍惚状态。Schechner(1985)认为，观众必须在表演中跨越一个门槛，才能使表演成功。也许Csikszentmihalyi的心流体验（flow experience）概念提供了一种更有可能描述观众参与表演方式的方法。一人一故事剧场的仪式和表演维度相互作用，相互建立。演出带来了鲜活性或即时性、惊喜和冒险。
+
 The performance facilitates audience members' role as spectator. Ritual contributes containment, structure and some form of predictability through rhythm and repetition. Ritual facilitates the audience members' role as participant. In the performance event and in the ritual event there is a simultaneous experience of reality and suspended or altered reality for participants. The similarities and differences of performance and ritual that are articulated in the theory illuminates a multiplicity or hologram of possibilities for audience engagement in Playback Theatre, and audience members' responses to this.
+
+演出让观众作为观察者的角色。仪式通过节奏和重复提供包容、结构和某种形式的可预测性。仪式让观众成为了参与者的角色。在演出活动中，在仪式中活动对参与者来说是对现实和被暂停或改变的现实的同时体验。理论中所阐述的演出和仪式的异同阐明了一人一故事剧场中观众参与可能性的多样性或全景图，以及观众对此的反应。 
 
 In Chapter Two I recommend research that explores audience experiences of the one-off community-based Playback Theatre event to address a gap in the current Playback Theatre literature. I also identify that there is limited empirical information about the application of Playback Theatre as a one-off community-based event. As demonstrated in this chapter, performance theory supports a valid place for story-based form like Playback Theatre in the development of connections and the building of bridges across difference in communities. Thinking about individual experiences of flow and the way in which individuals respond in new situations point to various factors that may help or hinder an individual's desire or capacity to participate as a storyteller in Playback Theatre. Theory on ritual and the thinking about ritual performance add the concept of communitas as a possible way to understand collective experience of the community-based Playback Theatre event. Constructions of performance as "doing" and "re-doing" consolidate this, where there exists the possibility of embodying the tension between the form or content from the past and "the inevitable adjustments of an ever-changing present' (Carlson, 1996, p.195). This contributes to an understanding of Playback Theatre as potentially transformative for participants. A similar idea emerged from the writing about ritual with references to reflexivity and critical consciousness that are invoked through the anti-structure of the ritual event. The literature about experiences of community, or community as an experience, claim that the potential to blend elements of cultural self-examination (Carlson, 1996) or conscientisation (Freire, 1972) and promote opportunities for the personal and communal transformation (Schechner, 1985) is essential if an experience of community is to be attained. In this way, community theory provides another platform from which to think about the place of personal story in the ritual performance of Playback Theatre. Fox (1999b) suggests that Playback Theatre is a ''kind of community conversation through stories" (p.120). Engaging in this conversation perhaps equates to an experience of community for audience members. Maybe this experience of community will also express values that promote inclusion and inquiry.
 
