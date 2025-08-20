@@ -3,40 +3,60 @@
 # 第二章：一人一故事剧场的呈现
 
 > The story depends on every one of us to come into being. It needs all, needs our remembering, understanding, and creating what we have [experienced] to keep on coming into being.
-Trinh (in Somerville 1999, p.111).
-故事的诞生有赖于我们每一个人。它需要我们所有人，需要我们记住、理解和创造我们所[经历]的一切，才能继续存在下去。
-Trinh（见 Somerville，1999 年，第 111 页）。
+> 
+> Trinh (in Somerville 1999, p.111).
+> 
+> 故事的诞生有赖于我们每一个人。它需要我们所有人，需要我们记住、理解和创造我们所[经历]的一切，才能继续存在下去。
+> 
+> Trinh（见 Somerville，1999 年，第 111 页）。
 > 
 
 > The god of dirt
-Came up to me many times and said
-So many wise and delectable things, I lay
-On the grass listening
-To his dog voice,
-Crow voice,
-Frog voice; *now*,
-He said, and *now*,
-And never once mentioned *forever*
-Mary Oliver (1986, p.50).
-污垢之神
-他多次走过来对我说
-这么多智慧和美味的东西，我躺在
-在草地上聆听
-敬他的狗声
-乌鸦的声音
-青蛙的声音；*当下*、
-他说，*当下*、
-而且从未提及*永远*
-玛丽-奥利弗（1986 年，第 50 页）。
+> 
+> Came up to me many times and said
+> 
+> So many wise and delectable things, I lay
+> 
+> On the grass listening
+> 
+> To his dog voice,
+> 
+> Crow voice,
+> 
+> Frog voice; *now*,
+> 
+> He said, and *now*,
+> 
+> And never once mentioned *forever*
+> 
+> Mary Oliver (1986, p.50).
+> 
+> 污垢之神
+> 
+> 他多次走过来对我说
+> 
+> 这么多智慧和美味的东西，我躺在
+> 
+> 在草地上聆听
+> 
+> 敬他的狗声
+> 
+> 乌鸦的声音
+> 
+> 青蛙的声音；*当下*、
+> 
+> 他说，*当下*、
+> 
+> 而且从未提及*永远*
+> 
+> 玛丽-奥利弗（1986 年，第 50 页）。
 > 
 
 Trinh offers the idea that stories depend on *all* of us to bring them alive. In the poem excerpt from *One of Two Things,* Oliver sings of listening – *now* and that somehow this will be enough. In this chapter I introduce Playback Theatre, a ritual performance method where together audiences and performers bring personal stories to life, and where people are required to listen, *now*. In the first section of the chapter I recount the genesis and the development of Playback Theatre and the Playback Theatre movement. In the second section, I draw together a number of voices in the Playback Theatre literature to present an account of the form and its values and purpose/s. This includes an explanation of the central position of personal story in the method. In the third section, I elaborate on the practice of Playback Theatre, with emphasis on its application in the community. Ultimately, I critique Playback Theatre scholarship and research, identifying the gaps in the literature and relate this to the focus of this study.
 
 特林提出的观点是，故事要靠*我们所有人*的努力才能生动起来。在*两件事中的一件（One of Two Things）*的诗歌节选中，奥利弗唱道："倾听--*当下*，不知何故，这就足够了。在本章中，我将介绍一种仪式演出的方法——一人一故事剧场，在这种方法中，观众和表演者一起将个人故事带入生活，人们需要倾听*当下*。在本章的第一部分，我讲述了一人一故事剧场和一人一故事剧场运动的起源和发展。在第二部分中，我汇集了一人一故事剧场文献中的一些观点，对一人一故事剧场的形式及其价值和目的进行了阐述。其中包括解释个人故事在该方法中的核心地位。在第三部分，我阐述了一人一故事剧场的实践，重点是其在社区中的应用。最后，我对一人一故事剧场的学术和研究进行了评论，指出了文献中的不足，并将其与本研究的重点联系起来。
 
-## 2.1 The Development of Playback Theatre
-
-## 2.1 一人一故事剧场的发展
+## 2.1 The Development of Playback Theatre 一人一故事剧场的发展
 
 Playback Theatre is an international movement with performing companies in over 20 countries (IPTN, 2001). Emerging in the USA in the mid-1970s, Dauber (1999a) suggests that this distinctive theatre form was responding to a specific cultural need. Salas (1993) states that it was a "response to human need, both individual and social, for the communication and validation of personal experience" (p.1). The idea for the Playback Theatre methodology came from Jonathan Fox (Salas, 1993, Fox, 1994, Fox & Dauber, 1999). Influenced by his own exploration of twentieth century experiential theatre and a fascination with preliterary storytelling and other oral cultural forms, Fox set out to develop a theatre form that espoused values of social justice and valued theatricality – a form that he would want to practice. A chance meeting with the psychodrama method served to crystallise his vision, and the early workings of the Playback Theatre method emerged (Fox, 1999a).
 
@@ -66,17 +86,14 @@ The spread of Playback Theatre has been consistent yet contained, with the basic
 
 [6] 1993 年出版了一人一故事剧场方法的指导手册《即兴真实人生》（*Improvising Real Life*）（Salas，1993 年）。1994 年，福克斯出版了一人一故事剧场方法论的理论文献《服务的表演》（*Acts of Service*）（福克斯，1994 年）。
 
-## 2.2 The Playback Theatre Method
-
-## 2.2 一人一故事剧场方法
+## 2.2 The Playback Theatre Method 一人一故事剧场方法
 
 Jo Salas, music therapist and co-founder of Playback Theatre states that from its earliest inception, the scope and purpose of Playback Theatre has been to 
 
-> Reveal the shapeliness and meaning in any experience, even the ones that are unclear and formless in the telling. [Playback Theatre can] dignify stories with ritual and aesthetic awareness, and link them together so that they form a collective story about a community of people whether the temporary community of a public audience, or a group of people whose lives are connected in an ongoing way. … [Playback Theatre] offers a public arena in which the meaning of individual experience expands to become part of a shared sense of purposeful existence (Salas, 1993, p.22).
-> 
-
 音乐治疗师兼一人一故事剧场创始人之一乔-萨拉斯（Jo Salas）说，"一人一故事剧场"从一开始就致力于
 
+> Reveal the shapeliness and meaning in any experience, even the ones that are unclear and formless in the telling. [Playback Theatre can] dignify stories with ritual and aesthetic awareness, and link them together so that they form a collective story about a community of people whether the temporary community of a public audience, or a group of people whose lives are connected in an ongoing way. … [Playback Theatre] offers a public arena in which the meaning of individual experience expands to become part of a shared sense of purposeful existence (Salas, 1993, p.22).
+> 
 > 揭示任何经历的形状和意义，即使是那些在讲述过程中模糊不清的经历。[一人一故事剧场可以]以仪式和美学赋予故事以尊严，并将它们联系在一起，从而形成一个关于人群的集体故事，无论是公开招募的观众组成的临时群体，还是以持续方式将生活联系在一起的群体。……[一人一故事剧场]提供了一个公共舞台，在这个舞台上，个人经历的意义得以扩展，成为有坚实的存在的共同意识的一部分（Salas，1993 年，第 22 页）。
 > 
 
@@ -106,7 +123,6 @@ This is the ritualised process that both drives and is driven by the audience-pe
 
 > Playback Theatre is spontaneous improvised theatre created through a unique collaboration between performers and audience. Someone tells a story from their life, chooses actors to play the different roles, then watches as their story is immediately recreated and given artistic shape and coherence (Hosking & Penny, 1998, p.10).
 >
-
 > Playback Theatre（一人一故事剧场）是通过表演者与观众之间的独特合作创造出的自发的即兴剧场。表演者讲述自己生活中的故事，选择演员扮演不同的角色，然后看着自己的故事被立即重现，并被赋予艺术质感和连贯性（Hosking & Penny, 1998, p.10）。
 > 
 
@@ -116,7 +132,6 @@ While stories are mentioned in this description, Salas highlights the centrality
 
 > Audience members … are invited to [tell a story] … guided by the director or "Conductor," [the teller] casts his or her story from the row of actors. The chosen performers, supported by music and lighting, transform the story into a theatrical scene, using boxes and pieces of cloths as props (Salas in Feldhendler, 1994, p.101)[9].
 > 
-
 > 观众……被邀请[讲述故事]……在导演或"领航员"的引导下，[讲述者]从一排演员中选出一个演员饰演故事中的自己。被选中的演员在音乐和灯光的衬托下，用箱子和彩布作为道具，将故事变为戏剧场景（Salas in Feldhendler, 1994, p.101）[9]。
 > 
 
@@ -134,11 +149,12 @@ Dauber 指出，"它可以适应许多不同的具体需求……[并]跨越戏�
 
 Emerging in more recent writing about Playback Theatre are statements about what the form does *not* do. Most notably the fact that it is not message-driven like other applied theatre forms, for example, Boal's (1979) forum theatre, and popular theatre and theatre for development processes. Rather it is a process that is premised on inquiry. In their report on an application of Playback Theatre in the pacific island country of Kiribas, Hosking & Penny propose that Playback Theatre is:
 
-在最近关于一人一故事剧场的文章中，出现了关于这种戏剧形式*不*做什么的论述。最值得注意的是，它不像其他应用戏剧形式，如波瓦（1979 年）的论坛戏剧、大众剧场（popular theatre）和发展剧场(theatre for development processes)那样以寓意驱动（message-driven）。相反，它是一个以探究为前提的过程。霍斯金和彭尼在其关于在太平洋岛国基里巴斯应用一人一故事剧场的报告中提出，一人一故事剧场是：
+在最近关于一人一故事剧场的文章中，出现了关于这种戏剧形式*不*做什么的论述。最值得注意的是，它不像其他应用戏剧形式，如波瓦（1979 年）的论坛戏剧、大众剧场（popular theatre）和发展剧场(theatre for development processes)那样以寓意驱动（message-driven）。相反，它是一个以探究为前提的过程。霍斯金（Hosking）和彭尼（Penny）在其关于在太平洋岛国基里巴斯应用一人一故事剧场的报告中提出，一人一故事剧场是：
 
-A methodology for the exploration of an issue or concern rather than message driven theatre. [Where a group can work toward] a comprehensive understanding and expression of what is occurring and the underlying social values. [It works at] a level under political motivation [and] may be used to stimulate change, to celebrate achievements, to explore questions, to address conflict and at the same time it will always build connections and strengthen ties within the group and in this way enhance the sense of community (Hosking & Penny, 1998, p.10-11).
-
-一种探讨或关切问题的方法，而不是以寓意为导向的剧场。[一个团体可以致力于]全面理解和表达正在发生的事情和潜在的社会价值。[它可以在]政治动机层面上发挥作用[并]可用于激励变革、庆祝成就、探讨问题、解决冲突，与此同时，它将始终在团体内部建立联系和加强纽带，并以这种方式增强团体意识（Hosking & Penny, 1998, p.10-11）。
+> A methodology for the exploration of an issue or concern rather than message driven theatre. [Where a group can work toward] a comprehensive understanding and expression of what is occurring and the underlying social values. [It works at] a level under political motivation [and] may be used to stimulate change, to celebrate achievements, to explore questions, to address conflict and at the same time it will always build connections and strengthen ties within the group and in this way enhance the sense of community (Hosking & Penny, 1998, p.10-11).
+> 
+> 一种探讨或关切问题的方法，而不是以寓意为导向的剧场。[一个团体可以致力于]全面理解和表达正在发生的事情和潜在的社会价值。[它可以在]政治动机层面上发挥作用[并]可用于激励变革、庆祝成就、探讨问题、解决冲突，与此同时，它将始终在团体内部建立联系和加强纽带，并以这种方式增强团体意识（Hosking & Penny, 1998, p.10-11）。
+> 
 
 Claims such as these provide insight into what some practitioners believe Playback Theatre can achieve. Mock (2002) asserts that researching live performance is difficult. Many of the claims made about Playback Theatre have been based on practitioner reflection and reveal the evolution of practitioners' understandings. In documenting these understandings practitioners have articulated their embodied knowledge or praxis. This is a legacy of the experimental development model and the way in which practice reflection has informed Playback Theatre knowledge to date. Embedded in the descriptions of Playback Theatre is practitioners' sense making with regard to the application of Playback Theatre in a particular context and informed by their personal values, biases and assumptions, and further informed by the values intrinsic to the Playback Theatre form. These values include: honouring diversity, listening, respect, communication through stories, artistry, social interaction and community building (IPTN, 2002). While there is a critical imperative in reflective practice many of the descriptions and explanations of the Playback Theatre form appear somewhat like advocacy.
 
@@ -166,7 +182,7 @@ Coalesced with the value of participation, is the central place of personal stor
 
 This may be construed as a warm and romantic idea. However, when the word *story* is preceded by the adjective *personal* to yield *personal story* some tension is present in the idea. Add to this the public nature of the telling and you have a form of theatre that is counter-cultural, occupies the margins, and elicits multiple responses. Asha Richard (1999), Germany-based Playback Theatre performer, suggests that such tensions and others arising from the unknown in Playback Theatre are what make it *theatre,* rather than specific artistic criteria. She questions "whether it is artistic theatre, which is not the same as good theatre" (p.115).
 
-这可能被理解为一个温馨浪漫的想法。然而，如果在"故事"一词前加上"个人"这一词语，就会产生"个人故事"这一概念。再加上讲述的公开性，就产生了一种反主流文化、占据边缘、引起多种反应的戏剧形式。来自德国的一人一故事剧场表演者阿莎-理查德（Asha Richard，1999 年）认为，一人一故事剧场中的这种紧张关系和其他未知因素使其成为*戏剧*，而不是特定的艺术标准。她质疑"这个问题关乎它是否是艺术性的戏剧，而艺术性的戏剧不等于好的戏剧"（第 115 页）。
+这可能被理解为一个温馨浪漫的想法。然而，如果在"故事"一词前加上"个人"这一词语，就会产生"个人故事"这一概念。再加上讲述的公开性，就产生了一种反主流文化（counter-cultural）、占据边缘、引起多种反应的戏剧形式。来自德国的一人一故事剧场表演者阿莎-理查德（Asha Richard，1999 年）认为，一人一故事剧场中的这种紧张关系和其他未知因素使其成为*戏剧*，而不是特定的艺术标准。她质疑"这个问题关乎它是否是艺术性的戏剧，而艺术性的戏剧不等于好的戏剧"（第 115 页）。
 
 By virtue of its methodological structure and its various practical applications, Playback Theatre is a political form of theatre. The political nature of Playback Theatre is derived from the essential postmodern and anti-oppressive nature of the form. Hoesch (1999) reports that "Stories will not be judged or evaluated. Each carries equal weight. Everyone has the right to the teller's chair. A good conductor will invite silent people" (p.63). Thus, postmodern ideas like: personal stories in public places, a public event with an agenda driven by participants, a theatre experience where the audience provides the text, a public meeting where people have a say without being judged, a community dialogue where marginal voices are actively sought, and entertainment that challenges the dominant social narrative are possible within the Playback Theatre performance. While these ideas are inherent in many of the claims made about Playback Theatre, there is also a belief that Playback Theatre is an *act of service* (Fox, 1994) with "citizen actors[10] hearing and enacting stories of their fellow community members" (Bessko, 2000, p.2). This implies that Playback Theatre is a theatre of listening more than a theatre of telling. Hosking (2001) suggests that people who are interested in new experiences come to Playback Theatre and that it is the "being listened too" that counts (p.7). This expands Salas's (1993, 1999) idea that it is the presence of the performers (with their commitment to listening and being there) that constitutes the worth of the Playback Theatre experience. She states:
 
@@ -174,7 +190,6 @@ By virtue of its methodological structure and its various practical applications
 
 > What helps most of all is simply the example of performers themselves, ordinary people standing up there willing to try anything, willing to be seen. It is a kind of courage and some audience members are inspired to discover it (the courage) in themselves (Salas, 1999, p.154).
 > 
-
 > 最重要的是表演者自身的示范作用，他们是站在台上的普通人，愿意尝试一切，愿意被人看到。这是一种勇气，一些观众受到启发，发现自己身上的这种勇气（Salas，1999 年，第 154 页）。
 > 
 
@@ -192,7 +207,6 @@ The artistic endeavours of Playback Theatre may see players minimise the more di
 
 > [Improvised performance] required specific training and also a great generosity and a capacity for humour. Genuine improvisation, leading up to a real encounter with the audience, only occurs when the spectators feel that they are loved and respected by the actors (Brook, 1989, p.112).
 > 
-
 > [即兴表演]需要专门的训练，还需要慷慨大方和对幽默感的包容。只有当观众感觉到他们受到演员的喜爱和尊重时，才会出现真正的即兴表演，从而与观众真正相遇（布鲁克，1989 年，第 112 页）。
 > 
 
@@ -200,9 +214,7 @@ In the mutuality of the Playback Theatre process, where audiences and performers
 
 在一人一故事剧场的相互过程中，观众和表演者在表演的动态和协作的脆弱性之上共创，才能真正地相遇。布鲁克对即兴表演所要求的特殊亲密关系的理解不断加深，因此他建议"即兴戏剧必须到人们生活的地方去"，到他们当地的街区和社区去（布鲁克，1989 年，第 112 页）。下一节将探讨作为社区表演的一人一故事剧场的工作。
 
-## 2.3 Playback Theatre as Community Performance
-
-## 2.3 作为社区表演的一人一故事剧场
+## 2.3 Playback Theatre as Community Performance 作为社群表演的一人一故事剧场
 
 Playback Theatre has been described as a public avenue for celebrating difference and making connections (Salas, 1993). A sense of connections, in addition to belonging and security, has emerged as fundamental to experiences of community in recent scholarship (see Ahmed, 2000, Popple, 1995). Amit (2002) asserts that embracing and celebrating difference is a contemporary purpose of community-based practices. While a popular application of the Playback Theatre method is in a workshop format, in this study, it is the Playback Theatre performance that features. Specifically, it is the one-off community-based event. The placement of Playback Theatre as a performance enables it to maximise the elements of public ritual intrinsic to oral traditions. Fox (1994) states that:
 
@@ -210,7 +222,6 @@ Playback Theatre has been described as a public avenue for celebrating differenc
 
 > [T]he idea of performance is so important in the oral tradition. For each moment presents a new challenge, to be met with the heightened creativity we associate with a moment on stage (p.92).
 > 
-
 > 表演的概念在口述传统中非常重要。因为每一个时刻都是一个新的挑战，都需要我们以与舞台时刻连接着的高度创造力来应对（第 92 页）。
 > 
 
@@ -224,7 +235,7 @@ The expansion of Playback Theatre across the world occurred simultaneously with 
 
 The Playback Theatre community-based theatre event has often been referred to as a theatre of neighbours. Fox (1999a) suggests that many Playback Theatre Companies conduct open or public performances at regular intervals, in a 'home' theatre, throughout the year. The application of Playback Theatre in education is as both a process instrument providing opportunities for children to express their feelings and see them validated, and has also found application in improving literacy, developing emotional intelligence and building confidence and self-esteem. In the social services sector Playback Theatre has been successfully integrated into practice frameworks as a process that builds cohesion through listening to each others' stories, highlights differences and similarities, and teaches listening and communication skills. The process and structure of Playback Theatre render it a ritual event in all applications. Playback Theatre has also found specific ritual application, for example, to open or close conferences or to mark special anniversaries like births and deaths. The reflective function of Playback Theatre has led to it finding relevance in organisational development. It has assisted organisational groups to honour and integrate emotional and spiritual processes like restructures and can ritualise aspects of working life to raise consciousness, grieve, celebrate or effect closure. A popular and consistent application of Playback Theatre has been in the therapeutic domain. Drama and music therapists see value in the way it validates personal stories, while psychodrama practitioners have used it for role training (Fox, 1999a, pp.13-14). The specific Playback Theatre application that features in this study is the one-off community-based performance.
 
-以社群为基础的一人一故事剧场通常被称为"邻居剧场"。福克斯（1999a）指出，许多一人一故事剧场团全年定期在"自家"剧场进行公开或公众演出。一人一故事剧场在教育领域的应用，既是一种过程工具，为儿童提供表达情感的机会，并使他们的情感得到验证，同时也被应用于提高识字率、开发情商、建立自信和自尊。在社会服务领域，一人一故事剧场已被成功纳入实践框架，通过倾听彼此的故事来建立凝聚力，突出异同点，并传授倾听和沟通技巧。一人一故事剧场的流程和结构使其成为所有应用中的仪式性活动。一人一故事剧场还在一些特定的仪式中得到应用，例如，在会议开幕或闭幕时，或在纪念出生和死亡等特殊纪念日时。一人一故事剧场的反思功能使其在组织发展中找到了相关性。它帮助组织团体尊重并整合情感和精神过程，如重组，并能将工作生活的各个方面仪式化，以提升意识、哀悼、庆祝或结束。一人一故事剧场在治疗领域的应用一直很受欢迎。戏剧和音乐治疗师认为，一人一故事剧场验证个人故事的方式很有价值，而心理剧实践者则将其用于角色训练（Fox, 1999a, pp.13-14）。本研究中一人一故事剧场的具体应用是一次性社区表演。
+基于社群的一人一故事剧场通常被称为"邻里剧场"。福克斯（1999a）指出，许多一人一故事剧场团全年定期在"自家"剧场进行公开或公众演出。一人一故事剧场在教育领域的应用，既是一种过程工具，为儿童提供表达情感的机会，并使他们的情感得到验证，同时也被应用于提高识字率、开发情商、建立自信和自尊。在社会服务领域，一人一故事剧场已被成功纳入实践框架，通过倾听彼此的故事来建立凝聚力，突出异同点，并传授倾听和沟通技巧。一人一故事剧场的流程和结构使其成为所有应用中的仪式性活动。一人一故事剧场还在一些特定的仪式中得到应用，例如，在会议开幕或闭幕时，或在纪念出生和死亡等特殊纪念日时。一人一故事剧场的反思功能使其在组织发展中找到了相关性。它帮助组织团体尊重并整合情感和精神过程，如重组，并能将工作生活的各个方面仪式化，以提升意识、哀悼、庆祝或结束。一人一故事剧场在治疗领域的应用一直很受欢迎。戏剧和音乐治疗师认为，一人一故事剧场验证个人故事的方式很有价值，而心理剧实践者则将其用于角色训练（Fox, 1999a, pp.13-14）。本研究中一人一故事剧场的具体应用是一次性社区表演。
 
 There is a tendency in the Playback Theatre literature to refer to audiences at a specific event as "the community" (see for example, Fox, 1999b, p.116). Salas (1993) writes that Playback Theatre is "community building" (p.1). She suggests that the Playback Theatre performance links stories into "a collective story about a community of people" (p.22). The theory underpinning the thinking about the audience in this way is drawn from sociodrama theory. Sociodrama has been defined as "a deep action method dealing with intergroup relations and collective ideologies" (Fox, 1987, p.18). It is based on:
 
@@ -232,7 +243,6 @@ There is a tendency in the Playback Theatre literature to refer to audiences at 
 
 > [The] tacit assumption that the group formed by an audience is already organized by the social and cultural roles which in some degree all the carriers of the culture share … It is therefore incidental who the individuals are, or of whom the group is composed, or how large their number is (Fox, 1987, p.18).
 > 
-
 > 默认的假设是，受众组成的群体已经由社会和文化角色组织起来，在某种程度上，文化的所有载体都共享这些角色……因此，个人是谁，群体由谁组成，人数有多少，都是无关紧要的（福克斯，1987 年，第 18 页）。
 > 
 
@@ -258,7 +268,6 @@ As proposed above, the text of the Playback Theatre performance comes from the a
 
 > [F]ulfil the very essence of theatre's intention: to convey human experience by enacting it in distilled form; to embody narrative and meaning in the realm of space and time (Salas, 1999, p.18).
 > 
-
 > 实现戏剧的本质意图：通过以凝练的形式表达人的经验；在空间和时间层面体现叙事和意义（Salas，1999 年，第 18 页）。
 > 
 
@@ -278,9 +287,7 @@ In this section I have discussed the notion of Playback Theatre as a community p
 
 在本节中，我讨论了一人一故事剧场作为一种社群表演仪式的概念。这是通过考虑一人一故事剧场作为社群与观众互动的方式以及在演出背景下的社群方式来实现的。下一章将更详细地探讨表演的概念和故事的地位。接下来，我将介绍一人一故事剧场学术研究的兴起。
 
-## 2.4 Playback Theatre Scholarship and Research 
-
-## 2.4 一人一故事剧场学术研究 
+## 2.4 Playback Theatre Scholarship and Research 2.4 一人一故事剧场学术研究 
 
 Published works on Playback Theatre include the early works of Fox (1994) and Salas (1983, 1992, 1993, 1994) on the application of Playback Theatre, the artistic elements of Playback Theatre, and good enough Playback Theatre. While these works are necessarily advocating the fit of Playback Theatre to the contemporary world, they make sound attempts to present a thoughtful and critical gaze. In his book *Acts of Service*, Fox presents a comprehensive explanation of the conception of Playback Theatre. Based on his own reflective practice, *Acts of Service* reveals Fox's sense making processes drawing on literary theory, ritual and cultural theory, psychodramatic theory and the history and theory of preliterary theatre. He attempts to document what is required of the specific roles inherent in the form: actor, director, conductor and ensemble. Fox documents the place of language and form in non-scripted theatre and includes his conclusions about how the improvisational process has a contribution to make in educational and social spheres in society. As discussed earlier in the chapter, these have not been isolated reflections but have arisen from an experimental ensemble, where he has been influenced by others, and by the processes that unfolded as they prepared, enacted and cooled down from their performances. Salas' contribution, *Improvising Real Life: Personal story & Playback Theatre*, published a year earlier but developed simultaneously (Dauber, 1999a) is structured like a Playback Theatre handbook. It provides a practical guide to doing Playback Theatre from how a performance could unfold, to the conventional Playback Theatre forms and many applications.
 
@@ -346,9 +353,7 @@ The four spheres Dauber names are also mutually interactive. The Playback Theatr
 
 道博命名的四个层面也是相互影响的。对观众而言，一人一故事剧场的表演是多层次的、复杂的。Bharucha (1993)断言，研究任何表演都需要考虑其发生的背景。研究一人一故事剧场表演的复杂性体现在多个层面。正如 Dauber 所说，一人一故事剧场的多元性使得研究其有效性变得困难重重（Dauber, 1999b, p.161）。本研究并不打算衡量其有效性，而是通过观众的体验来研究一人一故事剧场表演。
 
-## 2.5 Summary
-
-## 2.5 小结
+## 2.5 Summary 2.5 小结
 
 This chapter has charted the development of Playback Theatre from the early experimentation by The Original Company in upstate New York, USA, through the international expansion and the establishment of various elements of regulation, to the emergence of a more critical phase in which research such as this thesis now features. I have presented the philosophical underpinnings and integral values of the form and sketched the practice applications that have emerged. The dimensions of the Playback Theatre method have been acknowledged in relation to general applied theatre methods and the specific aspects identified in Playback Theatre theory - art, ritual and social interaction. An exploration of the many applications of Playback Theatre has assisted me to articulate the complex nature of the interactive purposes of this hybrid form in the community arena.
 

@@ -1,6 +1,4 @@
-# CHAPTER THREE: Review of Literature
-
-# 第三章：文献综述
+# CHAPTER THREE: Review of Literature 第三章：文献综述
 
 > One of the most persistent but elusive ways that people make sense of themselves is to show themselves to themselves through multiple forms: by telling themselves stories; by dramatizing claims in rituals and other collective enactments; by rendering visible actual and desired truths about themselves and the significance of their existence in imaginative and performative productions.
 Myerhoff (1986, p.261).
@@ -30,9 +28,7 @@ Ritual performance as an experience of community is discussed through the concep
 
 本文通过"共同体"、"归属与隔阂"、"集体体验"和"多样性"等概念，讨论了作为社群体验的仪式表演。在这篇综述中，我认为，个人故事的中心地位以及通过戏剧表演将故事生动化，使一人一故事剧场表演成为社群体验的舞台。因此，这些文献为我在本研究中调查的一人一故事剧场表演提供了定位框架。
 
-## 3.1 Performance Theory
-
-## 3.1 演出理论
+## 3.1 Performance Theory 演出理论
 
 "It is hard to define 'performance' because the boundaries separating it on the one side from the theatre and on the other side from everyday life are arbitrary" (Schechner, 1988, p.85, Huxley & Witts, 2002). Carlson (1996) proposes that performance has become indefinable due to its "extremely popular" use in a "wide range of activities in the arts, in literature and in the social sciences" (p.1). The, now considerable, body of literature articulating theories of performance is informed by a wide range of disciplines (Carlson, 1996). In this section I begin by presenting some of these positions.
 
@@ -84,7 +80,6 @@ Brook (1989) similarly claims the drama as a site of transformation. He suggests
 
 > [M]uch more active, entering into a praxis, a context in which meanings are not so much communicated as created, questioned, or negotiated. The "audience" is invited and expected to operate as a co-creator of whatever meanings and experiences the event generates (Carlson, 1996, p.197).
 > 
-
 > 更加积极主动，进入一种实践，一种意义与其说是交流，不如说是创造、质疑或协商的环境。"观众"被邀请并被期望作为活动所产生的任何意义和体验的共同创造者（Carlson, 1996, p.197）。
 > 
 
@@ -102,7 +97,6 @@ Brook (1989) claims that the efficacy of theatre is in its "linking of the priva
 
 > [B]orders between entertainment and art, between audience and performer and between the performance itself and the larger social event; have become less defined in recent decades (Mason, 1992, p.3).
 > 
-
 > 近几十年来，娱乐与艺术之间、观众与表演者之间以及表演本身与更大范围的社会事件之间的界限已变得越来越模糊（Mason, 1992, p.3）。
 > 
 
@@ -118,9 +112,7 @@ Fundamental to this study, is a conception of the performance act that emphasise
 
 对于本研究而言，表演行为的基本概念是强调过程而非结构，强调参与而非能力，强调社会文化过程的辩证法而非文化和社会系统的逻辑（Turner, 1986, p.21）。实际上，对本研究最有用的概念是将表演视为一种过程，其决定性特征是表演者与观众之间的互动，并在此过程中获得对人类和人类活动的洞察力（Carlson，1996 年；Goffman，1959 年；Hymes，1975 年；Schechner，1985 年，1988 年）。表演、戏剧和仪式之间的相互关联在当前许多关于公共活动的著作中都很明显。下一节将对公共活动进行批判，并提出公共表演是仪式活动的一种形式。
 
-## 3.1.1 Public Events
-
-## 3.1.1 公共活动
+## 3.1.1 Public Events 公共活动
 
 Public events can provide an avenue for communities to act on their own behalf. They are often one-off episodes where culture is celebrated. Manning (1983) suggests that events that celebrate culture both reverse and violate ordinary reality *and* replicate and uphold it.
 
@@ -142,9 +134,7 @@ In his effort to develop theory about public events such as ritual performances,
 
 Handelman（1990 年）努力发展有关仪式表演等公共活动的理论，他认为公共表演代表了参与者有意识地尝试建立有意义的联系。根据他对民族学者对公共活动定义的回顾，Handelman 认为公共活动具有社会价值。从反映社会结构的集体理解和原则，到解决或纠正社会问题的可能性，公共活动满足了社会需求。这与奥图尔（O'Toole，2000 年）所说的戏剧是社会背景下的一种社会艺术形式，因此为各种行为（通常是禁忌或未经许可的行为）提供了社会许可的方式类似。公共活动的仪式性约束促进了这种社会规范的"松动"。Handelman（1990 年）对许多关于公共活动定义的论述持批评态度，因为这些论述并不承认每个文化活动只能传达社会秩序的"一个版本"（第 9 页）。他对"所有场合都构成社会秩序"的说法提出质疑，认为有些场合"主要是'表达性的'"（第 10 页）。重要的是，他断言"公共活动是现象上有效的形式，通过这些形式诱发行动、知识和体验，将人融合到集体抽象之中"（Handelman, 1990, p.15）。在本研究中，"一人一故事剧场"可被视为一种公共活动，它有助于参与者有意识地尝试建立有意义的联系。福克斯（1999b）将一人一故事剧场描述为与艺术和仪式辩证关系中的社会互动，一人一故事剧场公共活动的深思熟虑的社会目的在此可见一斑。仪式理论将在下一节讨论。
 
-## 3.2  Ritual Performance
-
-## 3.2 仪式表演
+## 3.2  Ritual Performance 仪式性演出
 
 The study of ritual has progressed adjacent to the study of theatre and performance in the past four decades. It is no surprise that the theories of ritual anthropologists (e.g., Victor Turner) appear in the writings about performance and experimental theatre. Nor is it surprising that the practice experiences of experimental theatre makers (e.g., Brook) are used to illustrate the theory of ritual. This interest in the overlap of ritual and performance has also been nourished by the post-colonial reclamation of indigenous cultural forms by local populations in developing countries (Chinyowa, 2002). I explore the intersection and overlap in ritual and performance in this section to provide concepts to write about the way in which Playback Theatre might straddle the performance/ritual threshold. At times, Playback Theatre appears to be all one, and at other times all the other, and at times in between or neither.
 
@@ -156,37 +146,34 @@ Cabral (2001) 认为，仪式有多种形式，但都以集体体验为前提，
 
 Schechner (1988) argues a link between ritual and theatre stating that one develops from the other: theatre from ritual and ritual from theatre (p.112). This circularity is inherent in Playback Theatre with the ritual repetition of the invitation to tell juxtaposed with and contained by the rhythmic theatricality of the conductor and the creation and presentation of the enactments. Performance genres are living examples of ritual "in/as action" (Turner, 1986, p.7). In the ritual containment, the representation of the ordinary life in which we are embedded is mirrored in a way that integrates the reflection of consciousness. We are able to see our living context in the interaction between "aesthetic drama processes and sociocultural processes" at a given time and place (Turner, 1988, p.28). Myerhoff (1990) explains that symbol and object become fused in the ritual process. The ritual frame changes the quotidian into a symbolic rather than temporal realm. This yields an in-between time, in an in-between space, where participants move in and out of the "liminal" (Turner, 1969, 1990). In the ritual frame 
 
-Schechner (1988)认为仪式与戏剧之间存在联系，并指出两者相辅相成：戏剧源于仪式，仪式源于戏剧（第 112 页）。这种循环性在一人一故事剧场中是固有的，邀请讲述的仪式重复与领航员的节奏戏剧性以及表演的创造和呈现并列，并包含在其中。表演流派是仪式"在/作为行动"（Turner，1986 年，第 7 页）的活生生的例子。在仪式的蕴含中，我们所处的普通生活的表象以一种融合了意识反思的方式被映射出来。我们能够在特定时间和地点的"审美戏剧过程和社会文化过程"的互动中看到我们的生活环境（Turner，1988 年，第 28 页）。Myerhoff（1990 年）解释说，在仪式过程中，象征与对象融为一体。仪式框架将日常生活转变为象征性而非现实性的领域。这就产生了一种介于时间和空间之间的状态，参与者在"边缘"中进进出出（Turner, 1969, 1990）。在仪式框架中 
+Schechner (1988)认为仪式与戏剧之间存在联系，并指出两者相辅相成：戏剧源于仪式，仪式源于戏剧（第 112 页）。这种循环性在一人一故事剧场中是固有的，邀请讲述的仪式重复与领航员的节奏戏剧性以及表演的创造和呈现并列，并包含在其中。表演流派是仪式"在/作为行动"（Turner，1986 年，第 7 页）的活生生的例子。在仪式的蕴含中，我们所处的普通生活的表象以一种融合了意识反思的方式被映射出来。我们能够在特定时间和地点的"审美戏剧过程和社会文化过程"的互动中看到我们的生活环境（Turner，1988 年，第 28 页）。Myerhoff（1990 年）解释说，在仪式过程中，象征与对象融为一体。仪式框架将日常生活转变为象征性而非现实性的领域。这就产生了一种介于时间和空间之间的状态，参与者在"阈限（liminal）"中进进出出（Turner, 1969, 1990）。在仪式框架中 
 
 > Invisible referents or realities to which ritual symbols point become our experience and the subject may have the sense of glimpsing, or more accurately, *knowing* the essential, accurate patterns of human life, in relation to the natural and cosmic order. … Thus transformation is a multidimensional alteration of the ordinary state of mind, overcoming barriers between thought, action, knowledge, and emotion (Myerhoff, 1990, p.246).
 > 
-
 > 仪式符号所指向的无形参照物或现实成为我们的经验，主体可能有一种瞥见的感觉，或者更准确地说，*知道*人类生活与自然和宇宙秩序相关的基本、准确的模式。……因此，转化是对普通心智状态的多维改变，是对思想、行动、知识和情感之间障碍的克服（迈尔霍夫，1990 年，第 246 页）。
 > 
 
 14 Communitas is discussed in length later in the chapter.
 
-[14] 本章稍后将详细讨论主体性（Communitas）。
+[14] 本章稍后将详细讨论社群共同体（Communitas）。
 
 Sennett (1994) argues that ritual is healing and offers a site of resistance. He states that "ritual constitutes the *social* form in which human beings seek to deal with denial as active agents rather that as passive victims" (p.80). This notion of personal and collective agency is embedded in the participatory opportunities in the ritual process. Myerhoff (1990), however, reminds the reader that the experience "cannot be compelled, only invited or sought" (p.246). As people enter the ritual theatre event there is a possibility that they will be transported from "a collection of separate individuals into a group or congregate of participants" (Schechner, 1988, p.142). Bailey (2000) questions the notion of collective experience, suggesting that the phenomenon of people feeling and thinking in the same way, remains the "sum of individual experiences" (p.385). While very much predicated on the notion of performance as a culturally conservative activity in tribal and agrarian societies (Carlson, 1996), Turner's interrogation of the 'liminal' is helpful in examining the potential of the in-between or marginal spaces of the public ritual.
 
-Sennett（1994 年）认为，仪式具有治疗作用，并提供了一个抵抗的场所。他指出，"仪式构成了一种*社会*形式，在这种形式中，人类试图以主动者而非被动受害者的身份来应对否定"（第 80 页）。这种个人和集体能动性的概念蕴含在仪式过程的参与机会中。不过，Myerhoff（1990 年）提醒读者，这种体验"不能强迫，只能邀请或寻求"（第 246 页）。当人们进入仪式剧场活动时，他们有可能从"一个独立个体的集合变成一个群体或参与者的集合"（Schechner，1988 年，第 142 页）。贝利（Bailey，2000 年）对集体体验的概念提出质疑，认为人们以相同的方式感受和思考的现象仍然是"个人经历的总和"（第 385 页）。特纳对"边缘"的质疑在很大程度上是基于表演是部落和农业社会中的一种文化保守活动这一概念（Carlson，1996 年），但它有助于研究公共仪式的中间或阈限空间的潜力。
+Sennett（1994 年）认为，仪式具有治疗作用，并提供了一个抵抗的场所。他指出，"仪式构成了一种*社会*形式，在这种形式中，人类试图以主动者而非被动受害者的身份来应对否定"（第 80 页）。这种个人和集体能动性的概念蕴含在仪式过程的参与机会中。不过，Myerhoff（1990 年）提醒读者，这种体验"不能强迫，只能邀请或寻求"（第 246 页）。当人们进入仪式剧场活动时，他们有可能从"一个独立个体的集合变成一个群体或参与者的集合"（Schechner，1988 年，第 142 页）。贝利（Bailey，2000 年）对集体体验的概念提出质疑，认为人们以相同的方式感受和思考的现象仍然是"个人经历的总和"（第 385 页）。特纳对"阈限（liminal）"的质疑在很大程度上是基于表演是部落和农业社会中的一种文化保守活动这一概念（Carlson，1996 年），但它有助于研究公共仪式的中间或阈限空间的潜力。
 
-### 3.2.1 Liminal Activity, Spontaneity and Flow
-
-### 3.2.1 边缘活动、自发性和流动
+### 3.2.1 Liminal Activity, Spontaneity and Flow 边缘活动、自发性和流动
 
 Turner proposes that liminal activities are anti-structure or in opposition to the structure inherent in normative cultural operations. Carlson draws on Turner to argue that liminal activities "provide a space removed from daily activity for members of a culture to think about how they think in propositions that are not in cultural codes but about them" (Carlson, 1996, p.23). Like Turner, Schechner's (1985) work also examines the way in which performance evokes liminal or marginal spaces in which the everyday activities are elevated. He states that "in all kinds of performances a certain definite threshold is crossed. And if it isn't the performance fails" (p.10). Schechner implicates the audience in the successful performance, and therefore in the likelihood of a collective crossing of the threshold. He claims that the success of a performance is contingent on there being enough audience members to share the space with the performers so that together they can bring it to life through interaction. He reports that "no theatre performance functions detached from its audience" (Schechner, 1985, p.10). In fact, it is this interaction that generates the level of intensity that enables the participants to cross the threshold, and attain a state of flow; "the state where action and awareness merge (Myerhoff, 1990, p.247, Csikszentmihalyi, 1990, 1992, 1997).
 
-特纳提出，边缘活动是反结构的，或者说是与规范性文化运作中固有的结构相对立的。卡尔森借鉴了特纳的观点，认为边缘活动"为出于文化背景中的人提供了一个脱离日常活动的空间，让他们思考如何用不属于文化规范但却与文化规范有关的命题进行思考"（Carlson, 1996, p.23）。与特纳一样，Schechner（1985 年）的著作也研究了表演如何唤起边缘或阈限空间，从而有助于日常活动。他指出："在所有类型的表演中，都会跨越一定的界限。如果没有跨越，表演就失败了"（第 10 页）。Schechner 将观众与成功的表演联系在一起，因此也与集体跨越门槛的可能性联系在一起。他认为，一场表演的成功取决于是否有足够多的观众与表演者共享空间，这样他们才能通过互动将表演变为现实。他指出，"任何戏剧表演都不能脱离观众"（Schechner，1985 年，第 10 页）。事实上，正是这种互动产生的强烈程度使参与者能够跨越门槛，达到心流状态；"行动与意识融合的状态（Myerhoff, 1990, p.247, Csikszentmihalyi, 1990, 1992, 1997）。
+特纳提出，阈限活动是反结构的，或者说是与规范性文化运作中固有的结构相对立的。卡尔森借鉴了特纳的观点，认为阈限活动"为出于文化背景中的人提供了一个脱离日常活动的空间，让他们思考如何用不属于文化规范但却与文化规范有关的命题进行思考"（Carlson, 1996, p.23）。与特纳一样，Schechner（1985 年）的著作也研究了表演如何唤起边缘或阈限空间，从而有助于日常活动。他指出："在所有类型的表演中，都会跨越一定的界限。如果没有跨越，表演就失败了"（第 10 页）。Schechner 将观众与成功的表演联系在一起，因此也与集体跨越门槛的可能性联系在一起。他认为，一场表演的成功取决于是否有足够多的观众与表演者共享空间，这样他们才能通过互动将表演变为现实。他指出，"任何戏剧表演都不能脱离观众"（Schechner，1985 年，第 10 页）。事实上，正是这种互动产生的强烈程度使参与者能够跨越门槛，达到心流状态；"行动与意识融合的状态（Myerhoff, 1990, p.247, Csikszentmihalyi, 1990, 1992, 1997）。
 
 Turner (1982) differentiates the experience of flow from the experience of communitas that was discussed earlier. He posits that flow is primarily an individual experience, whereas communitas is between or among individuals. Also, he suggests that communitas is more likely "a matter of grace rather than law" (p.58). Csikszentmihalyi (1992) writes of activities where we experience *flow,* a concept that provides another way in which to speak of the liminal experience. Csikszentmihalyi (1990, 1997) shows that the degree of difficulty of a sporting event must not exceed the level at which it becomes unachievable (too hard) for the individual. He proposes that we desire to feel stretched to the limit and yet simultaneously feel as though we are somehow "master of our own fate". The experience of flow equates to an *optimal experience* and occurs when our "body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile" (p.3). Yet it is his reframing of this "sense of mastery" to "a sense of participation" that is perhaps more meaningful in the context of ritual performance (Csikszentmihalyi, 1992, p.4). The sense of feeling that one can succeed in participating adequately in the performance fosters a similar dynamic and could determine whether the participating audience joins in or withdraws, that is, whether they feel included or overlooked. Similar interactive relationships between play, participation and degree of difficulty is documented in the play literature (Carlson, 1996).
 
-特纳（Turner，1982 年）将"心流"体验与前面讨论过的"共同体"体验区分开来。他认为"心流"主要是一种个体体验，而"共同体"则是个体之间的体验。此外，他还认为，共同体更可能是"圣洁而非法律的问题"（第 58 页）。西克森特米哈伊（1992 年）写道，在我们体验*心流*的活动中，这一概念提供了另一种谈论边缘体验的方式。Csikszentmihalyi（1990，1997）指出，体育活动的难度不能超过个人无法达到的水平（太难）。他提出，我们渴望感觉到自己的极限，同时又感觉到自己在某种程度上"掌握着自己的命运"。心流体验等同于*最佳体验*，当我们的"身体或心灵在自愿的努力下达到极限，以完成一些困难而有价值的事情"（第3页）时，就会产生心流体验。然而，他将这种"驾驭感"重新定义为"参与感"，这在仪式表演中或许更有意义（Csikszentmihalyi, 1992, p.4）。一个人能够成功地充分参与演出的感觉会产生类似的动力，并可能决定参与的观众是加入还是退出，也就是说，他们是觉得自己被包容了还是被忽视了。游戏、参与和难度之间类似的互动关系在游戏文献中也有记载（Carlson, 1996）。
+特纳（Turner，1982 年）将"心流"体验与前面讨论过的"共同体"体验区分开来。他认为"心流"主要是一种个体体验，而"共同体"则是个体之间的体验。此外，他还认为，共同体更可能是"圣洁而非法律的问题"（第 58 页）。西克森特米哈伊（1992 年）写道，在我们体验*心流*的活动中，这一概念提供了另一种谈论阈限体验的方式。Csikszentmihalyi（1990，1997）指出，体育活动的难度不能超过个人无法达到的水平（太难）。他提出，我们渴望感觉到自己的极限，同时又感觉到自己在某种程度上"掌握着自己的命运"。心流体验等同于*最佳体验*，当我们的"身体或心灵在自愿的努力下达到极限，以完成一些困难而有价值的事情"（第3页）时，就会产生心流体验。然而，他将这种"驾驭感"重新定义为"参与感"，这在仪式表演中或许更有意义（Csikszentmihalyi, 1992, p.4）。一个人能够成功地充分参与演出的感觉会产生类似的动力，并可能决定参与的观众是加入还是退出，也就是说，他们是觉得自己被包容了还是被忽视了。游戏、参与和难度之间类似的互动关系在游戏文献中也有记载（Carlson, 1996）。
 
 By way of explaining flow, Csikszentmihalyi (1992) proposes a simple Cartesian relationship between the two most important dimensions of the experience: the challenge and the skills we possess to meet it. As stated above, flow occurs when the degree of difficulty of the challenge and the skill level of the person are both high, that is, when the person is "fully involved in overcoming a challenge that is just about manageable" (Csikszentmihalyi, 1997, p.30). Either side of this optimum relationship between challenge and skill are the experiences of anxiety or boredom. Anxiety occurs if the challenge exceeds a reasonable gap between current skills or knowledge, and the skills and knowledge required to meet the challenge whereas boredom occurs when the challenge is too low (Csikszentmihalyi, 1992). In his later text, Csikszentmihalyi (1997) extends this to include various other experiences outside of flow, anxiety and boredom (see Figure 3).
 
-为了解释"流动"，西克森特米哈伊（Csikszentmihalyi，1992 年）在体验的两个最重要的维度之间提出了一种简单的笛卡尔关系：挑战和我们应对挑战的技能。如上所述，当挑战的难度和人的技能水平都很高时，也就是当人"全身心地投入到克服一个差不多可以应付的挑战时"，就会产生心流（Csikszentmihalyi, 1997, p.30）。挑战与技能之间的这种最佳关系的两侧是焦虑或无聊的体验。如果挑战超出了现有技能或知识与应对挑战所需的技能和知识之间的合理差距，就会产生焦虑；而如果挑战过低，就会产生厌倦（Csikszentmihalyi, 1992）。在后来的著作中，Csikszentmihalyi（1997 年）将其扩展到包括流动、焦虑和无聊之外的其他各种体验（见图 3）。
+为了解释"心流"，西克森特米哈伊（Csikszentmihalyi，1992 年）在体验的两个最重要的维度之间提出了一种简单的笛卡尔关系：挑战和我们应对挑战的技能。如上所述，当挑战的难度和人的技能水平都很高时，也就是当人"全身心地投入到克服一个差不多可以应付的挑战时"，就会产生心流（Csikszentmihalyi, 1997, p.30）。挑战与技能之间的这种最佳关系的两侧是焦虑或无聊的体验。如果挑战超出了现有技能或知识与应对挑战所需的技能和知识之间的合理差距，就会产生焦虑；而如果挑战过低，就会产生厌倦（Csikszentmihalyi, 1992）。在后来的著作中，Csikszentmihalyi（1997 年）将其扩展到包括流动、焦虑和无聊之外的其他各种体验（见图 3）。
 
 Csikszentmihalyi (1997) suggests that between flow and anxiety, arousal occurs, that is, skills may not be immediately sufficient, but there is scope for the person to engage in the challenge. Further, if skills are sufficiently high in a low challenge environment, rather than boredom, the person experiences relaxation. Csikszentmihalyi (1990) nominates activities such as "play, art, pageantry, ritual and sports" as ones that induce flow due to the systematic way "they help participants and spectators achieve an ordered state of mind that is highly enjoyable" (p.72).
 
@@ -206,11 +193,10 @@ Csikszentmihalyi (1977, p.31).
 
 A seminal arena for the flow experience is in improvisational theatre. Improv15 teacher, Viola Spolin's (1999) concept of intuition developed to maximise how actors learn, and what actors learn, can be equated with Turner's notion of the liminal. She states that
 
-即兴戏剧是心流体验的一个开创性舞台。即兴戏剧[15]的教师维奥拉斯波林 Viola Spolin（1999 年）提出了直觉概念，以最大限度地改进演员的学习方式和学习内容，这一概念可等同于特纳的"边缘"概念。她指出
+即兴戏剧是心流体验的一个开创性舞台。即兴戏剧[15]的教师维奥拉斯波林 Viola Spolin（1999 年）提出了直觉概念，以最大限度地改进演员的学习方式和学习内容，这一概念可等同于特纳的阈限概念。她指出
 
 > [T]he intuitive can only respond in immediacy – right now. It comes bearing gifts in the moment of spontaneity, the moment when we are freed to relate and act, involving ourselves in the moving, changing world around us (Spolin, 1999, p.4).
 > 
-
 > 直觉只能在当下做出反应。它在自发的时刻，也就是我们能够自由地联系和行动的时刻，带着礼物来到我们身边，让我们参与到这个不断运动、不断变化的世界中（Spolin, 1999, p.4）。
 > 
 
@@ -224,23 +210,21 @@ She extends this to claim that in the intuitive act, the (full human) intelligen
 
 The next two variables are the audience and the theatre techniques of the actors. In both these variables, the students must develop understanding: about the role of the audience, and the structure that techniques provide for the improvisor. Finally, Spolin urges acting students to integrate their learning into their daily life (Spolin, 1999, pp.4-17). Essentially, Spolin's coaching directs students toward heightened concentration and focus, so that they find ways to enter the state of flow and to experience their performing work as a liminal activity.
 
-接下来的两个变量是观众和演员的戏剧技巧。在这两个变量中，学生必须理解：观众的作用，以及即兴表演技巧所提供的结构。最后，斯波林敦促学生将所学融入日常生活（斯波林，1999 年，第 4-17 页）。从根本上说，斯波林的指导方法是引导学生提高注意力和专注力，使他们找到进入心流状态的方法，并将表演工作体验为一种边缘活动。
+接下来的两个变量是观众和演员的戏剧技巧。在这两个变量中，学生必须理解：观众的作用，以及即兴表演技巧所提供的结构。最后，斯波林敦促学生将所学融入日常生活（斯波林，1999 年，第 4-17 页）。从根本上说，斯波林的指导方法是引导学生提高注意力和专注力，使他们找到进入心流状态的方法，并将表演工作体验为一种阈限活动。
 
 Moreno's (1949 in Karp, 1994) theory of spontaneity is similar to Spolin's conception of intuition, with respect to the idea that it exists in the here-and-now. In his study of the spontaneity-creativity complex, Moreno (in Fox, 1987) posits a simple model that suggests there is a relationship between "the moment, immediate action, spontaneity, and creativity – in contrast to the customary link between spontaneity and automatic response" (p.40). This latter link is derivative of the Latin sponte, meaning "of free will" (p.42). However, unlike the seven aspects of intuition that Spolin articulates, Moreno articulates four forms of spontaneity: "creative, original, dramatic and having adequacy of response"(Karp, 1994, p.53). Drawing on the fourth element, Nolte (2000) explains that spontaneity can be defined as "an adequate response to a new situation or a new response to an old situation" (p.219). The notion of adequacy of response is a key conception of spontaneity integrated into the thinking about Playback Theatre. Previously, I discussed Salas' (1999) explanation of "good enough" Playback Theatre (see Chapter Two, p.15). In the Playback Theatre process, performers and audience alike experience repeated challenges to their spontaneity and thus require a readiness "to respond appropriately to the situation in which they find themselves" (Nolte, 2000, p.219).
 
 莫雷诺（1949 年，卡普，1994 年）的自发性理论与斯波林的直觉概念相似，都认为直觉存在于此时此地。莫雷诺（福克斯，1987 年）在其关于自发性-创造性复合体的研究中提出了一个简单的模型，认为"当下、即时行动、自发性和创造性之间存在着一种关系--与自发性和自动反应之间的习惯联系形成鲜明对比"（第 40 页）。后一种联系源自拉丁语 sponte，意为"自由意志"（第 42 页）。然而，与斯波林阐述的直觉的七个方面不同，莫雷诺阐述了自发性的四种形式："创造性、原创性、戏剧性和反应的充分性"（卡普，1994 年，第 53 页）。诺尔特（Nolte，2000 年）根据第四个要素解释说，自发性可定义为"对新情况的充分反应或对旧情况的新反应"（第 219 页）。充分反应的概念是自发性的一个关键概念，已融入一人一故事剧场的思考中。在此之前，我讨论过 Salas（1999 年）对"足够好的"一人一故事剧场的解释（见第二章，第 15 页）。在一人一故事剧场的过程中，表演者和观众都会经历自发性的反复挑战，因此需要准备好"对他们所处的情境做出适当的回应"（Nolte, 2000, p.219）。
 
-**3.2.2 Liminal Activity and Emotional Engagement**
-
-### 3.2.2 边缘活动与情感参与
+### 3.2.2 Liminal Activity and Emotional Engagement 阈限活动与情感参与
 
 Berne (in Carlson, 1996) advocates that "the most rewarding moments of human experience are to be attained in … 'intimacy' or 'spontaneity'" (Carlson, 1996, p.48). Participating in performance, or drama processes in general, is liable to produce feelings of intimacy. Bundy (2003) states that aesthetic engagement should ideally be an experience of intimacy, that is, of connection, animation and heightened awareness. These experiences of "feeling invigorated", "more alive, more alert", and stimulated to "think about questions regarding humanity in a new light" (Bundy, 2003, p.180) reinforce what Turner claims occurs during the liminal (performance) activity.
 
-伯恩（Carlson，1996 年）主张"人类经验中最有价值的时刻是在……'亲密'或'自发性'中获得的"（Carlson，1996 年，第 48 页）。参与表演或一般的戏剧过程容易产生亲密感。Bundy (2003)指出，理想的审美参与应该是一种亲密的体验，即联系、生动和高度的意识。这些"感觉充满活力"、"更有生命力、更警觉"以及被激发"从新的角度思考有关人类的问题"（Bundy, 2003, p.180）的体验强化了特纳所说的在边缘（表演）活动中出现的情况。
+伯恩（Carlson，1996 年）主张"人类经验中最有价值的时刻是在……'亲密'或'自发性'中获得的"（Carlson，1996 年，第 48 页）。参与表演或一般的戏剧过程容易产生亲密感。Bundy (2003)指出，理想的审美参与应该是一种亲密的体验，即联系、生动和高度的意识。这些"感觉充满活力"、"更有生命力、更警觉"以及被激发"从新的角度思考有关人类的问题"（Bundy, 2003, p.180）的体验强化了特纳所说的在阈限（表演）活动中出现的情况。
 
 Intrinsic to any ritual process are the rules that frame it (Turner, 1982). The same can be said for improvised drama processes (Spolin, 1999, Sills, 1999). Spolin suggests that the ritual frames, or the rules of improvisation, exist to contain the performer and the performance.
 
-任何仪式过程都有其固有的规则（Turner, 1982）。即兴戏剧过程也是如此（Spolin, 1999, Sills, 1999）。斯波林认为，仪式框架或即兴规则的存在是为了约束表演者和表演。
+任何仪式过程都有其固有的规则（Turner, 1982）。即兴戏剧过程也是如此（Spolin, 1999, Sills, 1999）。斯波林（Spolin）认为，仪式框架或即兴规则的存在是为了约束表演者和表演。
 
 Yet, it is not the rules of manners or acceptable social protocols that offer containment (Spolin, 1999) and inhibit spontaneous self-expression (Johnstone 1981). Rather it is the rules of engagement in the particular activity. It is not that there are rules as such, but that the implicit rules are made known in some way. Establishing a ritual frame serves to announce that a certain set of rules are at play here and *release* participants to act beyond their constrained domestic roles and engage in other ways with themselves, each other and with the social environment (Turner, 1982, Schechner, 1985).
 
@@ -248,11 +232,10 @@ Yet, it is not the rules of manners or acceptable social protocols that offer co
 
 Turner (1969, 1990) asserts that the potential of this released, shared state is the enabling of liminal activity, i.e., activity that is oppositional to structure and that occurs in a transitional moment. This is perhaps one of the great paradoxes of ritualised activity. Ritual demands a solid structure. This frees participants to dare and to risk as they move toward an experience of flow. In acting freely, the (acceptable social) rules of engagement may be breached, e.g., the disclosure of personal stories in a public forum. The ritual event, therefore, could be seen to promote resistance while seeming to order and control. Where Turner's analysis reveals that ritual processes induce the liminal Schechner's (1993) exploration of the intersections of theatre and anthropology experiments with the ways ritual heightens the theatrical experience. Use of ritual in theatre is linked with notions of maximising spectator engagement within the liminal potential of the performance (Bundy, 2001). It is possible that forms that promote uncertainty and anti-structure will be met with resistance. This is so in theatre forms like Boal's Theatre of the Oppressed. Boal encountered suspicion due to the risks involved in making the theatre that he advocates. The following passage reports his experience:
 
-特纳（1969 年，1990 年）断言，这种释放、共享状态的潜能是促成边缘活动（即与结构相对立的活动）发生在过渡时刻。这或许是仪式化活动的一大悖论。仪式需要一个稳固的结构。这让参与者敢于冒险，向着心流的体验前进。在自由行动的过程中，可能会违反（可接受的社会）参与规则，例如，在公共论坛上披露个人故事。因此，仪式活动在看似秩序和控制的同时，也可以被视为促进反抗。特纳的分析揭示了仪式过程会诱发"边缘"，而谢赫纳（1993 年）对戏剧与人类学交汇点的探索则尝试了仪式如何增强戏剧体验。仪式在戏剧中的使用与最大限度地提高观众在表演的边缘潜能中的参与度的理念相关（Bundy，2001 年）。促进不确定性和反结构的形式可能会遭到抵制。波瓦的"被压迫者剧场"等戏剧形式就是如此。由于在制作他所倡导的戏剧时存在风险，波瓦遭遇了怀疑。下面这段话报告了他的经历：
+特纳（1969 年，1990 年）断言，这种释放、共享状态的潜能是促成阈限活动（即与结构相对立的活动）发生在过渡时刻。这或许是仪式化活动的一大悖论。仪式需要一个稳固的结构。这让参与者敢于冒险，向着心流的体验前进。在自由行动的过程中，可能会违反（可接受的社会）参与规则，例如，在公共论坛上披露个人故事。因此，仪式活动在看似秩序和控制的同时，也可以被视为促进反抗。特纳的分析揭示了仪式过程会诱发"阈限"，而谢赫纳（1993 年）对戏剧与人类学交汇点的探索则尝试了仪式如何增强戏剧体验。仪式在戏剧中的使用与最大限度地提高观众在表演的阈限潜能中的参与度的理念相关（Bundy，2001 年）。促进不确定性和反结构的形式可能会遭到抵制。波瓦的"被压迫者剧场"等戏剧形式就是如此。由于在制作他所倡导的戏剧时存在风险，波瓦遭遇了怀疑。下面这段话报告了他的经历：
 
 > I proposed that we go to the streets to make forum theatre, but they (the organisers) would not accept that because you never know what is going to happen. You are [working at] creating a future and they want to reveal a past (Boal, 1994, p.22).
 > 
-
 > 我提议我们去街头制作论坛剧场，但他们（组织者）不同意，因为你永远不知道会发生什么。你[致力于]创造未来，而他们想要揭示过去（Boal，1994 年，第 22 页）。
 > 
 
@@ -260,9 +243,7 @@ This caution by public officials toward "released" states can also be found with
 
 公职人员对"释放"状态的这种谨慎态度也可以在表演仪式中的观众身上找到。约翰斯通（Johnstone，1981 年）断言，童年时期的条件反射可能会阻碍参与者获得这种释放，从而阻碍他们的自发性、直觉并抑制流动。对失败或出错的恐惧、对独创性和聪明才智的执着、对规则的不确定性以及未表达或不切实际的期望，都会抑制自发性和无意识的行动（Moreno in Karp, 1994）。卡普（1994 年）进一步扩展了这一自发性理论，认为如果任务看起来太难，我们就会感到焦虑，进而失去自发性，也就是说，我们会感觉到自己对（新）情况做出适当反应的能力减弱了。这可能会导致我们的愉悦感下降；Csikszentmihalyi（1990 年）将这种结果称为心流的丧失。因此，感知到的表演压力与现实生活中的表演压力所引起的反应相同，会阻碍我们进入边缘状态。卡普指出，任何导致焦虑的因素都会破坏自发性。她指出，"当焦虑高时，自发性就低，而当自发性高时，焦虑就低"（Karp, 1994, p.52）。Blatner（1988）认为，自发性本质上是一种摆脱抑制游戏性的压力和操纵的自由。他认为游戏会受到"害怕犯错、害怕比较、过度竞争或敌意游戏"的抑制。(p.162)。他认为，有别于邀请成人来表演，一人一故事剧场有可能邀请成人来游戏。然而，对某些成人来说，这两种行为会引起同样的谨慎反应。
 
-### 3.2.3 Ritual Performance: A non-traditional theatre experience
-
-### 3.2.3 仪式表演：非传统戏剧体验
+### 3.2.3 Ritual Performance: A non-traditional theatre experience 仪式性演出：非传统戏剧体验
 
 The Playback Theatre performance, like other ritual performance events, is considered a non-traditional theatre event. Significant to defining the event as nontraditional are things like the placement in nontraditional theatre venues or locations, participation of the audience members, and the emergent nature of the content. Coppieters (in Bennett, 1990) suggests that "audiences attending non-traditional theatre take more of a risk!" (p.97). There is also the likelihood that they are in search of the play experience that theatre and performance promise (Carlson, 1996, Styan, 1975). Participation of audience members in contemporary performance events is not unusual. Bennett (1990) proposes that the audience has become "a tangible active creator of the theatrical event" (p.10). She identifies the emergence of theatre for empowerment as fundamental in consolidating participation as a primary form of audience engagement. Interactive theatre processes (see Boal, 1995) demand the removal of the traditional notion of aesthetic distance. The fourth wall disintegrates into a blurred threshold for both performer and audience. O'Toole and Lepp (2000) assert that audiences have a pivotal role in what happens next. This role is guided by the way the ritualised framing of the process points to specific gaps in the action that invite genuine participation. This has emerged more lately as a trend toward the valuing of the process of performance, rather than the dominant text-based idea of theatre as the product.
 
@@ -291,7 +272,6 @@ Nontraditional theatre events often provide opportunities for audience members t
 
 > Many rituals induce reflexive awareness just as they invite the fullest participation and concentration that brings about flow. Rituals' perpetual play with mirrors and masks, with borders and transitions, make self-reflection nearly inevitable, telling the individual what s/he is and is not at once (p.247).
 > 
-
 > 许多仪式都会诱发反思意识，就像它们邀请人们最充分地参与和集中注意力，从而带来心流一样。仪式永远都在玩弄镜子和面具，玩弄边界和过渡，这使得自我反思几乎不可避免，同时告诉个体他/她是什么和不是什么（第 247 页）。
 > 
 
@@ -305,17 +285,15 @@ Reflexivity in the theatre can be a collective or communal experience. Gaylord (
 
 > Part of an ad hoc collective consciousness, ready to find meaning and significance in the events taking place on stage. Thus, the theatrical occasion involves a double consciousness for all concerned. The performance takes place on at least two levels of 'reality' simultaneously within at least two frames. The outer frames always embrace both audience and performers. The inner frame demarcates the playing space (Gaylord in Bennett, 1990, p 148).
 > 
-
 > 作为临时集体意识的一部分，随时准备从舞台上发生的事件中寻找意义和重要性。因此，对所有相关人员而言，戏剧场合涉及双重意识。演出至少在两个层面的"现实"中同时进行，至少在两个框架内进行。外框架始终包含观众和表演者。内部框架划分了表演空间（Gaylord in Bennett, 1990, p 148）。
 > 
 
 The existence of two frames and of the ambiguity induced by the liminal experience is regularly discussed in theatre theory (see Artaud 1958, Grotowski 1968). In the Playback Theatre performance, this dynamic can occur twice, first as spectators (and performers) listen to the storyteller, and second when they listen/perform (performers) or listen/watch (spectators) the enactment. Sound artist, Paul Carter (1992) writes of listening:
 
-戏剧理论中经常讨论两种框架的存在以及边缘体验所引起的模糊性（见 Artaud 1958 年，Grotowski 1968 年）。在一人一故事剧场表演中，这种动态可能会发生两次，第一次是观众（和表演者）聆听故事讲述者的讲述，第二次是他们聆听/表演（表演者角度）或聆听/观看（观众角度）表演。声音艺术家保罗-卡特（Paul Carter，1992 年）在谈到"倾听"时写道：
+戏剧理论中经常讨论两种框架的存在以及阈限体验所引起的模糊性（见 Artaud 1958 年，Grotowski 1968 年）。在一人一故事剧场表演中，这种动态可能会发生两次，第一次是观众（和表演者）聆听故事讲述者的讲述，第二次是他们聆听/表演（表演者角度）或聆听/观看（观众角度）表演。声音艺术家保罗-卡特（Paul Carter，1992 年）在谈到"倾听"时写道：
 
 > Listening, the analysis of hearing, is not a panacea for a culture sick with seeing; but the binaural possibility of hearing "in the round", of experiencing a perceptual reality that enlarges the subject even as it contains and confines him or her, that incorporates both meanings of nature (human and environment) without subjecting one to the other, and accurately symbolises what the eye tends to forget: that the body, and not only the ear, is a trembling flame, a vibrating surface, ruffled water. The body does not photograph the world, but filters it across permeable membranes (p.129).
 > 
-
 > 倾听，对听觉的分析，并不是治疗"观看"这一个文化疾病的灵丹妙药；但"圆形"的的双耳听觉的可能性，体验一种知觉现实，它扩大了主体，即使它包含和限制了主体，它包含了自然的两种含义（人类和环境），而不使其中一种受制于另一种，并准确地象征了眼睛往往会忘记的东西：身体，而不仅仅是耳朵，是颤抖的火焰，是振动的表面，是褶皱的水。身体不是在拍摄世界，而是通过可渗透的薄膜过滤世界（第 129 页）。
 > 
 
@@ -327,9 +305,7 @@ The dialectic imperative of theatre demands that the audience 'listen,' and that
 
 戏剧的辩证法要求观众"倾听"，表演者也要"倾听"，通过互动对话来体现聚会的集体世界观。也就是说，讲述和表演都蕴含着社群的文化动力（Carlson，1996 年）。有鉴于此，一人一故事剧场可被描述为其所在社群和文化的反射或镜子。与布鲁克（Brook）、阿尔陶（Artaud）、格罗托夫斯基（Grotowski）和克雷格（Craig）的跨文化戏剧实验（"借用、偷窃、交换"）不同（Schechner, 1982, p.19），一人一故事剧场方法提供了一种在自身文化中的体验。这使得一人一故事剧场既是聚集社群的一面镜子，也是了解更广泛社群社会现实的一扇窗。然而，只有当演员的知识、经验和多样性与社群的知识、经验和多样性相匹配时，戏剧表演才是准确的。巴鲁查（Bharucha，1993 年）认为，这不一定是思考演员角色和贡献的唯一方式。他在探讨挪威和东方的阿尔陶以及印度的布鲁克的局外人身份时写道，阿尔陶充当了"社群中不同群体之间亲密的新关系的催化剂"（第 63 页）。与此同时，他认为布鲁克"捕捉到了印度的风情"，巴鲁查认为这一成就比仅仅展现民族的实质更有价值："在戏剧中，最难的莫过于表现另一种文化的风情"（第70页）。
 
-### 3.2.4 Audience Reception, Engagement and Response
-
-### 3.2.4 受众的接受、参与和反应
+### 3.2.4 Audience Reception, Engagement and Response 观众的接受、参与和反应
 
 Earlier in the chapter I introduced the Playback Theatre *performance* as the focus of the study. Drawing on the conception of performance as a process it not only includes the performer and the performative act but also "who is watching the performance, who is reporting on it, and what the social, political and cognitive implications of these other transactions are upon the process" (Carlson, 1996, p.32). Barba (1995) asserts that the "attention, the seeing, the hearing, the mind of the spectator" makes theatre art more than the actor, the space or the text (p.39). Jackson (in Bundy, 2001) describes it as a meeting on metaphoric ground between artists and audience, where the performers' skill and artistry weaves with the individual responses of the audience to realise the aesthetic experience. Just as the actors' lived experiences determine their capacity to animate the stories in a drama, so too is the audience engagement and response limited by their cultural frames. The bringing together of the cultural frame and the fictional frame in theatre means audience members experience a "doubleness" when viewing the drama (Bauman in Carlson, 1996). Carlson reports that: According to Bauman, all performance involves a consciousness of doubleness through which the actual execution of an action is placed in mental comparison with a potential, an ideal, or a remembered original model of action. Normally, this comparison is made by an observer of the action – the theatre public – but the double-consciousness, not the external observation, is what is most central" to audience engagement (Carlson, 1996, p.5).
 
@@ -351,11 +327,11 @@ Engagement with the drama in this way brings the audience member more fully into
 
 以这种方式参与戏剧，能使观众更全面地进入审美框架，并创造出新的理解潜力。邦迪指出，"如果要形成新的理解或认识，就必须调动参与者或观众的精神和情感能量"（第 57 页）。这不是为了参与而参与，而是以鲍曼和波尔在上文提到的方式，为观众"带来活生生的意识"新视角（Bundy, 2001, p.57）。参与者对体验的预期以及他们进入虚构的准备程度影响着他们参与的程度和性质，并 决定着他们是否获得了心流体验[16]。
 
-16 Flow is discussed earlier in the section.
+[16] Flow is discussed earlier in the section.
 
-## 3.3 The Ritual of Storytelling
+[16] 心流的在之前的章节有提到。
 
-## 3.3 讲故事的仪式
+## 3.3 The Ritual of Storytelling 讲故事的仪式
 
 The telling of personal story by audience participants is a central element of the Playback Theatre method. Interactive opportunities like this have been commended by narrative scholars as critical avenues through which people make meaning of their lives, and societies make meaning of their cultures (Bruner, 1986, Polkinghorne, 1988). These are identical claims to those made by theatre anthropologists Schechner (1988) and Turner (1986). Narrative scholars argue that enabling such intimate interactions to occur in a public forum paves the way for societal and personal reform through personal stories that hold within them the full social and political story of the era (see Bruner, 1986). Sayre (1989) states that narrative sharing is like ritual. He writes:
 
@@ -363,7 +339,6 @@ The telling of personal story by audience participants is a central element of t
 
 > [Both] share a concern for audience, the engagement of a community. Narrative could be said to be a *kind* of ritual, an activity designed to unite storyteller and audience in a common cognitive, as opposed to overtly social, dilemma. Both implicitly envision transformation or change to result from our encounter with them (p.17).
 > 
-
 > [两者]都关注听众，关注群体的参与。可以说，叙事是*一种*仪式，一种旨在将讲故事的人和听众团结在一个共同感知的困境（而非公开的社会的）中的活动。两者都暗含着我们与故事相遇后将产生预期的转化或变化（第17页）。
 > 
 
@@ -373,7 +348,6 @@ Rituals are crucibles of cultural expression and a means by which to explain the
 
 > Collective memory in general prefers to conserve two types of past situations: those in which we were victorious heroes, and those in which we were innocent victims. … The least glorious pages of our past would be the most instructive … not when it serves to nourish resentment but when its bitter taste drives us to transform ourselves (Todorov in Mantovani 2000, p.119).
 >
-
 > 一般来说，集体记忆倾向于保存两种过去的情况：我们是胜利的英雄，我们是无辜的受害者。……我们过去最不光彩的一页将是最有启发意义的一页……不是当它滋生怨恨时，而是当它的苦味促使我们改变自己时（Todorov，见 Mantovani，2000 年，第 119 页）。
 > 
 
@@ -387,7 +361,6 @@ Storytelling is a pre-modern culturally expressive technology. Poet James Cowan 
 
 > The wild state is clearly a part of a poetic and mysterious universe. Our attempts to understand it on an aesthetic level alone are doomed to failure. My nomad friends tell me that their survival rests not on fragile food resources, but on their ability to enter the Dreaming[17] whenever they wish. Yet to codify the spirit realm, to chart on a map the contours of the metaphysical land on which they live out their lives, would be to destroy the mystery that for countless millennia they have fought to preserve. Indeed, more than anything, it is the mystery they wish to protect because it signifies to them all the risks they must take in order to retain their primitiveness, their wildness in the natural domain (Cowan, 1991, pp.8-9).
 > 
-
 > 野生状态显然是诗意而神秘的宇宙的一部分。我们试图仅从美学层面来理解它，注定是要失败的。我的游牧民朋友告诉我，他们的生存不是依靠脆弱的食物资源，而是依靠随时进入梦境[17]的能力。然而，如果要将精神领域编纂成法典，在地图上标出他们赖以生存的形而上之地的轮廓，那就等于破坏了他们千百年来一直在努力保护的神秘性。事实上，他们最希望保护的就是这种神秘性，因为这对他们来说意味着为了保持原始性和自然领域中的野性而必须承担的所有风险（Cowan, 1991, pp.8-9）。
 >
 
@@ -404,11 +377,12 @@ This return to indigenous expressive forms parallels a similar search in the Wes
 这种对本土表达形式的回归与西方的类似探索相似，当时的宇宙是一个有归属感的地方（Berman，1981 年），在那里，男人和女人，作为"人"和"物"，都有归属感。
 
 > [M]ember[s] of this cosmos [were] not alienated observer[s] but direct participant[s] in its dramas. … [Where] his (sic) personal destiny was bound up with [the] destiny [of the cosmos], and this relationship gave meaning to his life
-(p.16).
 > 
-
+> (p.16).
+> 
 > 这个宇宙的[成员]不是疏离的旁观者，而是其戏剧的直接参与者。……他（原文如此）的个人命运与[宇宙的]命运紧密相连，这种关系赋予了他生命的意义
-(p.16).
+> 
+> (p.16).
 >
 
 The post-modern and post-colonial movements have endeavoured to recover what has been lost during modernity's extended story of "progressive disenchantment. … Where everyday life [is translated into a] landscape … of mass administration and violence, [where] jobs are stupefying [and] relationships [are] vapid and transient" (Berman, 1981, p.16-17). Playback Theatre is both a post-modern and post-colonial form. Just as Brecht's work is described as a response to the political and social circumstances of the time, including the extreme events of World War 1 (where German religious and cultural institutions were seen to promote and prolong the war), the Bolshevik revolution and the German rightists' crushing of the Spartakus Revolt (Bryant-Bertail, 1991), so too is Playback Theatre seen as a response to the political and social circumstances of its time. Dauber (1999a) asserts that the union of co-founders Fox and Salas saw two contemporary movements converge. He expresses it thus: 
@@ -417,7 +391,6 @@ The post-modern and post-colonial movements have endeavoured to recover what has
 
 > [O]n the one hand, the culture of political resistance, as expressed through 'pedagogy of liberation' and the connected fight against the 'cultures of silence'(Freire); on the other, the search for alternatives to the consumer society of mass-produced goods and services, for a simpler, more 'convivial' community-oriented lifestyle (Illich) (Dauber, 1999a, p.70).
 > 
-
 > 一方面是通过"解放教育学"和与"沉默文化"（弗莱雷）相关的斗争表现出来的政治反抗文化；另一方面是寻求大众生产商品和服务的消费社会的替代品，寻求一种更简单、更"融洽"的以社群为导向的生活方式（Illich）（Dauber, 1999a, p.70）。
 >
 
@@ -433,14 +406,11 @@ The next section discusses community-based performance as a site for story-based
 
 下一部分将讨论基于社群的演出作为基于故事的表演仪式的场所。
 
-## 3.4 The Emergence of Community-Based Performance Events
-
-## 3.4 社群表演活动的兴起
+## 3.4 The Emergence of Community-Based Performance Events 基于社群的演出活动的兴起
 
 > Although the usual anthropological arguments could be dusted off to place the origins of community theatre, as indeed of all theatrical expression, back in pre-colonial and pre-Graeco-Roman times, its more immediate antecedents lie buried in the various forms of counter-cultural, radical, anti- and post-colonial, educational, and liberational theatre of the 1960s and 1970s (van Erven, 2001, p.1).
 > 
-
-> 虽然可以用人类学的一般论点来追溯社群戏剧的起源，实际上也可以追溯到所有戏剧表现形式的起源，即前殖民时代和前古希腊罗马时代，但其更直接的前身却埋藏在 20 世纪 60 年代和 70 年代各种形式的反主流文化、激进、反殖民主义和后殖民、教育和解放戏剧中（van Erven, 2001, p.1）。
+> 虽然可以用人类学的一般论点来追溯社群戏剧的起源，实际上也可以追溯到所有戏剧表现形式的起源，即前殖民时代和前古希腊罗马时代，但其更直接的前身却埋藏在 20 世纪 60 年代和 70 年代各种形式的反主流文化（counter-cultural）、激进、反殖民主义和后殖民、教育和解放戏剧中（van Erven, 2001, p.1）。
 >
 
 As reported in Chapter Two, the Playback Theatre method evolved in the 1970s out of the same influences that precipitated other forms of community theatre that van Erven acknowledges above. Van Erven (2001) suggests that while a broad range of performance styles populate community theatre world wide, "it is united … by its emphasis on local, and or personal, stories (rather than pre-written scripts)" (p.2). If thought about in this way, Playback Theatre may be naturally defined as a community-based theatre form.
@@ -457,7 +427,6 @@ Another contemporary manifestation of community-based theatre and performance ha
 
 > [T]he art form becomes a transformative agent that places the audience or participants in direct and immediate situations where they can witness, confront, and deconstruct aspects of their own and others' actions (Taylor, 2003, p.xx).
 > 
-
 > 艺术形式成为一种变革力量，将观众或参与者置于直接、即时的情境中，让他们目睹、面对和解构自己和他人行为的方方面面（Taylor, 2003, p.xx）。
 >
 
@@ -467,11 +436,11 @@ The purposes of applied theatre include: raising awareness, posing alternatives,
 
 Another facet of the community-based performance is the essentially social nature of the experience. In his conception of community, Cohen (in van Erven, 2001) suggests that it is the arena in which people acquire their most fundamental and most substantial experience of social life outside the confines of home. The thinking about community as a social experience and as an experience of engaging with difference is elaborated later in the chapter in the section on Community. The contemporary revival of community is part of a larger, more general tendency toward cultural struggles and conflicts over belonging. A prominent response to this ambiguity is the rise in community public events and ritual performance events like Playback Theatre. Such events facilitate the "immediacy and the intimacy of face-to-face relations" that constitute an experience of community (Cohen in Amit, 2002, p.16), while simultaneously working to bridge difference (Kelly, 1984, van Erven, 2001).
 
-以社群为基础的表演的另一个方面是这种体验本质上的社会性。Van Erven (2001)在其社群概念中指出，社群是人们在家庭范围之外获得最基本、最实质性的社会生活体验的舞台。本章稍后将在"社群"一节中详细阐述社群作为一种社会体验和与众不同的体验的思想。当代社群的复兴是更大范围、更普遍的文化斗争和归属冲突趋势的一部分。社群公共活动和仪式表演活动（如一人一故事剧场）的兴起是对这种模糊性的一个突出回应。这些活动促进了"面对面关系的直接性和亲密性"，构成了一种社群体验（Cohen in Amit, 2002, p.16），同时又努力弥合差异（Kelly, 1984, van Erven, 2001）。
+基于社群的演出的另一个方面是这种体验本质上的社会性。Van Erven (2001)在其社群概念中指出，社群是人们在家庭范围之外获得最基本、最实质性的社会生活体验的舞台。本章稍后将在"社群"一节中详细阐述社群作为一种社会体验和与众不同的体验的思想。当代社群的复兴是更大范围、更普遍的文化斗争和归属冲突趋势的一部分。社群公共活动和仪式性演出活动（如一人一故事剧场）的兴起是对这种模糊性的一个突出回应。这些活动促进了"面对面关系的直接性和亲密性"，构成了一种社群体验（Cohen in Amit, 2002, p.16），同时又努力弥合差异（Kelly, 1984, van Erven, 2001）。
 
 Despite the marginalised position of community-based performance and other community-based theatre and applied theatre forms internationally, Australia has an "enviable" record in terms of the prevalence and position of community-based arts generally (van Erven, 2001, p.251). There continues to be significant growth in the application of theatre in community-based processes in Australia coinciding with this greater awareness of the need for sites of public self-expression and connection (Fotheringham, 1992, Hawkins, 1993, O'Toole and Lepp, 2000). Driven by public funding, community-based arts practice has facilitated a resurgence in popular public events in response to specific social problems and the popularity of certain events like Sydney Gay & Lesbian Mardi Gras, and The Big Day Out (Hawkins, 1993, Kelly, 1984). However, Kelly (1984) cautions that the movement toward funding has resulted in a sector where "everyone is not free to participate fully" (p.44). Festivals and other public events have multiplied to such a degree that there are often two or three running concurrently, or at least serially in Brisbane alone. This social development has served to both 'teach' people how to participate in such events, and also built a hunger for variety, consistency and continuity. To this end it is not just large-scale events that thrive, but smaller, intimate (avante gard) events like the Playback Theatre performance.
 
-尽管社群表演以及其他社群戏剧和应用戏剧形式在国际上处于边缘地位，但澳大利亚在社群艺术的普遍性和地位方面有着"令人羡慕"的记录（van Erven, 2001, p.251）。在澳大利亚，戏剧在社群进程中的应用持续大幅增长，与此同时，人们对公共自我表达和联系场所的需求也有了更深刻的认识（Fotheringham, 1992, Hawkins, 1993, O'Toole and Lepp, 2000）。在公共资金的推动下，以社群为基础的艺术实践促进了大众公共活动的复兴，以应对特定的社会问题和某些活动的流行，如悉尼同性恋狂欢节（Sydney Gay & Lesbian Mardi Gras）和"大日子"（The Big Day Out）（Hawkins, 1993, Kelly, 1984）。不过，Kelly（1984 年）提醒说，资助活动导致"每个人都不能自由地充分参与"（第 44 页）。节日和其他公共活动成倍增加，仅在布里斯班就经常有两三个节日同时举行，或者至少是连续举行。这种社会发展既"教会"了人们如何参与此类活动，也培养了人们对多样性、一致性和连续性的渴望。为此，繁荣发展的不仅是大型活动，还有像一人一故事剧场演出这样的小型、私密（前卫）活动。
+尽管基于社群的演出以及其他基于社群的社群戏剧和应用戏剧形式在国际上处于边缘地位，但澳大利亚在社群艺术的普遍性和地位方面有着"令人羡慕"的记录（van Erven, 2001, p.251）。在澳大利亚，戏剧在社群进程中的应用持续大幅增长，与此同时，人们对公共自我表达和联系场所的需求也有了更深刻的认识（Fotheringham, 1992, Hawkins, 1993, O'Toole and Lepp, 2000）。在公共资金的推动下，以社群为基础的艺术实践促进了大众公共活动的复兴，以应对特定的社会问题和某些活动的流行，如悉尼同性恋狂欢节（Sydney Gay & Lesbian Mardi Gras）和"大日子"（The Big Day Out）（Hawkins, 1993, Kelly, 1984）。不过，Kelly（1984 年）提醒说，资助活动导致"每个人都不能自由地充分参与"（第 44 页）。节日和其他公共活动成倍增加，仅在布里斯班就经常有两三个节日同时举行，或者至少是连续举行。这种社会发展既"教会"了人们如何参与此类活动，也培养了人们对多样性、一致性和连续性的渴望。为此，繁荣发展的不仅是大型活动，还有像一人一故事剧场演出这样的小型、私密（前卫）活动。
 
 Burkett (2003) argues for greater emphasis on those events that position local stories in collective processes due to their potential to enhance the experience of community. She suggests that such events enable people to "open up possibilities for disagreement, debate, contestation, anger and difference" (p.13). Drawing on Hoggett and Miller, Burkett proposes that emotions must be recognised as central rather than peripheral to any work within human communities (Burkett, 2003, p.14). Through such events, the community may once again become a place where individuals' needs for emotional or psychic connection draws them together at a local level (Lash, 1994).
 
@@ -483,7 +452,6 @@ Significant to the value of the community-based performance event is the way in 
 
 > [D]issipate nor negate the individual experience in the theatre; rather they serve to connect the individual reaction to the wider community's experience in the theatre and to the cultural and social developments outside of the theatre (p.29-30).
 > 
-
 > 消解或否定个人在剧场中的体验；相反，它们有助于将个人的反应与更广泛的社群在剧场中的体验以及剧场之外的文化和社会发展联系起来（第 29-30 页）。
 > 
 
@@ -493,7 +461,6 @@ In earlier work, Kershaw (1992) reports on an experience of audience participati
 
 > [T]o the symbolism of a "possible world," then the potential of performance efficacy is multiplied by more than the audience number. To the extent that the audience is part of a community, then the networks of the community will change, however infinitesimally, in response to changes in the audience members (Kershaw in Elam, 1996, p.30).
 > 
-
 > 从"可能的世界"的象征意义来看，表演的潜在效果要比观众人数多得多。只要观众是社群的一部分，那么社群的网络就会随着观众成员的变化而变化，无论这种变化多么微小（Kershaw in Elam, 1996, p.30）。
 >
 
@@ -501,33 +468,30 @@ Legitimate participation in the community-based theatre event renders it a place
 
 合法参与基于社群的剧场活动，使其成为观众可以弥补从积极的公共生活到与外界隔绝和孤立的自我的地方。塞纳特（Sennett，1977 年）认为，自我"有权在公共场合保持沉默"，并通过观察而非社会交往来获取和生产知识（第 27 页）。下一节将进一步探讨公共领域中的私人自我这一概念。
 
-## 3.5 Community Public Performance as a Site for the Personal
-
-## 3.5 社群公共表演作为个人的场所
+## 3.5 Community Public Performance as a Site for the Personal 社群公共演出作为个人的场所
 
 Earlier, I presented Handelman's (1990) thesis that the public performance acts as a conscious attempt at meaningful connections. Contemporary community theory (see Delanty, 2003, Dempsey, 2002) is preoccupied with constructions of community that enable a reclamation of lost intimacy and personal connection in the public domain. The sustained experience of lost intimacy is one explanation for the resurgence in our efforts to find opportunities to create and experience meaningful connections. This search drives the new era of community where estrangement can be mediated through the act of reaching out (Ahmed, 2000). Community exists in between family and society and offers opportunities for connections with others (see Popple, 1995). Given this, the emergence of new studies trying to restate what constitutes community is not surprising (see Amit, 2002, Delanty, 2003, Hopper, 2003). It implies a desire to overcome the past fragmentation of society implicit in the following passage by Tocqueville:
 
 早些时候，我提出了 Handelman（1990 年）的论点，即公共演出是有意识地尝试建立有意义的联系。当代社群理论（见 Delanty, 2003, Dempsey, 2002）关注的是社群的建构，这种建构能够在公共领域重新找回失去的亲密关系和个人联系。对失去的亲密关系的持续体验是我们努力寻找机会建立和体验有意义的联系的原因之一。这种寻找推动了社群新时代的到来，在社群中，隔阂可以通过伸出援手的行为来调解（Ahmed，2000 年）。社群存在于家庭和社会之间，提供了与他人建立联系的机会（见 Popple, 1995）。有鉴于此，试图重述社群构成要素的新研究的出现也就不足为奇了（见 Amit, 2002, Delanty, 2003, Hopper, 2003）。这意味着人们希望克服托克维尔下面这段话中隐含的过去社会的支离破碎现象：
 
 > Each person withdrawn into himself, behaves as though he is a stranger to the destiny of all the others. His children and his good friends constitute for him the whole of the human species. As for his transactions with his fellow citizens, he may mix among them, but he sees them not; he touches them, but he feels them not; he exists only in himself and for himself alone. And if on these terms there remains in his mind a sense of family, there no longer remains a sense of society
-(Tocqueville, in Sennett, 1977, front end).
 > 
-
+> (Tocqueville, in Sennett, 1977, front end).
+> 
 > 每个人都沉浸在自己的世界里，对其他人的命运视而不见。他的孩子和好朋友对他来说是人类的全部。至于他与同胞的交往，他可以混在他们中间，但他看不见他们；他接触他们，但他感觉不到他们；他只存在于他自己之中，只为他自己而存在。如果在这样的条件下，他的头脑中仍然存在家庭的意识，那么社会的意识也就不复存在了
-（托克维尔，见 Sennett，1977 年，前端）。
+> 
+> （托克维尔，见 Sennett，1977 年，前端）。
 >
 
 The purpose of discussing community in the context of this thesis is to differentiate between two discrete notions of community that I wish to draw on. Firstly, the notion that community *exists* in some physical way, shape or form, and secondly, the notion that community is *experienced* as a feeling, even visceral internal state.
 
 在本论文中讨论社群的目的，是要区分我希望借鉴的两种不同的社群概念。首先，社群以某种有形的方式、形状或形式*存在*，其次，社群作为一种感觉，甚至是内在的状态而被*体验*。
 
-### 3.5.1 Defining Community
-
-### 3.5.1 定义社群
+### 3.5.1 Defining Community 定义社群
 
 The literature is unanimous; *community* is a largely contested concept and difficult to define. Many scholars (see for example, Amit, 2002, Bell & Newby, 1971, Dempsey, 2002) claim that this is due to the heavily value-laden nature of the concept. Bell and Newby (1971) propose that it has become the term that encompasses our existential yearning for belonging and self-expression, beyond our private or intimate world. Dempsey (2002) suggests that it is a special something that satisfies our longing for belonging and gives us a sense of social solidarity.
 
-文献一致认为，"社群"在很大程度上是一个有争议的概念，很难界定。许多学者（例如，Amit, 2002, Bell & Newby, 1971, Dempsey, 2002）认为，这是由于这一概念带有浓厚的价值色彩。Bell 和 Newby（1971 年）提出，它已成为一个术语，包含了我们对归属感和自我表达的存在渴望，超越了我们的私人或亲密世界。Dempsey (2002) 认为，它是一种特殊的东西，能满足我们对归属感的渴望，给我们一种社会团结感。
+文献一致认为，*社群*在很大程度上是一个有争议的概念，很难界定。许多学者（例如，Amit, 2002, Bell & Newby, 1971, Dempsey, 2002）认为，这是由于这一概念带有浓厚的价值色彩。Bell 和 Newby（1971 年）提出，它已成为一个术语，包含了我们对归属感和自我表达的存在渴望，超越了我们的私人或亲密世界。Dempsey (2002) 认为，它是一种特殊的东西，能满足我们对归属感的渴望，给我们一种社会团结感。
 
 There is an undeniable sense of nostalgia or romance associated with the idea. Mostly, it is used in such a way to suggest that it is "good for you, and its absence is bad" (Dempsey, 2002, p.140), and this, Amit (2002) claims is part of the problem. Amit and Rapport (2002) argue that community no longer convinces as a metaphor. Yet, as reported in Chapter Two, the term has been regularly used when referring to the experience of Playback Theatre for an audience.
 
@@ -537,9 +501,7 @@ One notion of community is that of a physical place or a *specific* group of peo
 
 社群的一个概念是指一个有形的地方或一群*特定*的人。从这个角度看，参与社群活动往往意味着与某个特定地点的联系。或者，它也可能意味着通过共同的兴趣或共同的身份与可识别的人群进行实时接触。这种社群概念并不预设每个人都认识其他人，但人们有可能不会把彼此视为陌生人。这一社群概念与本论文相关，因为一人一故事剧场曾在不同地点演出，许多观众都是因为对背景感兴趣或与背景有关联而前来观看。然而，第二种社群概念虽然不那么具体，但却有助于思考观众对一人一故事剧场的体验。下文将通过特纳（Turner，1969 年）的"社群共同体"（communitas）概念，即作为人际体验的社群，以及阿米特（Amit，2002 年）的"社群"（community）概念，即作为瞬间或短暂的社群进行探讨。与此相关的还有社群作为集体行动（Checkoway, 1995 年）和集体情感表达（Giddens, 1990 年）的概念，以及与一群陌生人组成社群的可能性（Ahmed, 2000 年）。
 
-### 3.5.2 Communitas and Ephemeral Experiences of Community
-
-### 3.5.2 社群共同体与短暂的社群体验
+### 3.5.2 Communitas and Ephemeral Experiences of Community 社群共同体与短暂的社群体验
 
 The idea of community as somewhat ephemeral and experiential is inherent in the notion of 'communitas', brought to prominence last century in the work of Victor Turner (1969, p.96).
 
@@ -555,7 +517,6 @@ Turner draws on Buber when he writes that communitas is "spontaneous, immediate,
 
 > [R]evitalise and renew our social practices and institutions than experiences of structure and institution. The sources of renewed life and vitality are not likely to be found in structure equivalent to the institutional experience but rather in the antistructural experience of communitas or the quest for it (Veling, 1995, p.12).
 > 
-
 > 使我们的社会实践和制度焕发生机和活力的是结构和制度经验。新生和活力的源泉不可能在与制度经验等同的结构中找到，而可能在反结构的社群共同体经验或对社群共同体的追求中找到（Veling，1995 年，第 12 页）。
 > 
 
@@ -565,7 +526,7 @@ While the flow of communitas requires the space available on the margins, it exi
 
 In his critique of examples of "fictive communality" that get presented "as the theoretical model of community," Amit (2002) asserts that "some of the most crucial forms of fellowship, of belonging" arise from incidental unstructured encounters. He states that "these forms of fellowship and belonging are intrinsically contextual and therefore often ephemeral" (Amit, 2002, p.64). Theologian, Veling (1995) articulates the ephemeral nature of community when he speaks about intentional faith communities. He claims that "community is a free blowing spirit, a vital force, ever renewing and always resistant of any effort to capture it, order it or control it" (Veling, 1995, p.12). Such could be said of articulating the individual and collective experiences at Playback Theatre performances. Wild (1981) attempts a definition that captures the ephemeral nature of community. He is against using the word 'community' when referring to "relationships of emotion developed through common experience and emphasising a sense of belonging" (p.39). Rather, he suggests the word 'communion' is better suited, differentiating the two by saying that "community is *given* and communion is *experience*" (p.40). Thus, the experience of community arises from both structured ritual experiences – communitas (Turner, 1969) – and incidental unstructured encounters (Amit, 2002). Regardless of the form it takes, the experience necessarily occurs in the public domain at a point where our private self is engaged, like that space found in community-based performance rituals like Playback Theatre.
 
-阿米特(Amit, 2002)在他对“作为社区理论模型”的“虚构社区”的批评中断言，“一些最重要的友谊和归属感形式”来自偶然的非结构化相遇。他说“这些形式的友谊和归属本质上是处在特定语境中的，因此往往是短暂的”(阿米特， 2002，第64页)。神学家韦林(1995)在谈到有意识的信仰社区时，阐明了社区的短暂性。他声称“社区是一种自由奔放的精神，一种生机勃勃的力量，不断更新，总是抵制任何企图捕获它、命令它或控制它的努力”(韦林, 1995年，第12页)。这可以阐明在一人一故事剧场的演出中个人和集体的经历。Wild(1981)试图给出一个定义，捕捉到社区的短暂本质。他反对在提及“通过共同经历和强调归属感而发展起来的情感关系”时使用“社区（community）”这个词(第39页)。相反，他认为“共融（communion）”一词更合适，通过说“共同体是*给予*的，共融是*体验*”来区分两者(第40页)。因此，社群的体验既源于结构化的仪式体验——社区（communitas）(特纳，1969)，也源于偶然的非结构化遭遇(阿米特，2002)。不管它的形式如何，这种体验必然发生在公共领域，在我们的私人自我参与的时候，就像在一人一故事剧场这样的社群表演仪式中发现的空间。
+阿米特(Amit, 2002)在他对“作为社区理论模型”的“虚构社区”的批评中断言，“一些最重要的友谊和归属感形式”来自偶然的非结构化相遇。他说“这些形式的友谊和归属本质上是处在特定语境中的，因此往往是短暂的”(阿米特， 2002，第64页)。神学家韦林(1995)在谈到有意识的信仰社区时，阐明了社区的短暂性。他声称“社区是一种自由奔放的精神，一种生机勃勃的力量，不断更新，总是抵制任何企图捕获它、命令它或控制它的努力”(韦林, 1995年，第12页)。这可以阐明在一人一故事剧场的演出中个人和集体的经历。Wild(1981)试图给出一个定义，捕捉到社区的短暂本质。他反对在提及“通过共同经历和强调归属感而发展起来的情感关系”时使用“社区（community）”这个词(第39页)。相反，他认为“共融（communion）”一词更合适，通过说“共同体是*给予*的，共融是*体验*”来区分两者(第40页)。因此，社群的体验既源于结构化的仪式体验——社群共同体（communitas）(特纳，1969)，也源于偶然的非结构化遭遇(阿米特，2002)。不管它的形式如何，这种体验必然发生在公共领域，在我们的私人自我参与的时候，就像在一人一故事剧场这样的社群表演仪式中发现的空间。
 
 The interactive space of communitas is dialogic. Freire (1982) claims that dialogue can not exist without critical thinking. Howard (2003) discusses her experience of facilitating dialogues within/by groups. Citing Buber, she constructs a meaning of dialogue as an exchange among human beings that accomplishes "a true turning to one another in full appreciation of the other, not as an object in a social function but as a genuine being" (p.3). It requires a setting where a group of people can maintain conscious collective mindfulness. Howard's description of the invisible energetic exchanges that occur in group-dialogue reminds one of the heightened ritual environments that Turner describes. She draws on Bohm's analogy of dialogue as superconductivity to state:
 
@@ -580,7 +541,7 @@ The dialogic space of theatre positions intuition and emotional mindfulness alon
 
 戏剧的对话空间将直觉和情感正念与霍华德对话的有意识或理性正念并置。这使得戏剧能够在交流中超越语言和思想的限制，在对话空间中融入非语言、身体、情感和魔法(Brook, 1968)。剧院能够同时赋予共性或普遍性的特权，并通过丢弃面具和揭示真正的的主旨来实现独特的解放体验:“身体和精神反应的整体”(Grotowski, 1968，第204页)。这种戏剧观念得到了叙事理论家的强化，他们提倡个人故事作为一种主要形式，通过这种形式我们使我们的生活变得有意义(Bruner, 1986; Polkinghorne, 1988)。哈代(在Widdershoven, 1993)声称，我们通过讲故事而存在，因为这是我们“记忆、预测、希望、绝望、相信、怀疑、计划、修改、批评、构建、八卦、学习、恨和爱”的方式(第3页)。弗兰克(1995)将这种现象称为“故事中的思考”(p.61)。在一人一故事剧场中，正是表演中讲述的个人故事的内容构成了对话过程(Hoesch, 1999)。 
 
-**3.5.3 Community and Diversity 社群和多样性**
+### 3.5.3 Community and Diversity 社群和多样性
 
 Earlier in this section I introduce the idea that community exists at some point in between family and society. This idea of community as a space between the public self and the private self is also relevant to the thesis. Wearing (2002) claims that the convergence of the public and private is a paradox of community. She suggests that public occurs outside of the family, which she says is a private space. She draws on Goffman's metaphor of the theatre to speak about the differences between the public and private selves. Goffman (in Wearing 2002) proposes that when we are behaving as our private selves, we are "backstage." Conversely, when we are performing to an audience, that is, when we are in the public domain "using various masks and other props to enhance our performance and to persuade our audience of our credibility and value", we are "frontstage" (p.130). I propose that an experience of community can emerge from the convergence of the public and private, that is, that community is a place and space where people move in and out of their private-public selves. In this way community can be considered a space in-between that can invoke experiences of communitas.
 
@@ -651,7 +612,7 @@ Mienczakowski (1997) urges that an outward looking orientation is essential duri
 
 米恩扎科夫斯基(1997)强调，在这段时间里，有一种对自我的“关注”，向外看的取向是必不可少的(第163页)。虽然他承认后现代理论家使我们能够“将社会生活理解为一个文化情节”(第166页)，但他声称，这个情节授权了某些声音，并压制了其他声音。批判理论家和女权主义理论家(Lather, 1991, Razack, 1993)提出积极应用基于故事的过程来寻求这种沉默的声音。这样做就有了麦克拉伦(in Mienczakowski，1997)所称的*抵抗后现代主义*(第167页)的空间。Reinharz(1992)认为，对于这种基于故事的过程，一种批判的-语境话的方法是必不可少的。这使我们能够面对“可能挑战和质疑[我们]自身位置的其他立场”(Conquergood in Mienczakowski，1997，第167页)。基于故事的过程可能会帮助我们赋予我们的经验生活以道德意义，从而影响人类的行为(Bauman, 1986, Bruner, 1986)。虽然，其他人(Rappaport, 1995, Stacey, 1988)警告说，这样的过程不能破坏讲故事的人的代理，也不能扭曲讲故事的目的。这一立场将倾听行为置于基于故事的过程的中心。这将在下一节进一步讨论。 
 
-**3.6.2 Stories as Experience 作为经历的故事**
+### 3.6.2 Stories as Experience 作为经历的故事
 
 Much of the discussion in narrative, life history and folkloric writings about the form and content of stories revolves around the conceptualisation of *experience*. Shuman (1986) claims that "stories categorise experience" (p.20) and makes the following distinction in the relationship between stories, *experiences* and events. She writes:
 
@@ -861,7 +822,7 @@ The multiple performances emerge through collaboration between performers and au
 
 多个表演通过表演者和观众之间的合作而出现，并被仪式框架所包含。在一人一故事剧场中，观众和表演者之间的界限超越了传统的第四面墙，把作为表演者或参与者的观众囊括了进来。这使得关于个人故事的私密性、表演的公共性、戏剧的审美期待等平常的礼节，似乎在阈限空间中被打破。Schechner(1988)断言，演出的成功取决于高水平的参与。马斯特森(Masterson, 2004)声称所有观众都希望表演者成功。在一人一故事剧场的演出中，他们希望整个演出都能成功。因此，在“现场”时刻，在场的所有人都串通起来，相信正在发生的事情。虽然这似乎与具有艺术价值的作品的创作相矛盾，但它提出了一种新的集体生产。正如迈尔霍夫(Myerhoff, 1990)所暗示的那样，这就推断出，在仪式演出的集体行动中，观众的个人和社群转化的潜力得到了增强。
 
-**3.8.3 Research Questions 研究问题**
+### 3.8.3 Research Questions 研究问题
 
 In distilling the literature to frame the inquiry, the focus of the study has emerged. The literature assisted me to consider the roles of the audience in Playback Theatre. Similar to the domains of performance, ritual and storytelling, Playback Theatre offers a simultaneous experience of spectating and participating. The way in which Playback Theatre draws on personal stories and theatrical form within a ritual performance process could be said to expand the potential for engagement in the public event and encourage individual and group agency and responsibility. A hybridised performance form, Playback Theatre combines solo telling performances by spontaneous, self-elected (often-untrained) audience members with improvised theatrical enactments performed by citizen actors[19]. As stated earlier, the experiences of audience members are the focus of this study. Emerging from the review of the Playback Theatre literature in Chapter Two, I have identified a number of claims that influence the direction of this study. These claims are that Playback Theatre:
 
