@@ -31,9 +31,7 @@ This thesis is submitted in fulfilment of the requirements of the degree of Doct
 
 ---
 
-# Statement of Originality
-
-# 独创性声明
+# Statement of Originality 独创性声明
 
 This work has not been previously submitted for a degree or diploma in any university. To the best of my knowledge and belief, the thesis contains no material previously published or written by another person except where due reference is made in the thesis itself.
 
@@ -43,9 +41,7 @@ This work has not been previously submitted for a degree or diploma in any unive
 
 ---
 
-# Acknowledgements
-
-# 致谢
+# Acknowledgements 致谢
 
 *Don't take it too seriously. Hold on tightly, let go lightly.*
 
@@ -97,9 +93,7 @@ Finally, to the many audience members who agreed to speak to me about their expe
 
 ---
 
-# Abstract
-
-# 摘要
+# Abstract 摘要
 
 In this study I explore the hybrid ritual performance form of Playback Theatre through audience members' experiences. The particular Playback Theatre application under consideration is the one-off community-based event. Selected writing from the Playback Theatre practice field assists in the establishment of the study focus. Literature from performance and ritual theory provides a framework for the inquiry. Theory about stories and storytelling offers a complementary lens that acknowledges the centrality of personal story in Playback Theatre. Contemporary writing about the experience of community is included to illuminate the experience of the public-private convergence in the Playback Theatre event. This study adds the voices of audience members to the writing about Playback Theatre from a practitioner perspective. The research has been undertaken using an ethnographic approach that draws on participant observation, informal group and individual interviews and researcher reflexivity.
 
@@ -121,9 +115,7 @@ The after-show period is shown to be an intrinsic part of the ritual event facil
 
 演出结束后的时间是仪式活动的固有组成部分，有助于观众在准备重新进入日常社会世界时将体验融入其中。这是通过持续讲故事和反思性讨论实现的。这一阶段的非正式性质对于一些可能需要详细询问的观众来说是不够的。一次性的、基于社群的一人一故事剧场是人们作为一个社群聚集在一起讲述和聆听故事的机会。这需要一个冒险和倾听的互动过程，并为观众提供了一个看到自己和看到**他人**的机会。研究得出结论，在这种情况下应用一人一故事剧场是对社群的一种隐喻。
 
-# Information for Readers
-
-# 读者信息
+# Information for Readers 读者信息
 
 **Identifying Material**
 
@@ -145,9 +137,7 @@ The content of this thesis is based on personal testimony and observation. Throu
 
 本论文的内容基于个人发言和观察。在整篇论文中，我使用了访谈记录、表演记录和反思日记的节选。为了便于阅读，这些摘录都经过了编辑。附录展示了各数据未经编辑的记录样本。附录中未包含的引用资料存储在光盘中，其编目方式与样本中显示的相同。有关直接引文标识方式的解释，请参见第 4 章。
 
-# My Story
-
-# 我的故事
+# My Story 我的故事
 
 > We pass our culture and lore on through talking, through talking and the stories we tell through our bark paintings, and our performance, our song and dance performance. A combination of all three together (Wanyubi Marika, 2003)[1].
 > 
@@ -186,9 +176,7 @@ At times, the in-depth scrutiny of my Playback Theatre work has effected my spon
 
 有时，对一人一故事剧场工作的深入审视影响了我的自发性，削弱了我欣赏他人和我的创造性工作的能力。我曾经历过游戏感减弱的时刻，也曾经历过断裂感和孤独感淹没我的时刻，因为我在努力应对一个创造性（团体）艺术家和一个（个人）学者的议程（和价值观）之间的冲突。在阅读这篇论文的过程中，您将陪伴我走过这段旅程，见证我在当地社群的研究阈限空间中通过观众的体验与一人一故事剧场相遇时的发现。
 
-# CHAPTER ONE: Introduction
-
-# 第一章：引言
+# CHAPTER ONE: Introduction 第一章：引言
 
 > We have inherited a civilization in which the things that really matter in human life exist at the margin of our culture. What matters? How birthing takes place matters; how infants are raised matters; having a rich and active dream life matters. Animals matter, and so does ontological security and the magic of interpersonal interactions and healthy and passionate sexual expression. Career and prestige and putting a good face on it and the newest fashion in art or science do not matter. Coming to our senses means sorting this out once and for all. It also means becoming embodied. And the two ultimately amount to the same thing.
 > Morris Berman (1990, p.341-2).
@@ -209,9 +197,7 @@ The study focuses on the one-off community-based Playback Theatre performance. T
 
 本研究的重点是一次性的、基于社群的一人一故事剧场。这种对研究领域的限制促进了对这一特定公共活动的探索。一次性的表演已流行了三十多年，但其价值和目的尚未得到足够的重视。本研究对这种情况进行了一些补救。
 
-## 1.1 Research Questions
-
-## 1.1 研究问题
+## 1.1 Research Questions 研究问题
 
 The overarching question guiding this study is:
 
@@ -247,17 +233,13 @@ The research aims to frame the practice of Playback Theatre beyond the often sel
 
 这项研究旨在为一人一故事剧场的实践提供框架，使其超越一人一故事剧场的相关文章中经常的自我指涉的框架。将观众的声音和看法加入到一人一故事剧场的学术研究中，特别是和一次性的、与基于背景（context）的一人一故事剧场的关联。最后，作为对观众体验的探究，研究过程试图阐明一人一故事剧场仪式的参与方式；讲述、聆听和观看故事所产生的影响；以及这种体验如何等同于参与者的社群体验。
 
-## 1.2 Method
-
-## 1.2 方法
+## 1.2 Method 方法
 
 The study seeks to better understand the process of Playback Theatre through the experience of individuals. An exploratory ethnographic approach has been implemented using informant interviews, observation and researcher reflexivity. Early interviews with practitioners and preliminary observational and reflexive data have served to direct the study toward the experiences of audience members. The context for the study is derived from the specific contexts of the performance work enacted by The Brisbane Playback Theatre Company of which I am a member.
 
 本研究试图通过一人一故事剧场的体验来更好地了解其过程。本研究采用了一种探索性的人种学方法，利用信息访谈、观察和研究者的反思性。对从业人员的早期访谈以及初步的观察和反思数据有助于将研究引向观众的体验。本研究的背景来自于布里斯班一人一故事剧团（The Brisbane Playback Theatre Company）的特定表演环境。
 
-## 1.3 Findings
-
-## 1.3 研究結果
+## 1.3 Findings 研究結果
 
 The study findings indicate that audience members come to the one-off community-based Playback Theatre performances for different reasons. Motivation to attend is mostly due to audience members' identification with the context within which the performance is placed, for example, mental health week. Participants also attend because of their familiarity with the form. Audience members engage as participants and spectators. During performances, they actively engage in a personal process of deciding whether to participate and in what way. Simultaneously, they are engaged in experiencing the theatre event and in the appreciation of the performances of the storytellers and the performers. For some, participation extends to include their telling of a personal story. There are numerous reasons why people choose to tell a story during the Playback Theatre performance. People also choose not to tell. Whether the participant chooses to tell or decides against telling, their decision is influenced by their personal values. Many factors conspire to influence whether a person will tell a story or not.
 
@@ -275,9 +257,7 @@ The research makes recommendations for purposeful and strategic Playback Theatre
 
 研究为一人一故事剧场工作的目的性和战略性提供了建议。它提出，一人一故事剧场在当代社群生活中占有一席之地，因为它为伯尔曼在开篇引言中提到的阈限空间提供了形式和结构，一个人们可以相遇的空间。本研究的结论为制作可行的一人一故事剧场活动提供了一个框架。本研究还为从业者的培养和发展提出了建议。此外，还列出了进一步研究的建议。
 
-## 1.4 How the Thesis is Organised
-
-## 1.4 论文的组织结构
+## 1.4 How the Thesis is Organised 论文的组织结构
 
 The thesis opens with *My Story.* This is designed to situate the reader and tells some of my story. It is written to shed light on how my family history, my life experiences and my love of improvising converge in my practice of Playback Theatre and have led to this research project.
 
