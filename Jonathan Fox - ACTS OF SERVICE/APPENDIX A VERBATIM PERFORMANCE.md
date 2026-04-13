@@ -281,7 +281,7 @@ CONDUCTOR: It did?
 
 BEN: (Nods.)
 
-CONDUCTOR: Well,thank you very much.(*BEN sitsdown.*) Sounds like you have a good kid there.
+CONDUCTOR: Well, thank you very much.(*BEN sitsdown.*) Sounds like you have a good kid there.
 
 BEN: (*From audience*) I do. A couple of them.
 
@@ -403,7 +403,7 @@ CONDUCTOR: O.K. We'll begin with you saying good-bye to your client, right?
 
 GERALD: O.K.
 
-CONDUCTOR: And then coming into the house. And we'll just see a part of your... a typical evening of this recent period in your life, O,K,? We'll have the office over there, and the living part of the house over here.
+CONDUCTOR: And then coming into the house. And we'll just see a part of your... a typical evening of this recent period in your life, O.K,? We'll have the office over there, and the living part of the house over here.
 
 GERALD: Yeah.
 
@@ -783,7 +783,7 @@ CONDUCTOR: Indoor. Where? In your house?
 
 BARBARA: Yeah.
 
-CONDUCTOR: O,K. Pick someone to play you, Barbara.
+CONDUCTOR: O.K. Pick someone to play you, Barbara.
 
 BARBARA: My sister Betsy. (*Applause.*)
 
@@ -1166,7 +1166,7 @@ CONDUCTOR: O.K. So we've going to start this right when you start playing the ga
 
 (SETTING UP MUSIC:)
 
-JUDY (ACTOR): O.K,everybody now listen to me. I'm the director and we only have an hour to do the show, O.K? Now, you are townspeople. Wait, Get out of the way for a minute.. Move over there. What's your name going to be? Come on, what's your name going to be?
+JUDY (ACTOR): O.K, everybody now listen to me. I'm the director and we only have an hour to do the show, O.K? Now, you are townspeople. Wait, Get out of the way for a minute.. Move over there. What's your name going to be? Come on, what's your name going to be?
 
 TOWNSPERSON: Cindy.
 
@@ -1304,7 +1304,7 @@ CONDUCTOR: Why don't you come up?
 
 AUDIENCE MEMBER: Can I stay here?
 
-CONDUCTOR: Please come up. We'll help you. O,K. (*She leaves seat for TELLER'S chair.*)
+CONDUCTOR: Please come up. We'll help you. O.K. (*She leaves seat for TELLER'S chair.*)
 
 AUDIENCE MEMBER: I'm able!
 

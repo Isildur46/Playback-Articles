@@ -97,4 +97,4 @@ In the oral world, however, the word has a sacral air.[9]Furthermore, this sensu
 [9] See Ong, 75.
 [10] See Benjamin, 86; Yashinsky, 4; de Grazia, 343.
 
-To sum up, then, illiterate bards sang tales which involved repetition,concrete narration,and performance that encom- passed both the traditional and improvisational. Furthermore, while the experience was most definitely designed to be fun, there was a higher purpose involved, centering on the importance of remembrance and the transmission of a commu- nity's most important truths.
+To sum up, then, illiterate bards sang tales which involved repetition, concrete narration, and performance that encom- passed both the traditional and improvisational. Furthermore, while the experience was most definitely designed to be fun, there was a higher purpose involved, centering on the importance of remembrance and the transmission of a commu- nity's most important truths.

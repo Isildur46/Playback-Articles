@@ -10,7 +10,7 @@ The word “company,” of course, describes any band of performers, with an emp
 
 [1] See Sainer, 13. The American system of providing limited official subsidy for arts cannot be the whole explanation for repertory's hard battle. Could the American individualistic credo also be significant in discouraging a form of organization that requires group values and the skills to foster them? The emergence of the regional theatre movement since World War II perhaps reflects an interest in the community-based theatrical organization, in which there is an overall continuity of personnel, but it is not clear to what extent regional theatre productions honor the idea of “permanent company." See Baumol & Bowen, 27-8.
 
-In the NST, the norm is for theatre groups to be assembled on more than a one-production basis. Nevertheless,NST groups do not for the most part fit under the rubric of "repertory company" because their productions are characterized by a repetitive allegiance to form rather than a diverse series of plays. Thus “company” in the NST context takes on a different meaning.
+In the NST, the norm is for theatre groups to be assembled on more than a one-production basis. Nevertheless, NST groups do not for the most part fit under the rubric of "repertory company" because their productions are characterized by a repetitive allegiance to form rather than a diverse series of plays. Thus “company” in the NST context takes on a different meaning.
 
 First, it implies *continuity*. It often takes explaining for audience members to understand that a Playback Theatre company is not together just for the show, or even for the season, but on a “permanent" basis, in which the average tenure of a performer will last for years.
 

@@ -24,7 +24,7 @@ Such fluidity requires humility on the part of the director and courage on the p
 
 Another example: the director is about to begin a vigorous movement exercise when one of the group members sighs and says “God, it's hot." Spontaneously, the director lets go of his or her' supremacy, allowing the comment to transform the original idea for the warm-up in the direction of environmental attunement: So the director prefaces the instructions for the activity with: “It *is* hot, yes. Let's each take off a piece of clothing and..." In this case, if the director suggests taking off some clothing, and everyone laughs, gets animated, and the practice is off to a wonderful start, it will be because the director had the spontaneity to give in to Fred, who for a moment provided an opening for the group.
 
-Of course, in both these cases,the spontaneous response from the director might well be to *not* indulge a member's intervention. Sara may always be late, or always upset. Rachel may always seek to escape work by a trumped-up concern for others; Fred may chronically complain as his way of resisting.
+Of course, in both these cases, the spontaneous response from the director might well be to *not* indulge a member's intervention. Sara may always be late, or always upset. Rachel may always seek to escape work by a trumped-up concern for others; Fred may chronically complain as his way of resisting.
 
 The above examples may seem trivial; nevertheless, they exemplify a continual challenge. The good leader will give over a thousand times, following the law of spontaneity, because creativity belongs to no one all the time, but wafts about us all.
 
@@ -43,7 +43,7 @@ Here is a director who either did not care to modify his critical approach as hi
 
 The purpose of the exercise, to increase trust among actors, will not be achieved for this actor, whose timidity has not been respected; he may have jumped only because he felt pressured by the enthusiasm of the crowd; at any rate, he did not really jump at all, and was undoubtedly left with a sense of failure. There was an opportunity for the director to intervene here, helping the actor find a way to successfully complete the task.
 
-Instead, the director remained passive,providing guidance neither for the actor nor the rest of the group.
+Instead, the director remained passive, providing guidance neither for the actor nor the rest of the group.
 
 *A famous director is leading a similar exercise for community people as part of a one-time only “outreach" pro- gram. He tells the 30-odd participants to make a large circle and run across it with their eyes closed. One young woman is very afraid. When she hesitates, he exhorts her to run. She runs, or half runs, across the circle. There is laughter. The director calls for the next runner.*
 
@@ -81,7 +81,7 @@ We concluded in the previous chapter that risk-taking was essential for liminali
 
 Actor and director have a compact. The actor suspends a layer of thoughtfulness; the director shoulders it, freeing the actor to go deeper into the sensory, intuitive world. The actor is movement, sound, and physical presence; the director is the eye, the judge, the outsider. The director sets the frame for the actor.
 
-Entrusted with actors’safety as they execute a task that almost inevitably will cause them to spill over, lose the thread, become unmoored, directors have greatresponsibility. The actors will succeed if and only if the director can maintain the right frame of understanding and the right mood. On this level, I take exception to Brook and say that ultimately, directors must be nice--which is to say that if a director's severity is couched in loveit can be withstood, but if a director's severity is rooted in bitterness,misanthropy, or greed then the actor may well find him or herself on dangerous ground, and the question of trust becomes an appropriate, if unfortunate, concern.
+Entrusted with actors’safety as they execute a task that almost inevitably will cause them to spill over, lose the thread, become unmoored, directors have greatresponsibility. The actors will succeed if and only if the director can maintain the right frame of understanding and the right mood. On this level, I take exception to Brook and say that ultimately, directors must be nice--which is to say that if a director's severity is couched in loveit can be withstood, but if a director's severity is rooted in bitterness, misanthropy, or greed then the actor may well find him or herself on dangerous ground, and the question of trust becomes an appropriate, if unfortunate, concern.
 
 Theatre utilizes human beings for its operation. Western ethical practice insists on the sanctity of the human condition. Therefore there can be no question. Theatre must be for the good of the actors.
 
