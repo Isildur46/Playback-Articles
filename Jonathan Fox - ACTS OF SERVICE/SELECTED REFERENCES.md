@@ -40,7 +40,7 @@ Heath, Shirley Brice. Ways with Words: Language, Life, and Work in Communities a
 
 Brook, Peter. The Empty Space. London: MacGibbon & Kee,1968.
 
------“Leaning on the Moment." Parabol IV, 2,1979.
+-----“Leaning on the Moment.” Parabol IV, 2,1979.
 
 Brower, Reuben & Proirier, Richard, eds. In Defnse of Reading, New York: Dutton, 1962.
 
@@ -71,33 +71,33 @@ Eisler, Raina. The Chalice and the Blade. New York: Harper & Row, 1987.
 
 Elkin, A.P. Aboriginal Men of High Degree. St. Lucia, Australia: University of Queensland Press, 1977.
 
-Emunah, Renee & Johnson, David Read. “The Impact of Theatrical Performance on the Self-Images of Psychiatric Patients." The Arts in Psychotherapy, IO, 1983.
+Emunah, Renee & Johnson, David Read. “The Impact of Theatrical Performance on the Self-Images of Psychiatric Patients.” The Arts in Psychotherapy, IO, 1983.
 
 Erickson, Milton H. & Haley, Jay, eds. Advanced Techniques of Hypnosis and Therapy, New York: Grune & Stratton,1967.
 
-Erickson, Milton H. “The Method Employed to Formulate a Complex Story for the Induction of the Experimental Neurosis." Journal of Genera! Psychology, 31, 1944.
+Erickson, Milton H. “The Method Employed to Formulate a Complex Story for the Induction of the Experimental Neurosis.” Journal of Genera! Psychology, 31, 1944.
 
 Erikson, Erik H. Gandhi's Truch. New York, Norton, 1969.
 
 Esslin, Martin. Brecht: the Man and His Work. New York: Norton, 1974.
 
-Feit, Ken. “The Priestly Fool." Anglican Theological Review, 5, June 1975.
+Feit, Ken. “The Priestly Fool.” Anglican Theological Review, 5, June 1975.
 
 Feldhendler, Daniel. Psychodrama und Theaterder Unterdrickten [Psychodrama and Theater of the Oppressed]. Frankfurt: Wilfried Nold, 1992.
 
-Fox, Jonathan. “Playback Theater: the Community Sees It self." In Drama in Therapy, edited by Gertrud Schattner & Richard Courtney. New York: Drama Book Specialists, 1981.
+Fox, Jonathan. “Playback Theater: the Community Sees It self.” In Drama in Therapy, edited by Gertrud Schattner & Richard Courtney. New York: Drama Book Specialists, 1981.
 
 ----. Ed. The Essential Moreno: Writings on Psychodrama, Group Method, and Spontaneity: New York: Springer, 1987
 
-----. “Morenos Stegreiftheater in New York [Moreno's Impromptu Theatre in NewYork]." Jahrbuchfi fur Psychodrama, psychosoziale Praxis & Gesellschafspolitik, Germany, 1993.
+----. “Morenos Stegreiftheater in New York [Moreno's Impromptu Theatre in NewYork].” Jahrbuchfi fur Psychodrama, psychosoziale Praxis & Gesellschafspolitik, Germany, 1993.
 
-----. “Die inszenierte persönliche Geschichte im Playback Theater [Dramatized Personal Story in Playback Theatre]." Psychodrama, Germany, Heft 1, 1991.
+----. “Die inszenierte persönliche Geschichte im Playback Theater [Dramatized Personal Story in Playback Theatre].” Psychodrama, Germany, Heft 1, 1991.
 
 ----. “Moreno and His Theater.” Journal of Group Psychotherapy, Psychodrama & Sociomety, 31, 1978.
 
 Freire, Paolo. Education for Crtical Consciousness. NewYork: Seabury Press, 1973.
 
-French, William A. “A Double-Threaded Life: Maryat Lee's Ecotheatre." Drama Review, 27(2), Summer 1983.
+French, William A. “A Double-Threaded Life: Maryat Lee's Ecotheatre.” Drama Review, 27(2), Summer 1983.
 
 Freud, Anna.The Ego and the Mechanisms of Defnse: the Writings of Anna Freud(vol.2). New York: Internationa University Press, 1966.
 
@@ -105,7 +105,7 @@ Gardner, Howard. Frames of Mind, New York: Basic Books, 1983.
 
 Gassner, John. Producing the Play, New York: Dryden Press, 1941.
 
-Geertz, Clifford. “Blurred Genres: the Refiguration of Social Thought." American Scholar, 1980.
+Geertz, Clifford. “Blurred Genres: the Refiguration of Social Thought.” American Scholar, 1980.
 
 Goffman, lrving. The Presentation of Self in Everyday Lif. New York: Anchor, 1959.
 
@@ -176,7 +176,7 @@ Ong, Walter. Orality and Literacy, London: Methuen, 1982.
 
 Pasolli, Robert. A Book on the Open Theater: New York: Avon, 1970.
 
-Pendzik, Susana. “Drama Therapy as a Form of Modern Shamanism." Jounal of Transpersonal Psychology 20, 1, 1988.
+Pendzik, Susana. “Drama Therapy as a Form of Modern Shamanism.” Jounal of Transpersonal Psychology 20, 1, 1988.
 
 Plato. The Works of Piato. Edited by Irwin Edman and Translated by Benjamin Jowett. New York: Random House,1928.
 
@@ -210,7 +210,7 @@ Scribner, Sylvia & Cole, Michael. The Psychology of Literacy. Cambridge: Harvard
 
 Snow, C.P. The Two Cultures: and a Second Look. Cambridge, Cambridge University Press, 1969.
 
-Sontag, Susan, “Marat/Sade/Artaud." Therapy in the Arts, edited by Walt Anderson. New York: Harper & Row, 1977.
+Sontag, Susan, “Marat/Sade/Artaud.” Therapy in the Arts, edited by Walt Anderson. New York: Harper & Row, 1977.
 
 Sophocles. The Oedipus Gycle. Translated by Dudley Fitts and Robert Fitzgerald. New York: Harcourt, Brace & World, 1949.
 

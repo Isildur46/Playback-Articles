@@ -28,7 +28,7 @@ CONDUCTOR: Did it feel anything like that? You can comment, you know.
 
 TED: Oh, yeah.
 
-CONDUCTOR: It did. We invite you to.. you know.. this is a version of “This is your life." (*Audience laughter.*)
+CONDUCTOR: It did. We invite you to.. you know.. this is a version of “This is your life.” (*Audience laughter.*)
 
 TED: It was all my daughter's...
 
@@ -291,7 +291,7 @@ AUDIENCE MEMBER: Will you talk a little bit louder?
 
 CONDUCTOR: Sure. (*With raised voice*) If you can't hear, just, you know, wave. Do something. So we can reach out into this Egg-like space. (*Audience laughter.*)[1]
 
-[1] The hall, because of its architectural design, is familiarly known as “the Egg."
+[1] The hall, because of its architectural design, is familiarly known as “the Egg.”
 
 BRUCE (ACTOR): Through the yolk.
 
@@ -491,7 +491,7 @@ CONDUCTOR: (*To TELLER*) Yah?
 
 GERALD (*TELLER*): Yup.
 
-CONDUCTOR: Thank you very much. (*GERALD returns to seat in audience.*) (*Audience laughter.*) Well, now. It can be a very difficult thing to think up stories. Lots of people... their minds go blank, when I say think up a story, something that'shappened to you, I don't know if that's happened to any of you tonight. or people feel sometimes, “Well, my story is.. I have something, but it's too silly." Other people think, “What I thought of, I don't dare get up and say that in front of strangers." Before we do some more, I want to invite you not to think of a story, but we'll do something a little bit different--images not so much in action, but in sound. And while the actors are getting ready... (*Three ACTORS take position on stage fr SOUND SCULPTURES, short improvisational vocal preces.*) I'll ask anybody to think of a place that is important to you... whatever comes... just call it out...
+CONDUCTOR: Thank you very much. (*GERALD returns to seat in audience.*) (*Audience laughter.*) Well, now. It can be a very difficult thing to think up stories. Lots of people... their minds go blank, when I say think up a story, something that'shappened to you, I don't know if that's happened to any of you tonight. or people feel sometimes, “Well, my story is.. I have something, but it's too silly.” Other people think, “What I thought of, I don't dare get up and say that in front of strangers.” Before we do some more, I want to invite you not to think of a story, but we'll do something a little bit different--images not so much in action, but in sound. And while the actors are getting ready... (*Three ACTORS take position on stage fr SOUND SCULPTURES, short improvisational vocal preces.*) I'll ask anybody to think of a place that is important to you... whatever comes... just call it out...
 
 AUDIENCE MEMBER: In..
 
@@ -619,7 +619,7 @@ CONDUCTOR: No. O.K.
 
 TESSA: I was waiting for my dog to come back to me.
 
-CONDUCTOR: “Waiting for my dog to come back to me." You mean, after you left?
+CONDUCTOR: “Waiting for my dog to come back to me.” You mean, after you left?
 
 TESSA: No.
 
@@ -747,7 +747,7 @@ CONDUCTOR:So you get to see him almost every day. That's great, Well. Thank you 
 
 MICHAEL: Oh, we need more than that!
 
-CONDUCTOR: We need a few more.. you can come! There are still some empty spaces. Yeah, sure! You're all waiting for me to... to... say “Yes," when you raise your hand... you can just... come. One... This is your chance, folks. You two ladies.. I can tell, you're dying to! Anybody else? Huh?
+CONDUCTOR: We need a few more.. you can come! There are still some empty spaces. Yeah, sure! You're all waiting for me to... to... say “Yes,” when you raise your hand... you can just... come. One... This is your chance, folks. You two ladies.. I can tell, you're dying to! Anybody else? Huh?
 
 LITTLE GIRL: (*Whispering*) Daddy!
 
@@ -1160,9 +1160,9 @@ CONDUCTOR: Is that right? Everybody's having a great time playing this. O.K.? So
 
 JUDY: I'm also.. I'm hauling him up.
 
-CONDUCTOR: You're hauling him up. And everybody's saying, “Hang him, hang him!"(*Audience laughter.*)
+CONDUCTOR: You're hauling him up. And everybody's saying, “Hang him, hang him!”(*Audience laughter.*)
 
-CONDUCTOR: O.K. So we've going to start this right when you start playing the game, as you're getting everything ready. Then just when you... he's being hanged, and when all che other people are saying “hang him," that's when Daddy is going to come in. O.K. ? So you... remember... set up, and when everybody is set up, then we'll begin. O.K. Watch!
+CONDUCTOR: O.K. So we've going to start this right when you start playing the game, as you're getting everything ready. Then just when you... he's being hanged, and when all che other people are saying “hang him,” that's when Daddy is going to come in. O.K. ? So you... remember... set up, and when everybody is set up, then we'll begin. O.K. Watch!
 
 (SETTING UP MUSIC:)
 
@@ -1254,7 +1254,7 @@ AUDIENCE MEMBER: Yes.
 
 CONDUCTOR: Such as, what kind of situation?
 
-AUDIENCE MEMBER: Well, “Let me have your advice." I'm being asked for my advice on the one hand, and on the other hand, it says, “But I know everything better..."
+AUDIENCE MEMBER: Well, “Let me have your advice.” I'm being asked for my advice on the one hand, and on the other hand, it says, “But I know everything better...”
 
 CONDUCTOR: Your parents are saying... uh, pretending to consult you, but really acting as if they know it all...
 
@@ -1278,7 +1278,7 @@ JO: Embarrassment and being touched. When my mother got up and sang on a stage i
 
 CONDUCTOR: O.K. When your mother got up and sang ona stage in a game show, both embarrassment and being touched.
 
-(*During the enactment, Bruce's partner indavertently starts to pull down his pants, He says “I feel embarrassed, but touched." Audience laughter. Applause.*)
+(*During the enactment, Bruce's partner indavertently starts to pull down his pants, He says “I feel embarrassed, but touched.” Audience laughter. Applause.*)
 
 CONDUCTOR: One more.
 
