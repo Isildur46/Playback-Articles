@@ -18,7 +18,7 @@ The word “reticulation” comes from biology and can be used to describe the v
 
 “网状结构”（reticulation）一词源自生物学，可用于描述叶脉或手掌的纹路。在我们的语境中，这一名称唤起了一人一故事剧场中社群团体所讲述的个人故事之间的相互关系。“叙事网络”构成了一种自发的、面对面的沟通模式，与基于理性、经过规划的方法形成鲜明对比。它是评估一人一故事剧场工作成效的工具，同时也可能阐释一种缓解现代生活中社会疏离感的普遍方法。这四个属性之间不存在等级关系，但我将从“故事”开始阐述。
 
-## Story
+## Story 故事
 
 We all know what a story is, whether it is a “true story,” a “newspaper story,” a “short story” in a magazine, a novel, or an actual lie, as in, “don’t tell me another made-up story now.” However, the kind of story we ask for in playback theatre is different from all of these everyday uses of the word. We seek a personal true experience articulated on the spot. This kind of story appears within a spectrum of conscious awareness, bounded by an obscure unknowing at one extreme (“I have no story”) and a stubborn rigidity on the other (“I need seven characters and three scenes in my story.”) We are hoping that the teller’s story will emerge from a zone of discoverable truth that lies within this spectrum. 
 
