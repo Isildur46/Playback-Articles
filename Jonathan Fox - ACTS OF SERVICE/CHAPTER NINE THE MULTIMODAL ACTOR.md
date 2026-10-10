@@ -41,9 +41,7 @@ Lee Strasberg has said that the “basic art of acting is a monstrous thing beca
 
 The capacity for “as if,” which is the basis of all theatre, has been considered in a negative light in psychology. For example, when Helene Deutsch referred to the “as if” personality type, she meant an individual existing on the borderline between psychosis and neurosis. A more recent exponent of the same position is Murray Bowen, whose concept of the “pseudo self” suggests an emotion-driven conformist eager to “pretend” in order to gain acceptance from others. “The pseudo-self is an actor and can be many different selfs [*sic*]. The list of pretends is extensive,” writes Bowen. The contrast is the “solid self” individual, who does not participate in the “fusion” phenomenon: “The solid self says, ‘This is who I am, what I believe, what I stand for, and what I will do or will not do' in a given situation.”[5]
 
-[5] Strasberg, in Cole & Chinoy, 624; Helene Deutsch is quoted by
-Anna (Freud, 168); Murray Bowen's concept can be found in
-Guerin. (pages 68-9)
+[5] Strasberg, in Cole & Chinoy, 624; Helene Deutsch is quoted by Anna (Freud, 168); Murray Bowen's concept can be found in Guerin. (pages 68-9)
 
 The spontaneous person--and this includes actors--will enter into a context of pretend from a solid self position, to use Murray's term. He or she will be able to act appropriately, adjusting frames of understanding with flexibility.
 
@@ -51,8 +49,7 @@ That actors suffer psychologically from being professional “as if'ers” is un
 
 What I am saying, then, is that when the actor is afraid, that is a green light. When the actor is anxious, that is a yellow light.
 
-That fear is positive and anxiety negative...of course, the subject is not so simple. Paul Tillich argues that anxiety is an inevitable part of being human. Moreover it is precisely when we lack the courage to face our ontological insecurity that we retreat into “nonbeing,” which often results in a need for
-Lcertitude. Thus a kind of deep-level anxiety may not be a sign of something wrong so much as proof of our openness to the conundrum of existence. It seems to me that in the theatre, as in other arenas, human beings find refuge in a language and gesture of affirmation which is too pat. It is a veneer. When such optimism conceals a sense of exploitation or misadventure, one had better stop and get out; when it masks apprehension about encountering the human condition, then bravery and continued effort are the only anodyne. One of Myerhoff's elderly informants eloquently speaks of the strength needed for the deepest kind of affirmation: 
+That fear is positive and anxiety negative...of course, the subject is not so simple. Paul Tillich argues that anxiety is an inevitable part of being human. Moreover it is precisely when we lack the courage to face our ontological insecurity that we retreat into “nonbeing,” which often results in a need for Lcertitude. Thus a kind of deep-level anxiety may not be a sign of something wrong so much as proof of our openness to the conundrum of existence. It seems to me that in the theatre, as in other arenas, human beings find refuge in a language and gesture of affirmation which is too pat. It is a veneer. When such optimism conceals a sense of exploitation or misadventure, one had better stop and get out; when it masks apprehension about encountering the human condition, then bravery and continued effort are the only anodyne. One of Myerhoff's elderly informants eloquently speaks of the strength needed for the deepest kind of affirmation: 
 
     “So when pain comes, I am patient. I shut up, active silence. I bear it; wait; even overnight, but I mean I *bear* it, I don't take a tranquilizer, a sleeping pill, some schnapps, or watch television. I stand before it, I call the pain out. After you go through this you discover you got choices, you become whole.”[6]
 

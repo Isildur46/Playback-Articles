@@ -184,7 +184,7 @@ The oral-literary dichotomy conforms in a general way to distinctions made by an
 
 口述与文字的二分法在总体上符合人类学家对原始社会与先进社会思维过程所作的区分。例如，古迪（Goody）在《野蛮思维的驯化》（*Domestication of the Savage Mind*）一书中指出，原始文化重视“具体科学”、“神话与魔法思维”以及“直觉/想象/感知”，而现代文化则重视“科学思维与知识”以及“抽象思维”。因此，这些区分似乎具有进化论的维度，尽管也有人激烈辩称，以克里特岛为代表的、以农业为基础且非侵略性的社会被帝国主义和更现代的族群所取代，并非进步的标志。[12]
 
-[12] For the basic dichotomy, see Goody, 147. Raina Eisler argues that the accepted Western-scholarly concept of civilization, associated with the development of literary skills, has also favored a male-oriented “dominator” perspective and slighted the features of more female-oriented, ”partnership" societies.
+[12] For the basic dichotomy, see Goody, 147. Raina Eisler argues that the accepted Western-scholarly concept of civilization, associated with the development of literary skills, has also favored a male-oriented “dominator” perspective and slighted the features of more female-oriented, “partnership” societies.
 
 [12] 关于这一基本二分法，参见古迪（Goody），第147页。雷娜·艾斯勒（Raina Eisler）指出，西方学术界公认的、与文字技能发展相关的“文明”概念，同样偏袒了以男性为中心的“支配者”视角，而忽视了更具女性特征的“伙伴关系”型社会的特质。
 

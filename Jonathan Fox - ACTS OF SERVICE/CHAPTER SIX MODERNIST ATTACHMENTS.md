@@ -35,8 +35,7 @@ Clearly a stimulus for this point of view was the sentimentality of the legitima
 
 Outside the experimental theatre, the resistance to catharsis has been more visceral than intellectual, stemming from a deep fear of the power of feelings. Thus in educational and community work, and even in therapeutic circles, there is more talk about safety and control than letting go. I think one reason why Moreno, despite his early appearance on the scene, always remained outside the establishment was his willingness to go all the way in the direction of purging feelings. The result, consistently, was high drama and a jolt to our habits of emotional distance and rationality.
 
-In my view the most truly cathartic groups are those like the
-Bread and Puppet Theatre, which are often able, with their stunning puppets, simple dialogue, and natural (outdoor) backgrounds, to create a feeling of awe not unlike what one imagines was the effect of a Medieval mystery play.
+In my view the most truly cathartic groups are those like the Bread and Puppet Theatre, which are often able, with their stunning puppets, simple dialogue, and natural (outdoor) backgrounds, to create a feeling of awe not unlike what one imagines was the effect of a Medieval mystery play.
 
 DENIGRATION OF PERFORMANCE
 
@@ -50,8 +49,7 @@ In the therapeutic theatre there exists a similar desire to protect the actors. 
 
 The experimental theatre has come closest to embodying the spirit of ordeal, but the question of redemption remains problematic: Artaud's metaphor for ordeal was the Black Plague, a demonic image. Grotowski is more on the mark, with his concept of the actor as one who engages in a sacrificial act. Nevertheless, Grotowski's published writings give the reader little concrete sense of what this sacrifice is *for*. Grotowski may want a secular *sacrum*, but the sense of salvation is thin.[8]
 
-[8] See Neihardt, 135; Fox 1987, 39-4I;Way, 280-281; Artaud,
-27; Grotowski, 35, 49.
+[8] See Neihardt, 135; Fox 1987, 39-4I;Way, 280-281; Artaud, 27; Grotowski, 35, 49.
 
 CONNECTING WITH THE MAINSTREAM
 
@@ -66,9 +64,7 @@ YEN FOR WORDS
 
 If one looks at the differentNST schools from the point of view of how much its practitioners have written about their work, the experimental theatre is distinctly in the lead. This is hardly surprising, since proponents of experimental theatre are the most steeped in art and intellect. It is also interesting that in spite of their clear rejection of the theatre of plays, a significant number of experimental groups edged closer and closer over time to doing plays. They hired writers to be part of their developmental process, even eventually performed Beckett, Sam Shepard, and the plays of a new school of writers for the experimental theatre, such as Megan Terry and Jean-Claude Van Itallie. One can conclude that the excitement and challenge of literary theatre exerted a strong enough pull on these companies that they turned their backs on their NST beginnings.[9]
 
-[9] At a performance by the Performance Group of Sam Shepard's
-The Tooth of Crime, which I believe marked a transition for that company towards scripted theatre, a revealing incident occurred: an audience member, seated on scaffolding in Jerry Rojo's environmental set, “crossed the line” by sounding a tambourine hanging next to her for use by an actor in a later scene. When she was quickly but quietly admonished and told not to touch, she turned rebellious, refusing to abandon the NST pattern of interactivity. When she continued to “participate,” the Performance
-Group had her expelled from the hall.
+[9] At a performance by the Performance Group of Sam Shepard's The Tooth of Crime, which I believe marked a transition for that company towards scripted theatre, a revealing incident occurred: an audience member, seated on scaffolding in Jerry Rojo's environmental set, “crossed the line” by sounding a tambourine hanging next to her for use by an actor in a later scene. When she was quickly but quietly admonished and told not to touch, she turned rebellious, refusing to abandon the NST pattern of interactivity. When she continued to “participate,” the Performance Group had her expelled from the hall.
 
 The same tendency is evident in educational theatre. The Theatre in Education (T.L.E.) concept, which comprises the presentation of a scripted play for a youth audience followed by a participatory workshop, has gained widespread acceptance. Participation and improvisational creativity are thus tempered with practice in aesthetic appreciation and play production.[10]
 

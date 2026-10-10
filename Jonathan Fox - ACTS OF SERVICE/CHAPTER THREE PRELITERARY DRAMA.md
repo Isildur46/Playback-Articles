@@ -1,4 +1,4 @@
-CHAPTER THREE PRELITERARY DRAMA
+# CHAPTER THREE PRELITERARY DRAMA
 
 A rtists see beyond their times, often pointing to the future by reaching “back.” Thus Picasso drew direct Linspiration from African masks; Stravinsky broke with classical tradition in his “Rites of Spring;” Artaud looked to Bali and Mexico for a reinvigoration of theatrical ideas. The intelligentsia, however, firmly wedded to a literary concept of art, lagged far behind. Astoundingly, it has been only in the 1980s that the clear connection between the French modernists and tribal art has been formally acknowledged and appreciated. Thus Gauguin's shift to Polynesia was much more than a flight *from*; it was also very much a voyage towards, and a large number of European modern artists, benefiting from exhibitions and private sales of tribal objects, joined him in spirit.[1] While the availability of tribal objects provided the painters and sculptors with tangible sources of inspiration, the problem has been more difficult for those in the performing arts. In music, jazz has provided a channel for contact with primal energies and ideas-and we can appreciate, in passing, the importance of improvisation in jazz--but for the most part the Doris Humphreys, the Arnold Schoenbergs, and the Jacques Copeaus have had to look into themselves, into that inner bridge, to help them find an alternative to the established cultural forms.
 
@@ -6,16 +6,13 @@ A rtists see beyond their times, often pointing to the future by reaching “bac
 
 Of all the arts, theatre has perhaps been tardiest in turning back to oral values, perhaps because theatre, of its very nature, has always to some extent incorporated them. A more telling possibility is that theatre's special potential to transform its audience has made a loosening of the literary hammerlock an especially risky business. The situation is changing now. A keen interest in connecting with nonliterarytheatrical experience motivates a number of directors, especially Peter Brook, and is an inspiration for Richard Schechner's latest book, *Between Theater and Anthropology*.
 
-Reporting on his research, Schechner knows the lesson Boas never understood. He is emphatic on the impossibility from our modernist perspective of capturing the nonliterary theatre past. For instance, he is interested in the dances of the
-Mudmen of Papua-New Guinea, but has to conclude that an understanding of the etiology of their theatrical inspiration is
-"not locatable."Commenting on the 30,000-year-old Indian
-Agnicayana ritual, which is still performed and which has been filmed, he writes: “What I am saying is that no matter what textual documentation exists, we do not know what Agnicayana was.”[2]
+Reporting on his research, Schechner knows the lesson Boas never understood. He is emphatic on the impossibility from our modernist perspective of capturing the nonliterary theatre past. For instance, he is interested in the dances of the Mudmen of Papua-New Guinea, but has to conclude that an understanding of the etiology of their theatrical inspiration is “not locatable.” Commenting on the 30,000-year-old Indian Agnicayana ritual, which is still performed and which has been filmed, he writes: “What I am saying is that no matter what textual documentation exists, we do not know what Agnicayana was.”[2]
 
 [2] Schechner 1985,59, 77.
 
 Accepting the ineluctable nature of our ignorance, it nevertheless feels useful to glean what we can about preliterary drama in order to clarify our understanding of contemporary scriptless theatre.
 
-THE PRELITERARY DRAMA PARADIGM
+## THE PRELITERARY DRAMA PARADIGM
 
 Based on experience in Asia and my own reading, by no means exhaustive, I have adduced the following characteristics for preliterary drama (to what extent the examples cited below can be called theatre will be addressed in chapter 15):
 
@@ -37,10 +34,9 @@ To be sure, many forms of preliterary drama utilize language, but we can be sens
 
 [5] Kennedy, 43,47.
 
-*Communal*. Above all, preliterary theatre is intimate. The
-Kung live in clans of 15 to 30 people, and everyone comes to the dances (if the mood is not right--for example, if there has been dissension in the camp, they will wait until the motivation for the dance has been restored), Peter Brook recounts an event he witnessed in the Near East:
+*Communal*. Above all, preliterary theatre is intimate. The Kung live in clans of 15 to 30 people, and everyone comes to the dances (if the mood is not right--for example, if there has been dissension in the camp, they will wait until the motivation for the dance has been restored), Peter Brook recounts an event he witnessed in the Near East:
 
-    On a certain day the carpenter and the village shopkeeper and the others go out into a field, and the whole village gathers around them and they play- sometimes for two hours, sometimes for three days or five days--a cycle of plays that have existed for several hundred years... I saw in a remote Iranian village one of the strangest things I have ever seen in theatre: A group of four hundred villagers, the entire population of the place, sitting under a tree and passing from laughter to outright sobbing-although they knew perfectly well the end of the story... and when [Hussein] was martyred the theatre form became a truth--there was no difference between past and present...[6]
+> On a certain day the carpenter and the village shopkeeper and the others go out into a field, and the whole village gathers around them and they play-sometimes for two hours, sometimes for three days or five days--a cycle of plays that have existed for several hundred years... I saw in a remote Iranian village one of the strangest things I have ever seen in theatre: A group of four hundred villagers, the entire population of the place, sitting under a tree and passing from laughter to outright sobbing-although they knew perfectly well the end of the story... and when [Hussein] was martyred the theatre form became a truth--there was no difference between past and present...[6]
 
 [6] Brook, 1979, 52.
 

@@ -911,7 +911,7 @@ CONDUCTOR: Impatient.
 
 ACTOR: Noisy.
 
-CONDUCTOR: O.K.So what I'd like to do, is the four of you who haven't been picked, why don't you take, like, "annoyed," and altogether standing together try to feel your way into doing something that's sort of all the same... it's goingto have to be a repetitive... I want to try... (*To TELLER*) Can I interrupt for a second here?
+CONDUCTOR: O.K.So what I'd like to do, is the four of you who haven't been picked, why don't you take, like, “annoyed,” and altogether standing together try to feel your way into doing something that's sort of all the same... it's goingto have to be a repetitive... I want to try... (*To TELLER*) Can I interrupt for a second here?
 
 BARBARA: Mm hmm.
 

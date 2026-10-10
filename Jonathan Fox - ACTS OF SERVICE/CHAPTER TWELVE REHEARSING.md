@@ -8,8 +8,7 @@ In experimental theatre, rehearsal is a duty word, suggesting the dispirited pra
 
 In some of the other branches of NST, rehearsal has not been so much an issue as performance itself. But we will examine that question in the next chapter.
 
-A group's need to rehearse correlates to its place on the
-NST-literary theatre spectrum. If gestures and/or words are fixed beforehand, for instance, then obviously rehearsal will be needed. In Playback Theatre, we customarily rehearse nothing more than our entrance, and this only when we are choosing something consciously theatrical-a matter of twenty minutes' work at the outside. In fact, for the most part, we do not rehearse at all.[2]
+A group's need to rehearse correlates to its place on the NST-literary theatre spectrum. If gestures and/or words are fixed beforehand, for instance, then obviously rehearsal will be needed. In Playback Theatre, we customarily rehearse nothing more than our entrance, and this only when we are choosing something consciously theatrical-a matter of twenty minutes' work at the outside. In fact, for the most part, we do not rehearse at all.[2]
 
 [2] Keith Johnstone writes about his foreshortened production process, in which the piece is being written as it is being rehearsed: “I don't see that the plays created in this way are inferior to those I struggle over, sometimes for years.” (Johnstone, 28)
 

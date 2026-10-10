@@ -68,7 +68,6 @@ Our ending up in that children's home that afternoon was an accident, but only b
 
 那个下午我们能来到那家儿童福利院，虽说是偶然，却也只是侥幸。因为自从在教堂礼堂的那场首演之后，我们就一直致力于在各种场景中演绎形形色色的人的故事。有许多人——或许就像被隔离在那家福利院里的孩子们一样——他们的声音往往不被倾听。更有无数人的故事，或多或少都过于凄惨，以至于别人不愿去听。如果将受压迫者定义为那些无处诉说自己故事的人，那么我们的使命便是为任何人、所有人提供一个被倾听的空间。这种使命感蕴含着精神层面的意义。这并非宣扬某种宣言的问题，而是必须付诸实践。而我想要写下的，正是这种生活方式——演员们通过服务邻里来活出生命，并在这一过程中活出真正的自我。[1]
 
-[1] The definition of oppression is attributable to Tim Dyce, a trainer from Sydney, Australia. For a fuller account of the performance described here, see Jo Salas's “Millbrook Morning,” Interplay, IV, I (March, 1993). Interplay is the newsletter of the
-International Playback Theatre Network.
+[1] The definition of oppression is attributable to Tim Dyce, a trainer from Sydney, Australia. For a fuller account of the performance described here, see Jo Salas's “Millbrook Morning,” Interplay, IV, I (March, 1993). Interplay is the newsletter of the International Playback Theatre Network.
 
 [1] 压迫的定义源自澳大利亚悉尼的培训师蒂姆·戴斯（Tim Dyce）。关于本文所述表演的更详细描述，请参阅乔·萨拉斯（Jo Salas）的《米尔布鲁克的早晨》（“Millbrook Morning”），载于《Interplay》第四卷第一期（1993年3月）。《Interplay》是国际一人一故事剧场网络的通讯刊物。

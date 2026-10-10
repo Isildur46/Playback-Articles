@@ -33,6 +33,7 @@ And the good leader will know when his or her own spontaneity is blocked, and be
 [4] See chapter 5, note 10.
 
 ## THE IMPORTANCE OF MOOD
+
 This discussion on leadership has emphasized a fluid shifting of creative initiatives in directing group life. Implicit in this discussion of the director's process is also an assumption that he or she has the spontaneity to alternate effectively between Programmatic and Mood frames. While the literary theatre can purport to make a separation between personal and professional concerns, the line is never so clear in holistically-oriented NST such as Playback Theatre. Let us take some examples (all real) of bad directing:
 
 *A director of some experience describes an improvisation exercise to a pair of student actors, gives them the signal to start, watches their performance, then shakes his head and tells them what they did wrong. The director gives a similar message to the next pair, and the next. The spirit in the room grows heavier and heavier, and the standard of execution falls as the criticisms mount.*
@@ -53,11 +54,9 @@ It was insensitive to pressure the woman to run--actually, it was probably insen
 
 It is inevitable that deep questions surface in such a workshop. The outburst of the woman may have been regrettable, perhaps, but as such it probably indicated a need for frank talk long before. the last evening. Once the lid was off, the issues most certainly should have been discussed directly. There was an opportunity here for the director/teacher to bring his students over a threshold, but he was unwilling to encounter them, either for fear of dealing with their reactions or because he himself was confused and did not dare appear so.
 
-Each of these examples reflect instances when directors betrayed an inability to integrate Mood concerns with their
-Program. It is perhaps instances such as these which give theatre a reputation for being cruel, and lead so many people over the age of ten to be terrified of dramatic activity.
+Each of these examples reflect instances when directors betrayed an inability to integrate Mood concerns with their Program. It is perhaps instances such as these which give theatre a reputation for being cruel, and lead so many people over the age of ten to be terrified of dramatic activity.
 
-There are directors who appreciate the value of attention to
-Mood but nevertheless bullishly stick to their Program because of an uneasiness about mood-oriented group process. The disclaimers of many directors regarding therapy may reflect such a discomfort. A prevalent way of looking at this issue is that Program process is art, while Mood process is therapy. If my definition of spontaneity has validity, then the NST director must be skillful in both spheres. Thus any NST director should acquire skills in Mood process leadership so that he or she can pay attention to someone in distress-or not pay attention-with confidence.
+There are directors who appreciate the value of attention to Mood but nevertheless bullishly stick to their Program because of an uneasiness about mood-oriented group process. The disclaimers of many directors regarding therapy may reflect such a discomfort. A prevalent way of looking at this issue is that Program process is art, while Mood process is therapy. If my definition of spontaneity has validity, then the NST director must be skillful in both spheres. Thus any NST director should acquire skills in Mood process leadership so that he or she can pay attention to someone in distress-or not pay attention-with confidence.
 
 When I started my career in improvisational theatre, I knew that anything might come up, not only in rehearsals, but in performances as well. In fact, the whole Playback idea was based on the premise that any story was appropriate, and so the most traumatic and emotional stories might be voiced. I did not have a fear of the artistic challenges of dramatizing the spontaneous story, but I did fear the Mood side of things, on two counts. First, I was afraid of strong emotion and suspected I might unwittingly prevent the enactments from achieving their full power. Second, I feared that such strong moods might be unleashed that I would not know how to handle them (as conductor, I felt particularly responsible to guide audience and actors in and out of highly emotional moments). So I acquired psychological training, which included personal therapy as well as professional education. It gave me what I needed-the skill and confidence to be as sure-footed in the arena of Mood as I was in the arena of art, and I was able, much more than before, to adequately shift between the Mood and Program modes both in rehearsals and performances.
 
@@ -70,8 +69,7 @@ That day had no direct bearing on actual theatre work, and yet I believe it help
 
 [5] When we needed help with our group process and did not have the expertise or detachment to provide it ourselves, we engaged a facilitator.
 
-There can be no recipe for which way to go, towards
-Program or Mood. It always depends on the context. Being able to go either way, and knowing when, is a mark of a spontaneous director. 
+There can be no recipe for which way to go, towards Program or Mood. It always depends on the context. Being able to go either way, and knowing when, is a mark of a spontaneous director. 
 
 ## “NICE” DIRECTORS
 
