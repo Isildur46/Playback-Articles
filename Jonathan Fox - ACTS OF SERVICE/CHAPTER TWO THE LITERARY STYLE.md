@@ -1,4 +1,4 @@
-CHAPTER TWO THE LITERARY STYLE 第二章 文字风格
+# CHAPTER TWO THE LITERARY STYLE 第二章 文字风格
 
 Now let us look at the characteristics of literary expression-remaining for now in ancient Greece.
 
