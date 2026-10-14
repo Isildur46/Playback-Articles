@@ -432,7 +432,7 @@ Furthermore, in regard to this whole subject we must distinguish between the lim
 
 What *is* important is to begin with an appreciation of this kind of improvisation as a valid form of theatrical performance with its own special qualities: its affinity for the natural, its moral earnestness, its sensitivity to the conjunction of dramatic and social, its ability to traverse the span between the mundane and the extraordinary. Aristotle wrote in the *Poetics* that tragedy and comedy began as “mere improvisation.”[12] Let us recognize the polemic tone of this “mere” and reevaluate. It is high time the siblings partial to oral theatre reclaim their seat at the table.
 
-*真正重要的*是，首先要认识到这种即兴表演是一种具有自身独特品质的有效戏剧表现形式：它与自然的亲和力、其道德上的诚挚、对戏剧性与社会性交汇点的敏锐感知，以及跨越平凡与非凡之间鸿沟的能力。亚里士多德在《诗学》中写道，悲剧和喜剧最初“仅仅只是即兴表演”。[12]让我们认清“仅仅只是”一词所蕴含的论战语气，并重新评估。现在正是那些偏爱口述戏剧的“兄弟姐妹”们重新获得一席之地的时候了。
+*真正重要的*是，首先要认识到这种即兴表演是一种具有自身独特品质的有效戏剧表现形式：它与自然的亲和力、其道德上的诚挚、对戏剧性与社会性交汇点的敏锐感知，以及跨越平凡与非凡之间鸿沟的能力。亚里士多德在《诗学》中写道，悲剧和喜剧最初“仅仅只是即兴表演”。[12]让我们认清并重新评估“仅仅只是”一词所蕴含的论战语气。现在正是那些偏爱口述戏剧的“兄弟姐妹”们重新获得一席之地的时候了。
 
 [12] Aristotle, 57.
 
