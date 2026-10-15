@@ -10,7 +10,7 @@ A rtists see beyond their times, often pointing to the future by reaching “bac
 
 Of all the arts, theatre has perhaps been tardiest in turning back to oral values, perhaps because theatre, of its very nature, has always to some extent incorporated them. A more telling possibility is that theatre's special potential to transform its audience has made a loosening of the literary hammerlock an especially risky business. The situation is changing now. A keen interest in connecting with nonliterary theatrical experience motivates a number of directors, especially Peter Brook, and is an inspiration for Richard Schechner's latest book, *Between Theater and Anthropology*.
 
-在所有艺术形式中，戏剧或许是最迟回归口述传统价值观念，这也许是因为戏剧以其本质而言，在某种程度上始终包含着这些价值。更有说服力的解释可能是：戏剧具有改变观众的特殊潜力，这使得摆脱文字的铁腕控制成为一项尤为冒险的尝试。如今，这种状况正在发生变化。对与非文字性戏剧体验建立联系的浓厚兴趣，激励着许多导演——尤其是彼得·布鲁克——并激发了理查德·谢克纳最新著作《在戏剧与人类学之间》的创作灵感。
+在所有艺术形式中，戏剧或许是最迟回归口述传统价值观念，这也许是因为戏剧以其本质而言，在某种程度上始终包含着这些价值。更有说服力的解释可能是：戏剧具有改变观众的特殊潜力，这使得摆脱文字的铁腕控制成为一项尤为冒险的尝试。如今，这种状况正在发生变化。对与非文字性戏剧体验建立联系的浓厚兴趣，激励着许多导演——尤其是彼得·布鲁克——并激发了理查·谢克纳最新著作《在戏剧与人类学之间》的创作灵感。
 
 Reporting on his research, Schechner knows the lesson Boas never understood. He is emphatic on the impossibility from our modernist perspective of capturing the nonliterary theatre past. For instance, he is interested in the dances of the Mudmen of Papua-New Guinea, but has to conclude that an understanding of the etiology of their theatrical inspiration is “not locatable.” Commenting on the 30,000-year-old Indian Agnicayana ritual, which is still performed and which has been filmed, he writes: “What I am saying is that no matter what textual documentation exists, we do not know what Agnicayana was.”[2]
 
