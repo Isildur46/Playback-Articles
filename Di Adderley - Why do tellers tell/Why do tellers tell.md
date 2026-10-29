@@ -6,7 +6,7 @@ By Di Adderley
 
 July 2004
 
-July 2004
+2004年7月
 
 ## Prologue 序言
 
