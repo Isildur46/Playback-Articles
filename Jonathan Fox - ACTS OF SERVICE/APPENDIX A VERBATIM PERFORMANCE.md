@@ -1216,7 +1216,7 @@ CONDUCTOR: Uh huh. Tell me what really happened when he came in.
 
 JUDY: I was punished very severely, and sent to my room, and not allowed to play with those friends for a long time.
 
-CONDUCTOR: Now, as you know, sometimes in Playback THeatre we ask people, particularly when they tell a story that has been an unhappy one, because it's theatre we can redo do it.. and how you would like to redo it... because in a way that was...
+CONDUCTOR: Now, as you know, sometimes in Playback Theatre we ask people, particularly when they tell a story that has been an unhappy one, because it's theatre we can redo do it.. and how you would like to redo it... because in a way that was...
 
 JUDY: That was it.
 
@@ -1224,7 +1224,7 @@ CONDUCTOR: Right.
 
 JUDY: That was just great.
 
-CONDUCTOR: Thank you very much, Judy, and thank youa udience actors. (*They all retun to their seats. Applause. Playback ACTORS return to stage.*) We 're going to do something now that we call pairs. And it is a way of dramatizing what I think the grown-ups know very well... and the kids, well, they may know, too.. We'll see. And that is, moments when we may feel one way inside and have to act another way outside... do you know what I mean? (*Audience laughter*) Or times when you're feeling more than one thing at once... And what you can do is just think of any moment... that when you're having two feelings... and just call it out, and we'll do it. Yah!
+CONDUCTOR: Thank you very much, Judy, and thank you audience actors. (*They all retun to their seats. Applause. Playback ACTORS return to stage.*) We 're going to do something now that we call pairs. And it is a way of dramatizing what I think the grown-ups know very well... and the kids, well, they may know, too.. We'll see. And that is, moments when we may feel one way inside and have to act another way outside... do you know what I mean? (*Audience laughter*) Or times when you're feeling more than one thing at once... And what you can do is just think of any moment... that when you're having two feelings... and just call it out, and we'll do it. Yah!
 
 AUDIENCE MEMBER: Fun, and..
 

@@ -34,7 +34,7 @@ In the silence of the clowns on this subject of category, we sense a perspective
 
 ## MISTRUST OF CATHARSIS 对宣泄的不信任
 
-We have observed the extent to which theNST movement has rejected the texuality of the literary theatre, but avoiding plays is not the same as inducing trance, a prime feature of our preliterary drama model. We have already observed that in preliterary enactment, intense physical activity over many hours can cause ecstatic states which in turn produces a “moment of transcendence,” after which there is a pleasurable state of “unwinding and untying.”[5] This post-performance feeling was integrally connected with the redressive purpose of preliterary drama.
+We have observed the extent to which the NST movement has rejected the texuality of the literary theatre, but avoiding plays is not the same as inducing trance, a prime feature of our preliterary drama model. We have already observed that in preliterary enactment, intense physical activity over many hours can cause ecstatic states which in turn produces a “moment of transcendence,” after which there is a pleasurable state of “unwinding and untying.”[5] This post-performance feeling was integrally connected with the redressive purpose of preliterary drama.
 
 我们已经观察到，NST 运动在多大程度上拒绝了文字戏剧的文本性，但回避剧本并不等同于诱发恍惚状态——这正是我们“前文字戏剧”模型的核心特征。我们此前已指出，在前文字演绎中，持续数小时的剧烈身体活动会引发狂喜状态，进而产生“超然的瞬间”，随后便进入一种愉悦的“放松与解脱”状态。[5]这种演出后的感受与前文字戏剧的修复性目的密不可分。
 
@@ -82,7 +82,7 @@ The educational theatre, in particular, has failed to value this concept of perf
 
 尤其是教育戏剧，未能重视“表演即试炼”这一概念。原因很明显——这再次是对文字文化的反应，后者崇尚文化的产物，却对创作的过程漠不关心。在此背景下进行戏剧创作，特别是对年轻演员而言，可能成为一种极具误导性的教育体验。它可能会演变成一种错误的试炼。正因如此，教育戏剧先驱布莱恩·韦伊对表演持谨慎态度，他更倾向于他所称的“已完成作品的分享”。
 
-In the therapeutic theatre there exists a similar desire to protect the actors. Explorations in the workshop setting are the norm, and when performances are planned, the presence of the coordinator-teacher on stage provides a safety net. Often the intention of performance-for prisoners, say, or a troupe of senior citizens--is to provide anego-building success experience for actors. Thus the level of danger is carefully modulated. Such experiences can be and are immensely valuable for special population actors, who develop as persons as a result. But they do not fulfll the full potential of performance, which demands that no less than the whole community be saved.
+In the therapeutic theatre there exists a similar desire to protect the actors. Explorations in the workshop setting are the norm, and when performances are planned, the presence of the coordinator-teacher on stage provides a safety net. Often the intention of performance-for prisoners, say, or a troupe of senior citizens--is to provide an ego-building success experience for actors. Thus the level of danger is carefully modulated. Such experiences can be and are immensely valuable for special population actors, who develop as persons as a result. But they do not fulfill the full potential of performance, which demands that no less than the whole community be saved.
 
 在治疗性戏剧中，也存在着类似的保护演员的愿望。在工作坊环境中进行探索是常态，而当计划进行演出时，协调员-教师在舞台上的存在则提供了一张安全网。通常，演出——例如面向囚犯或老年团体——的初衷是为演员提供一种建立自尊的成功体验。因此，风险程度会被谨慎地控制。对于特殊群体的演员而言，此类体验具有巨大的价值，他们也确实因此获得了个人成长。但这并未充分发挥表演的全部潜力，因为真正的表演要求拯救的是整个社群，绝不是少数人。
 

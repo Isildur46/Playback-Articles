@@ -1,6 +1,6 @@
 # CHAPTER FOUR PLAYBACK AS ORAL THEATRE 第四章 作为口述剧场的一人一故事
 
-With the theory of oral composition behind us, we can now turn to modern incarnations of oral theatre. In this chapter, I will demonstrate their affinity with the preliterarytheatre paradigm by analyzing a performance of Playback Theatre.[1]
+With the theory of oral composition behind us, we can now turn to modern incarnations of oral theatre. In this chapter, I will demonstrate their affinity with the preliterary theatre paradigm by analyzing a performance of Playback Theatre.[1]
 
 在梳理了口述创作理论之后，我们现在可以转向口述剧场的现代表现形式。在本章中，我将通过分析一场一人一故事剧场的演出，来阐明其与前文字戏剧范式的亲缘关系。[1]
 

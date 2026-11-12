@@ -10,7 +10,7 @@ Nevertheless, because human beings crave regularity as much as they crave novelt
 
 [2] Sweet, 134.
 
-But this is not all. In theNST, since the language is not pre-cooked, actors must be playwrights, too. To be a playwright requires a sense of form and a linguisticinventiveness, an intelligence, in fact, which comes from the ability to stand apart from experience. Much of the literary actors'task is to put themselves as fully as possible in the fictive moment, whereas the NST actor, while needing to be in just as fully, must also understand and comment on the scene by inventing it as it happens. In other words, the NST actor needs a particularly high level of spontaneity. Thus plasticity and emotional lability in an actor is not enough for NST; we must also include in the criteria the narrative skills of a storymaker.[3]
+But this is not all. In the NST, since the language is not pre-cooked, actors must be playwrights, too. To be a playwright requires a sense of form and a linguisticinventiveness, an intelligence, in fact, which comes from the ability to stand apart from experience. Much of the literary actors'task is to put themselves as fully as possible in the fictive moment, whereas the NST actor, while needing to be in just as fully, must also understand and comment on the scene by inventing it as it happens. In other words, the NST actor needs a particularly high level of spontaneity. Thus plasticity and emotional lability in an actor is not enough for NST; we must also include in the criteria the narrative skills of a storymaker.[3]
 
 
 [3] At the Drama Action Centre in Sydney, a major training school for NST approaches, being a “playwright” has been stressed as a key curriculum concept. See Batten.
